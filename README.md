@@ -38,6 +38,22 @@ Pull requests that do not follow these rules may be rejected.
 
 Our team will review your contribution and may request adjustments before merging.
 
+### Special Instructions for Contributors
+
+- **Improving English Text:**
+  - If you want to suggest improvements to the original English text, please edit the files in the `English_Reference` folder and submit a **Pull Request**.
+
+- **Pull Request Rules:**
+  - You may open a **single Pull Request that includes changes to multiple files, but only for one language per Pull Request**. If you wish to contribute to multiple languages, please open a separate Pull Request for each language.
+
+- **Editing .CSV Files:**
+  - Only edit the **third column** in CSV files, which contains the translation. Do not modify the first two columns (keys/identifiers and English reference text).
+
+- **Editing .TXT Files:**
+  - TXT files are free format and have no defined structure. When translating a TXT file, translate the entire file into your target language and **replace the original English text** with your translation. Do not keep the original English in the translated file.
+
+Please make sure to follow these guidelines to ensure your contribution can be reviewed and merged efficiently.
+
 ---
 
 ## Repository Scope & Conduct 🚫
