@@ -1,17 +1,18 @@
-﻿#b Race Rules #nb
-1. Only players who have applied to enter the
-Rainbow Race can participate.
+#b Rennregeln #nb
+1. Nur Spieler, die sich für das Rainbow Race 
+angemeldet haben, können teilnehmen.
 
-2. The goal of the race is to follow a designated
-path and go through Point Circles to obtain
-points and finish as fast as possible.
+2. Ziel des Rennens ist es, dem vorgegebenen Pfad 
+zu folgen und die Kreise zu durchfliegen, um 
+Punkte zu sammeln und so schnell wie möglich ins 
+Ziel zu kommen.
 
-3. During the Rainbow Race, if you go through
-the Point Circle that has item boxes, you can
-obtain items that can attack others or protect
-yourself.
-(All items in your inventory are unavailable for
-use during the race)
+3. Während des Rainbow Race könnt ihr Gegenstände 
+erhalten, wenn ihr durch Kreise mit Itemboxen fliegt.
+Diese Gegenstände könnt ihr nutzen, um andere Spieler 
+anzugreifen oder euch selbst zu schützen.
+(Hinweis: Alle Gegenstände im Inventar können während 
+des Rennens nicht verwendet werden.)
 
-4. Only characters that are online at the start of
-the Rainbow Race can participate in the race.
+4. Nur Charaktere, die beim Start des Rainbow Race 
+online sind, können am Rennen teilnehmen.
