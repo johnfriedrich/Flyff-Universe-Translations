@@ -42,7 +42,7 @@ TEXTCLIENT_DEVELOPER,Dev,Dev
 TEXTCLIENT_GAMEMASTER,Game Master,Game Master
 TEXTCLIENT_MODERATOR,MOD,MOD
 TEXTCLIENT_VENDOR_NPC,[Vendor],[Tindero]
-TEXTCLIENT_APP_CHAT,Chatting,Chatting
+TEXTCLIENT_APP_CHAT,Chatting,Nakikipag-usap
 TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Ang iyong login o password ay hindi tama.
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,Pumalya ang Authentication. Subukan muli.
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Position: x = %f, y = %f, z = %f, angle = %f"
@@ -58,8 +58,8 @@ TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,Hindi magawang gamitin haban
 TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,Hindi ka pwedeng lumipad dito.
 TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,Hindi ka pwedeng magsalita.
 TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,Nakatanggap ka ng %d minuto na parusa dahil sa sobrang pakikipag-chat.
-TEXTCLIENT_APP_MOTION,Motion,Motion
-TEXTCLIENT_APP_CHARINFO,Character,Character
+TEXTCLIENT_APP_MOTION,Motion,Kilos
+TEXTCLIENT_APP_CHARINFO,Character,Karakter
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s recovery limitado sa %d.
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,Pakihintay ng saglit bago ulit gamitin ang item na ito.
 TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,Pindutin ang Lodestar para muling mabuhay(Pinakamalapit na Bayan) o gumamit ng item para mabuhay sa kasalukuyang kinalalagyan.
@@ -67,11 +67,11 @@ TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,Pindutin ang 
 TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,Hindi mo pwedeng atakihin ang monster na kinakalaban ang ibang manlalaro.
 TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,Hindi ka pwedeng umalis habang nasa laban.
 TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,Level up! Pwede ka nang maglagay ng stats sa iyong character window.
-TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,Congratulations! Level up!
+TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,Pagbati! Sa pagtaas ng antas!
 TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,Gusto mo bang gamitin ang kasalukuyang Stat setup?
 TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,Ang iyong stat values ay magrerest pagkatapos ng 1st job change.
 TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,This feature is only available with the Extended Battle Pass or Hero Quest.
-TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,You can swap stat pages in %d seconds.
+TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,Maaring magpalit ng stat pages sa %d segundo.
 TEXTCLIENT_ADMIN_STATE,Status,Status
 TEXTCLIENT_ADMIN_NORMAL,Normal,Normal
 TEXTCLIENT_SPEED_VERYSLOW,Very slow,Napakabagal
@@ -124,53 +124,53 @@ TEXTCLIENT_COMMUNITY,Community,Community
 TEXTCLIENT_HELPER,Helper,Helper
 TEXTCLIENT_APP_ITEM_DURATION,Duration,Duration
 TEXTCLIENT_APP_MESSENGER,Messenger,Messenger
-TEXTCLIENT_APP_PARTY,Party,Party
-TEXTCLIENT_APP_GUILD,Guild,Guild
-TEXTCLIENT_APP_COUPLE,Couple,Couple
+TEXTCLIENT_APP_PARTY,Party,Partido
+TEXTCLIENT_APP_GUILD,Guild,Kapisanan
+TEXTCLIENT_APP_COUPLE,Couple,Kasintahan
 TEXTCLIENT_APP_HELP,Help,Help
 TEXTCLIENT_APP_HELP_TIPS,Tips,Tips
 TEXTCLIENT_APP_FAQ,FAQ,FAQ
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Wiki Help
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Hindi ka pwedeng gumawa ng Party sa Guild Siege arena.
-TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Hindi ka pwedeng mag-imbita ng ibang manlalaro na sumali sa party habang nasa party PvP.
-TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Hindi ka pwedeng sumali sa party habang nasa duwelo.
-TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Hindi ka pwedeng sumali sa guild habang nasa duwelo.
-TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,Hindi ka pwedeng mag-imbita ng iba na sumali sa iyong party habang nakikipaglaban.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Hindi ka pwedeng gumawa ng Partido sa arena ng Kapisanang Pagkubkob.
+TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Hindi ka pwedeng mag-imbita ng ibang manlalaro na sumali sa party habang nasa partido PvP.
+TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Hindi ka pwedeng sumali sa partido habang nasa duwelo.
+TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Hindi ka pwedeng sumali sa kapisanan habang nasa duwelo.
+TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,Hindi ka pwedeng mag-imbita ng iba na sumali sa iyong partido habang nakikipaglaban.
 TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,Hindi pwedeng imbitahin ang player na galing sa ibang channel.
 TEXTCLIENT_PARTYOTHER,%s is currently in another party.,%s ay kasalukuyang nasa ibang party.
 TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s ay nasa inyong party na.
 TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,Ang manlalaro ay hindi pwedeng sumali sa party.
 TEXTCLIENT_PARTYFAILINVITATE,%s has refused to join the party.,%s ay tumanggi na sumali sa party.
-TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,%s ay kasalukuyang hindi tumatanggap ng Party Invitations
-TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,Ang party leader lamang ang pwedeng mag-imbita ng mga bagong miyembro.
-TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,Ang pinakamaraming bilang na 8 katao na pwedeng sumali sa party ay nakamit na.
-TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,Hindi ka nagtagumpay makasali sa party.
-TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,Hindi ka nagtagumpay makasali sa guild.
+TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,%s ay kasalukuyang hindi tumatanggap imbitasyon sa partido
+TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,Ang pinuno ng partido lamang ang pwedeng mag-imbita ng mga bagong miyembro.
+TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,Ang pinakamaraming bilang na 8 katao na pwedeng sumali sa partido ay nakamit na.
+TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,Hindi ka nagtagumpay makasali sa partido.
+TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,Hindi ka nagtagumpay makasali sa kapisanan.
 TEXTCLIENT_PARTYCREATE,Party has been created.,Ang party ay nabuo.
-TEXTCLIENT_PARTYJOIN,%s has joined the party.,Si %s ay sumali sa party.
-TEXTCLIENT_PARTYREMOVE,%s has left the party.,Si %s ay umalis sa party.
-TEXTCLIENT_PARTYEXIT,You have left the party.,Ikaw ay umalis sa party.
-TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,Ang party ay nabuwag.
+TEXTCLIENT_PARTYJOIN,%s has joined the party.,Si %s ay sumali sa partido.
+TEXTCLIENT_PARTYREMOVE,%s has left the party.,Si %s ay umalis sa partido.
+TEXTCLIENT_PARTYEXIT,You have left the party.,Ikaw ay umalis sa partido.
+TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,Ang partido ay nabuwag.
 TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,Napili mo ang Lodelight bilang iyong re-spawn point.
-TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,Ang Party Leader lang ang pwedeng maglipat ng Leader Status sa ibang miyembro ng party 
-TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,Hindi mo pwedeng ipasa ang party leadership sa offline na manlalaro.
-TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,Ikaw na ang Party Leader.
-TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,Hindi magawang ibahin ang party leader habang nasa party duel.
-TEXTCLIENT_PARTY_TROUPEUP,Party level increased to 10.,Tumaas na ang party level sa 10.
-TEXTCLIENT_PARTY_LEVELUP,Party level increased.,Tumaas ang party level.
-TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose another one.,Ang pangalan ng party ay nagamit na. Pumili ulit ng iba.
-TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,Ang pangalan ng party na ito ay naglalaman ng mga titik o mga salita na hindi pwedeng gamitin.
+TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,Ang Pinuno ng Partido lang ang pwedeng maglipat ng Leader Status sa ibang miyembro ng partido
+TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,Hindi mo pwedeng ipasa ang pamumuno ng partido sa offline na manlalaro.
+TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,Ikaw na ang Pinuno ng Partido.
+TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,Hindi magawang ibahin ang pinuno ng partido habang nasa duelo ng partido.
+TEXTCLIENT_PARTY_TROUPEUP,Party level increased to 10.,Tumaas na ang party sa antas 10.
+TEXTCLIENT_PARTY_LEVELUP,Party level increased.,Tumaas ang antas ng partido.
+TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose another one.,Ang pangalan ng partido ay nagamit na. Pumili ulit ng iba.
+TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,Ang pangalan ng partido na ito ay naglalaman ng mga titik o mga salita na hindi pwedeng gamitin.
 TEXTCLIENT_ERROR,Error,Error
-TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,Ang party ay ginawa ng Advanced Party.
-TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,Ang pangalan ng Party ay pinalitan sa %s.
-TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,Ang party leader lang ang pwedeng gumamit ng party skills.
-TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Ang party mo ay wala pa sa sapat na level.
+TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,Ang party ay ginawa ng Mataas na Partido.
+TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,Ang pangalan ng Partido ay pinalitan sa %s.
+TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,Ang pinuno ng partido lang ang pwedeng gumamit ng party skills.
+TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Ang partido mo ay wala pa sa sapat na level.
 TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,Hindi magamit ang skill. Hindi sapat ang party experience.
 TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,Ginagamit mo pa ang %s party skill. Subukan ulit mamaya.
 TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,Ang party skill na %s ay ginamit.
-TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,Ang epekto ng %s ay papatapos na.
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,Malapit nang mawala ang epekto ng %s.
 TEXTCLIENT_ACR_FAME01,Rogue,Rogue
 TEXTCLIENT_ACR_FAME02,Outlaw,Outlaw
 TEXTCLIENT_ACR_FAME03,Vigilante,Vigilante
