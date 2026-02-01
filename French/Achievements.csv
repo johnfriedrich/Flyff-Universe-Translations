@@ -105,8 +105,8 @@ ACHIEVEMENT_KILL_RYARCHER_NAME,Kanonicus,Kanonicus
 ACHIEVEMENT_KILL_RYMAGI_NAME,Mage Redcloud,Mage Redcloud
 ACHIEVEMENT_KILL_RYWARRIOR_NAME,Taiaha,Taiaha
 ACHIEVEMENT_KILL_SKELWOLF_NAME,Hellhound,Hellhound
-ACHIEVEMENT_KILL_RYBARGA_NAME,Chief Keokuk,Chief Keokuk
-ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,[God of Death] Demonic Ankou
+ACHIEVEMENT_KILL_RYBARGA_NAME,Chief Keokuk,Chef Keokuk
+ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,[Dieu de la Mort] Ankou Démoniaque 
 ACHIEVEMENT_KILL_AIBATT_LVL1,Aibatt Slayer 1,Tueur d'Aibatt I
 ACHIEVEMENT_KILL_AIBATT_LVL2,Aibatt Slayer 2,Tueur d'Aibatt II
 ACHIEVEMENT_KILL_AIBATT_LVL3,Aibatt Slayer 3,Tueur d'Aibatt III
@@ -547,61 +547,61 @@ ACHIEVEMENT_KILL_KRAKEN_LVL2,Kraken Slayer 2,Tueur de Craken II
 ACHIEVEMENT_KILL_KRAKEN_LVL3,Kraken Slayer 3,Tueur de Craken III
 ACHIEVEMENT_KILL_KRAKEN_LVL4,Kraken Slayer 4,Tueur de Craken IV
 ACHIEVEMENT_KILL_KRAKEN_LVL5,Kraken Hunter,Chasseur de Craken
-ACHIEVEMENT_KILL_DREADFIN_LVL1,Dreadfin Slayer 1,Dreadfin Slayer 1
-ACHIEVEMENT_KILL_DREADFIN_LVL2,Dreadfin Slayer 2,Dreadfin Slayer 2
-ACHIEVEMENT_KILL_DREADFIN_LVL3,Dreadfin Slayer 3,Dreadfin Slayer 3
-ACHIEVEMENT_KILL_DREADFIN_LVL4,Dreadfin Slayer 4,Dreadfin Slayer 4
-ACHIEVEMENT_KILL_DREADFIN_LVL5,Dreadfin Hunter,Dreadfin Hunter
-ACHIEVEMENT_KILL_DREADSCALE_LVL1,Dreadscale Slayer 1,Dreadscale Slayer 1
-ACHIEVEMENT_KILL_DREADSCALE_LVL2,Dreadscale Slayer 2,Dreadscale Slayer 2
-ACHIEVEMENT_KILL_DREADSCALE_LVL3,Dreadscale Slayer 3,Dreadscale Slayer 3
-ACHIEVEMENT_KILL_DREADSCALE_LVL4,Dreadscale Slayer 4,Dreadscale Slayer 4
-ACHIEVEMENT_KILL_DREADSCALE_LVL5,Dreadscale Hunter,Dreadscale Hunter
-ACHIEVEMENT_KILL_LUMINFIN_LVL1,Luminfin Slayer 1,Luminfin Slayer 1
-ACHIEVEMENT_KILL_LUMINFIN_LVL2,Luminfin Slayer 2,Luminfin Slayer 2
-ACHIEVEMENT_KILL_LUMINFIN_LVL3,Luminfin Slayer 3,Luminfin Slayer 3
-ACHIEVEMENT_KILL_LUMINFIN_LVL4,Luminfin Slayer 4,Luminfin Slayer 4
-ACHIEVEMENT_KILL_LUMINFIN_LVL5,Luminfin Hunter,Luminfin Hunter
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL1,Hundur Sharpfoot Slayer 1,Hundur Sharpfoot Slayer 1
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL2,Hundur Sharpfoot Slayer 2,Hundur Sharpfoot Slayer 2
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL3,Hundur Sharpfoot Slayer 3,Hundur Sharpfoot Slayer 3
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL4,Hundur Sharpfoot Slayer 4,Hundur Sharpfoot Slayer 4
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL5,Hundur Sharpfoot Hunter,Hundur Sharpfoot Hunter
-ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,Samoset Slayer 1
-ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,Samoset Slayer 2
-ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,Samoset Slayer 3
-ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,Samoset Slayer 4
-ACHIEVEMENT_KILL_RYSENTRY_LVL5,Samoset Hunter,Samoset Hunter
-ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,Kyouchish Slayer 1
-ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,Kyouchish Slayer 2
-ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,Kyouchish Slayer 3
-ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,Kyouchish Slayer 4
-ACHIEVEMENT_KILL_RYGUARD_LVL5,Kyouchish Hunter,Kyouchish Hunter
-ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,Kanonicus Slayer 1
-ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,Kanonicus Slayer 2
-ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,Kanonicus Slayer 3
-ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,Kanonicus Slayer 4
-ACHIEVEMENT_KILL_RYARCHER_LVL5,Kanonicus Hunter,Kanonicus Hunter
-ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,Mage Redcloud Slayer 1
-ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,Mage Redcloud Slayer 2
-ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,Mage Redcloud Slayer 3
-ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,Mage Redcloud Slayer 4
-ACHIEVEMENT_KILL_RYMAGI_LVL5,Mage Redcloud Hunter,Mage Redcloud Hunter
-ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,Taiaha Slayer 1
-ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,Taiaha Slayer 2
-ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,Taiaha Slayer 3
-ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,Taiaha Slayer 4
-ACHIEVEMENT_KILL_RYWARRIOR_LVL5,Taiaha Hunter,Taiaha Hunter
-ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,Hellhound Slayer 1
-ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,Hellhound Slayer 2
-ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,Hellhound Slayer 3
-ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,Hellhound Slayer 4
-ACHIEVEMENT_KILL_SKELWOLF_LVL5,Hellhound Hunter,Hellhound Hunter
-ACHIEVEMENT_KILL_RYBARGA_LVL1,Chief Keokuk Slayer 1,Chief Keokuk Slayer 1
-ACHIEVEMENT_KILL_RYBARGA_LVL2,Chief Keokuk Slayer 2,Chief Keokuk Slayer 2
-ACHIEVEMENT_KILL_RYBARGA_LVL3,Chief Keokuk Slayer 3,Chief Keokuk Slayer 3
-ACHIEVEMENT_KILL_RYBARGA_LVL4,Chief Keokuk Slayer 4,Chief Keokuk Slayer 4
-ACHIEVEMENT_KILL_RYBARGA_LVL5,Chief Keokuk Hunter,Chief Keokuk Hunter
+ACHIEVEMENT_KILL_DREADFIN_LVL1,Dreadfin Slayer 1,Tueur de Dreadfin 1
+ACHIEVEMENT_KILL_DREADFIN_LVL2,Dreadfin Slayer 2,Tueur de Dreadfin 2
+ACHIEVEMENT_KILL_DREADFIN_LVL3,Dreadfin Slayer 3,Tueur de Dreadfin 3
+ACHIEVEMENT_KILL_DREADFIN_LVL4,Dreadfin Slayer 4,Tueur de Dreadfin 4
+ACHIEVEMENT_KILL_DREADFIN_LVL5,Dreadfin Hunter,Encas de la mer
+ACHIEVEMENT_KILL_DREADSCALE_LVL1,Dreadscale Slayer 1,Tueur de Dreadscale 1
+ACHIEVEMENT_KILL_DREADSCALE_LVL2,Dreadscale Slayer 2,Tueur de Dreadscale 2
+ACHIEVEMENT_KILL_DREADSCALE_LVL3,Dreadscale Slayer 3,Tueur de Dreadscale 3
+ACHIEVEMENT_KILL_DREADSCALE_LVL4,Dreadscale Slayer 4,Tueur de Dreadscale 4
+ACHIEVEMENT_KILL_DREADSCALE_LVL5,Dreadscale Hunter,Sluuurp
+ACHIEVEMENT_KILL_LUMINFIN_LVL1,Luminfin Slayer 1,Tueur de Luminfin 1
+ACHIEVEMENT_KILL_LUMINFIN_LVL2,Luminfin Slayer 2,Tueur de Luminfin 2
+ACHIEVEMENT_KILL_LUMINFIN_LVL3,Luminfin Slayer 3,Tueur de Luminfin 3
+ACHIEVEMENT_KILL_LUMINFIN_LVL4,Luminfin Slayer 4,Tueur de Luminfin 4
+ACHIEVEMENT_KILL_LUMINFIN_LVL5,Luminfin Hunter,Lumos
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL1,Hundur Sharpfoot Slayer 1,Tueur de Hundur 1
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL2,Hundur Sharpfoot Slayer 2,Tueur de Hundur 2
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL3,Hundur Sharpfoot Slayer 3,Tueur de Hundur 3
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL4,Hundur Sharpfoot Slayer 4,Tueur de Hundur 4
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL5,Hundur Sharpfoot Hunter,Tueur aux lames acérées
+ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,Tueur de Samoset 1
+ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,Tueur de Samoset 2
+ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,Tueur de Samoset 3
+ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,Tueur de Samoset 4
+ACHIEVEMENT_KILL_RYSENTRY_LVL5,Samoset Hunter,Marcheur d’écho
+ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,Tueur de Kyouchish 1
+ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,Tueur de Kyouchish 2
+ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,Tueur de Kyouchish 3
+ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,Tueur de Kyouchish 4
+ACHIEVEMENT_KILL_RYGUARD_LVL5,Kyouchish Hunter,Marque des ténèbres 
+ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,Tueur de Kanonicus 1
+ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,Tueur de Kanonicus 2
+ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,Tueur de Kanonicus 3
+ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,Tueur de Kanonicus 4
+ACHIEVEMENT_KILL_RYARCHER_LVL5,Kanonicus Hunter,Exécuteur 
+ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,Tueur de Mage Redcloud 1
+ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,Tueur de Mage Redcloud 2
+ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,Tueur de Mage Redcloud 3
+ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,Tueur de Mage Redcloud 4
+ACHIEVEMENT_KILL_RYMAGI_LVL5,Mage Redcloud Hunter,Éclat de sang
+ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,Tueur de Taiaha 1
+ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,Tueur de Taiaha 2
+ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,Tueur de Taiaha 3
+ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,Tueur de Taiaha 4
+ACHIEVEMENT_KILL_RYWARRIOR_LVL5,Taiaha Hunter,Chant de guerre
+ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,Tueur de Hellhound 1
+ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,Tueur de Hellhound 2
+ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,Tueur de Hellhound 3
+ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,Tueur de Hellhound 4
+ACHIEVEMENT_KILL_SKELWOLF_LVL5,Hellhound Hunter,Issu des ténèbres
+ACHIEVEMENT_KILL_RYBARGA_LVL1,Chief Keokuk Slayer 1,Tueur de Chef Keokuk 1
+ACHIEVEMENT_KILL_RYBARGA_LVL2,Chief Keokuk Slayer 2,Tueur de Chef Keokuk 2
+ACHIEVEMENT_KILL_RYBARGA_LVL3,Chief Keokuk Slayer 3,Tueur de Chef Keokuk 3
+ACHIEVEMENT_KILL_RYBARGA_LVL4,Chief Keokuk Slayer 4,Tueur de Chef Keokuk 4
+ACHIEVEMENT_KILL_RYBARGA_LVL5,Chief Keokuk Hunter,Chasseur de Chef Keokuk 
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL1,Red Meteonyker Hunter 1,Tueur de Meteonyker Rouge I
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL2,Red Meteonyker Hunter 2,Tueur de Meteonyker Rouge II
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL3,Red Meteonyker Hunter 3,Tueur de Meteonyker Rouge III
@@ -637,16 +637,16 @@ ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL2,Beast King Khan Hunter 2,Chasseur de Remardd
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL3,Beast King Khan Hunter 3,Chasseur de Remardda III
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL4,Beast King Khan Hunter 4,Chasseur de Remardda IV
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL5,Beast King Khan Killer,Tueur de Remardda
-ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[Shade Lieutenant] Kriton Hunter 1
-ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[Shade Lieutenant] Kriton Hunter 2
-ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[Shade Lieutenant] Kriton Hunter 3
-ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[Shade Lieutenant] Kriton Hunter 4
-ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[Shade Lieutenant] Kriton Killer
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[God of Death] Demonic Ankou Hunter 1
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[God of Death] Demonic Ankou Hunter 2
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[God of Death] Demonic Ankou Hunter 3
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[God of Death] Demonic Ankou Hunter 4
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[God of Death] Demonic Ankou Killer
+ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[Lieutenant des Ombres] Chasseur de Kriton 1
+ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[Lieutenant des Ombres] Chasseur de Kriton 2
+ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[Lieutenant des Ombres] Chasseur de Kriton 3
+ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[Lieutenant des Ombres] Chasseur de Kriton 4
+ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[Lieutenant des Ombres] Tueur de Kriton
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[Dieu de la Mort] Chasseur Démonique d’Ankou 1
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[Dieu de la Mort] Chasseur Démonique d’Ankou 2
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[Dieu de la Mort] Chasseur Démonique d’Ankou 3
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[Dieu de la Mort] Chasseur Démonique d’Ankou 4
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[Dieu de la Mort] Tueur Démonique d’Ankou
 ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to get a permanent damage bonus against them.,Tuez ces monstres pour obtenir un bonus de dégâts permanent contre eux.
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,Mangeur d'yeux d'Aibatts
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,Pro de la cueillette
@@ -736,16 +736,16 @@ ACHIEVEMENT_KILL_NAGA_TITLE,Cold Blooded,Sang Froid
 ACHIEVEMENT_KILL_DORIAN_TITLE,Fishy,Poissonneux
 ACHIEVEMENT_KILL_OKEAN_TITLE,Waterlogged,Gorgé d'Eau
 ACHIEVEMENT_KILL_KRAKEN_TITLE,Sea King,Roi de la Mer
-ACHIEVEMENT_KILL_DREADFIN_TITLE,Sea Snack,Sea Snack
-ACHIEVEMENT_KILL_DREADSCALE_TITLE,Slurp,Slurp
+ACHIEVEMENT_KILL_DREADFIN_TITLE,Sea Snack,Encas de la mer
+ACHIEVEMENT_KILL_DREADSCALE_TITLE,Slurp,Sluuurp
 ACHIEVEMENT_KILL_LUMINFIN_TITLE,Lumos,Lumos
-ACHIEVEMENT_KILL_PUPPETWOLF_TITLE,Sharp Slayer,Sharp Slayer
-ACHIEVEMENT_KILL_RYSENTRY_TITLE,Echowalker,Echowalker
-ACHIEVEMENT_KILL_RYGUARD_TITLE,Shadowbrand,Shadowbrand
-ACHIEVEMENT_KILL_RYARCHER_TITLE,Judicator,Judicator
-ACHIEVEMENT_KILL_RYMAGI_TITLE,Bloodflare,Bloodflare
-ACHIEVEMENT_KILL_RYWARRIOR_TITLE,Warchant,Warchant
-ACHIEVEMENT_KILL_SKELWOLF_TITLE,Hellborn,Hellborn
+ACHIEVEMENT_KILL_PUPPETWOLF_TITLE,Sharp Slayer,Tueur aux lames acérées
+ACHIEVEMENT_KILL_RYSENTRY_TITLE,Echowalker,Marcheur d’écho
+ACHIEVEMENT_KILL_RYGUARD_TITLE,Shadowbrand,Marque des ténèbres
+ACHIEVEMENT_KILL_RYARCHER_TITLE,Judicator,Exécuteur
+ACHIEVEMENT_KILL_RYMAGI_TITLE,Bloodflare,Éclat de sang
+ACHIEVEMENT_KILL_RYWARRIOR_TITLE,Warchant,Chant de guerre
+ACHIEVEMENT_KILL_SKELWOLF_TITLE,Hellborn,Issu des ténèbres
 ACHIEVEMENT_KILL_RYBARGA_TITLE,Keokai,Keokai
 ACHIEVEMENT_KILL_REDMETEONYKER_TITLE,Reduced to Ashes,Dieu Dragon
 ACHIEVEMENT_KILL_CAVEMANCHIEF_TITLE,Cave Dweller,Troglodyte
@@ -754,8 +754,8 @@ ACHIEVEMENT_KILL_GREATKRAKEN_TITLE,Drowned,Coulé
 ACHIEVEMENT_KILL_PYRAMIDGUARDIAN_TITLE,Risen,Sanctueur
 ACHIEVEMENT_KILL_CRYSTALDEVIL_TITLE,Numb,Engourdi
 ACHIEVEMENT_KILL_BEASTKINGKHAN_TITLE,Conqueror of the Wilds,Conquérant de Désiréa
-ACHIEVEMENT_KILL_SHADEKRITON_TITLE,Shade Hunter,Shade Hunter
-ACHIEVEMENT_KILL_BEHEMOTH03_TITLE,God of Death,God of Death
+ACHIEVEMENT_KILL_SHADEKRITON_TITLE,Shade Hunter,Chasseur d’ombres
+ACHIEVEMENT_KILL_BEHEMOTH03_TITLE,God of Death,Dieu de la mort
 ACHIEVEMENT_JUMP_NAME,Jump,Apprenti cascadeur
 ACHIEVEMENT_JUMP_DESC,Jump a certain number of times.,Sauter un certain nombre de fois.
 ACHIEVEMENT_JUMP_TITLE,Jump Master,Cascadeur
@@ -767,7 +767,7 @@ ACHIEVEMENT_PLAY_TIME_LVL3,FlyFF Devotee!,Passionné(e) de FlyFF !
 ACHIEVEMENT_PLAY_TIME_LVL4,FlyFF Enthusiast!,Enthousiaste de FlyFF !
 ACHIEVEMENT_PLAY_TIME_LVL5,FlyFF Addict!,Accro à FlyFF !
 ACHIEVEMENT_PLAY_TIME_LVL6,FlyFF Fanatic!,Amoureux de FlyFF !
-ACHIEVEMENT_PLAY_TIME_TITLE,FlyFF Fanatic,Fanatique Flyff
+ACHIEVEMENT_PLAY_TIME_TITLE,FlyFF Fanatic,Fanatique de Flyff
 ACHIEVEMENT_LEVEL_NAME,Level,Niveau
 ACHIEVEMENT_LEVEL_DESC,Reach a certain level to earn rewards.,Atteignez un niveau précis pour obtenir des récompenses.
 ACHIEVEMENT_LEVEL_LVL1,Beginner Level 1,Débutant niveau 1
@@ -779,9 +779,9 @@ ACHIEVEMENT_LEVEL_LVL6,Adept Level 3,Adepte niveau 3
 ACHIEVEMENT_LEVEL_LVL7,Expert Level 1,Expert niveau 1
 ACHIEVEMENT_LEVEL_LVL8,Expert Level 2,Expert niveau 2
 ACHIEVEMENT_LEVEL_LVL9,Expert Level 3,Expert niveau 3
-ACHIEVEMENT_LEVEL_LVL10,Professional Level 1,Professional Level 1
-ACHIEVEMENT_LEVEL_LVL11,Professional Level 2,Professional Level 2
-ACHIEVEMENT_LEVEL_LVL12,Professional Level 3,Professional Level 3
+ACHIEVEMENT_LEVEL_LVL10,Professional Level 1,Professionnel Niveau 1
+ACHIEVEMENT_LEVEL_LVL11,Professional Level 2,Professionnel Niveau 2
+ACHIEVEMENT_LEVEL_LVL12,Professional Level 3,Professionnel Niveau 3
 ACHIEVEMENT_USE_GRAYPILL_NAME,Gray Pill,Pilule grise
 ACHIEVEMENT_USE_GRAYPILL_DESC,"Eat 30,000 Gray Pills.",Manger 30 000 Pilules Grises.
 ACHIEVEMENT_USE_GRAYPILL_TITLE,Placebo,Placebo
