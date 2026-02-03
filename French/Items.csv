@@ -4587,7 +4587,7 @@ PROPITEM_TXT_011913,"Inspector Koko is on the case! With his super high-intensit
 PROPITEM_TXT_011952,Cheshire Cat,Chat du Cheshire
 PROPITEM_TXT_011953,This cheesy kitty follows it's owner around and picks up dropped items. He's also quite mad.,Inutile de lui parler tant que ses oreilles ne sont pas apparues.
 PROPITEM_TXT_011954,The White Rabbit,Lapin blanc
-PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.",Je suis en retard ! En retard ! En retard !
+PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.",Pour un rendez-vous très important ! Pas le temps de dire bonjour, au revoir ! Je suis en retard ! Ce petit bonhomme toujours en retard suit son maître partout en ramassant les objets tombés.
 PROPITEM_TXT_011956,Tiger Cub,Dinah
 PROPITEM_TXT_011957,This cutie pie follows his *mommy* around and picks up dropped items.,Elle ne vous suivra pas de l'autre côté du miroir.
 PROPITEM_TXT_012180,Mocomochi,Bébé Mochikochi
@@ -24546,66 +24546,66 @@ PROPITEM_TXT_155497,Tramien Suit,Tenue Tramien
 PROPITEM_TXT_155498,Tramien Gauntlets,Gantelets Tramien
 PROPITEM_TXT_155499,Tramien Boots,Bottes Tramien
 PROPITEM_TXT_155500,Ankou's Heart,Cœur d’Ankou
-PROPITEM_TXT_155501,Veil of Shade,Voile de l’Ombre
-PROPITEM_TXT_155502,Maw of Judgement,Gueule du Jugement
-PROPITEM_TXT_155503,Oracle,Oracle
-PROPITEM_TXT_155504,Scepter of Disorder,Sceptre du Désordre
+PROPITEM_TXT_155501,Veil of Shade,Grimoire de l’Ombre
+PROPITEM_TXT_155502,Maw of Judgement,Poing du Jugement
+PROPITEM_TXT_155503,Oracle,Sceptre de l’Oracle
+PROPITEM_TXT_155504,Scepter of Disorder,Baguette du Désordre
 PROPITEM_TXT_155505,Roika's Stave,Bâton de Roika
-PROPITEM_TXT_155506,Curtana,Curtana
+PROPITEM_TXT_155506,Curtana,Lame Curtana
 PROPITEM_TXT_155507,Celestial Edge,Tranchant Céleste
 PROPITEM_TXT_155508,Bringer of Souls,Porteur d’Âmes
-PROPITEM_TXT_155509,Butcher's Carnage,Carnage du Boucher
-PROPITEM_TXT_155510,Harbinger,Précurseur
-PROPITEM_TXT_155511,Dementia,Démence
-PROPITEM_TXT_155512,Hell's Gate,Porte de l’Enfer
-PROPITEM_TXT_155513,Dragon's Rain,Pluie du Dragon
-PROPITEM_TXT_155514,K Fang,Croc K
+PROPITEM_TXT_155509,Butcher's Carnage,Hache du carnage
+PROPITEM_TXT_155510,Harbinger,Héraut du Carnage
+PROPITEM_TXT_155511,Dementia,Yo-yo de la Démence
+PROPITEM_TXT_155512,Hell's Gate,Bouclier des Portes de l’Enfer
+PROPITEM_TXT_155513,Dragon's Rain,Arc de la Pluie Draconiaque
+PROPITEM_TXT_155514,K Fang,Lame du Carnage
 PROPITEM_TXT_155515,Vial of Toxins,Fiole de Toxines
 PROPITEM_TXT_155516,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.,Une fiole mortelle contenant une substance toxique. Nécessaire pour utiliser les compétences toxiques de l’Arlequin.
-PROPITEM_TXT_155517,Broken Butcher's Carnage,Carnage du Boucher brisé
-PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,Carnage du Boucher usé par les combats
-PROPITEM_TXT_155519,Cursed Butcher's Carnage,Carnage du Boucher maudit
-PROPITEM_TXT_155520,Butcher's Carnage,Carnage du Boucher
-PROPITEM_TXT_155521,Broken Dragon's Rain,Pluie du Dragon brisée
-PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,Pluie du Dragon usée par les combats
-PROPITEM_TXT_155523,Cursed Dragon's Rain,Pluie du Dragon maudite
-PROPITEM_TXT_155524,Dragon's Rain,Pluie du Dragon
-PROPITEM_TXT_155525,Broken Maw of Judgement,Gueule du Jugement brisée
-PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,Gueule du Jugement usée par les combats
-PROPITEM_TXT_155527,Cursed Maw of Judgement,Gueule du Jugement maudite
-PROPITEM_TXT_155528,Maw of Judgement,Gueule du Jugement
+PROPITEM_TXT_155517,Broken Butcher's Carnage,Hache du carnage brisée
+PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,Hache du carnage usée par les combats
+PROPITEM_TXT_155519,Cursed Butcher's Carnage,Hache du carnage maudite
+PROPITEM_TXT_155520,Butcher's Carnage,Hache du carnage
+PROPITEM_TXT_155521,Broken Dragon's Rain,Arc de la Pluie Draconiaque brisée
+PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,Arc de la Pluie Draconiaque usé par les combats
+PROPITEM_TXT_155523,Cursed Dragon's Rain,Arc de la Pluie Draconiaque maudite
+PROPITEM_TXT_155524,Dragon's Rain,Arc de la Pluie Draconiaque
+PROPITEM_TXT_155525,Broken Maw of Judgement,Poing du Jugement brisée
+PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,Poing du Jugement usé par les combats
+PROPITEM_TXT_155527,Cursed Maw of Judgement,Poing du Jugement maudit
+PROPITEM_TXT_155528,Maw of Judgement,Poing du Jugement
 PROPITEM_TXT_155529,Broken Roika's Stave,Bâton de Roika brisé
 PROPITEM_TXT_155530,Battle-Worn Roika's Stave,Bâton de Roika usé par les combats
 PROPITEM_TXT_155531,Cursed Roika's Stave,Bâton de Roika maudit
 PROPITEM_TXT_155532,Roika's Stave,Bâton de Roika
-PROPITEM_TXT_155533,Broken Oracle,Oracle brisé
-PROPITEM_TXT_155534,Battle-Worn Oracle,Oracle usé par les combats
-PROPITEM_TXT_155535,Cursed Oracle,Oracle maudit
-PROPITEM_TXT_155536,Oracle,Oracle
-PROPITEM_TXT_155537,Broken Curtana,Curtana brisée
-PROPITEM_TXT_155538,Battle-Worn Curtana,Curtana usée par les combats
-PROPITEM_TXT_155539,Cursed Curtana,Curtana maudite
-PROPITEM_TXT_155540,Curtana,Curtana
-PROPITEM_TXT_155541,Broken K Fang,Croc K brisé
-PROPITEM_TXT_155542,Battle-Worn K Fang,Croc K usé par les combats
-PROPITEM_TXT_155543,Cursed K Fang,Croc K maudit
-PROPITEM_TXT_155544,K Fang,Croc K
-PROPITEM_TXT_155545,Broken Harbinger,Précurseur brisé
-PROPITEM_TXT_155546,Battle-Worn Harbinger,Précurseur usé par les combats
-PROPITEM_TXT_155547,Cursed Harbinger,Précurseur maudit
-PROPITEM_TXT_155548,Harbinger,Précurseur
+PROPITEM_TXT_155533,Broken Oracle,Sceptre de l’Oracle brisé
+PROPITEM_TXT_155534,Battle-Worn Oracle,Sceptre de l’Oracle usé par les combats
+PROPITEM_TXT_155535,Cursed Oracle,Sceptre de l’Oracle maudit
+PROPITEM_TXT_155536,Oracle,Sceptre de l’Oracle
+PROPITEM_TXT_155537,Broken Curtana,Lame Curtana brisée
+PROPITEM_TXT_155538,Battle-Worn Curtana,Lame Curtana usée par les combats
+PROPITEM_TXT_155539,Cursed Curtana,Lame Curtana maudite
+PROPITEM_TXT_155540,Curtana,Lame Curtana
+PROPITEM_TXT_155541,Broken K Fang,Lame du Carnage brisée
+PROPITEM_TXT_155542,Battle-Worn K Fang,Lame du Carnage usée par les combats
+PROPITEM_TXT_155543,Cursed K Fang,Lame du Carnage maudite
+PROPITEM_TXT_155544,K Fang,Lame du Carnage
+PROPITEM_TXT_155545,Broken Harbinger,Héraut du Carnage brisé
+PROPITEM_TXT_155546,Battle-Worn Harbinger,Héraut du Carnage usé par les combats
+PROPITEM_TXT_155547,Cursed Harbinger,Héraut du Carnage maudit
+PROPITEM_TXT_155548,Harbinger,Héraut du Carnage
 PROPITEM_TXT_155549,Broken Celestial Edge,Tranchant Céleste brisé
 PROPITEM_TXT_155550,Battle-Worn Celestial Edge,Tranchant Céleste usé par les combats
 PROPITEM_TXT_155551,Cursed Celestial Edge,Tranchant Céleste maudit
 PROPITEM_TXT_155552,Celestial Edge,Tranchant Céleste
-PROPITEM_TXT_155553,Broken Scepter of Disorder,Sceptre du Désordre brisé
-PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,Sceptre du Désordre usé par les combats
-PROPITEM_TXT_155555,Cursed Scepter of Disorder,Sceptre du Désordre maudit
-PROPITEM_TXT_155556,Scepter of Disorder,Sceptre du Désordre
-PROPITEM_TXT_155557,Broken Dementia,Démence brisée
-PROPITEM_TXT_155558,Battle-Worn Dementia,Démence usée par les combats
-PROPITEM_TXT_155559,Cursed Dementia,Démence maudite
-PROPITEM_TXT_155560,Dementia,Démence
+PROPITEM_TXT_155553,Broken Scepter of Disorder,Baguette du Désordre brisée
+PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,Baguette du Désordre usée par les combats
+PROPITEM_TXT_155555,Cursed Scepter of Disorder,Baguette du Désordre maudit
+PROPITEM_TXT_155556,Scepter of Disorder,Baguette du Désordre
+PROPITEM_TXT_155557,Broken Dementia,Yo-yo de la Démence brisé
+PROPITEM_TXT_155558,Battle-Worn Dementia,Yo-yo de la Démence usé par les combats
+PROPITEM_TXT_155559,Cursed Dementia,Yo-yo de la Démence maudite
+PROPITEM_TXT_155560,Dementia,Yo-yo de la Démence
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,Parchemin de Bonus Ultime II
 PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Réinitialise les statistiques aléatoires et les valeurs des options spéciales appliquées à l’Arme Ultime.
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC 2025 Ensemble du Messager de la Mort Sanglant (Vainqueurs)

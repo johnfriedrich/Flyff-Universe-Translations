@@ -98,13 +98,13 @@ ACHIEVEMENT_KILL_PYRAMIDGUARDIAN_NAME,Pyramid Guardian,Gardien de la Pyramide
 ACHIEVEMENT_KILL_CRYSTALDEVIL_NAME,Crystal Demon Lord,Seigneur Démon de Cristal
 ACHIEVEMENT_KILL_BEASTKINGKHAN_NAME,Beast King Khan,Remardda
 ACHIEVEMENT_KILL_SHADEKRITON_NAME,[Shade Lieutenant] Kriton,[Shade Lieutenant] Kriton
-ACHIEVEMENT_KILL_PUPPETWOLF_NAME,Hundur Sharpfoot,Hundur Sharpfoot
-ACHIEVEMENT_KILL_RYSENTRY_NAME,Samoset,Samoset
-ACHIEVEMENT_KILL_RYGUARD_NAME,Kyouchish,Kyouchish
-ACHIEVEMENT_KILL_RYARCHER_NAME,Kanonicus,Kanonicus
-ACHIEVEMENT_KILL_RYMAGI_NAME,Mage Redcloud,Mage Redcloud
-ACHIEVEMENT_KILL_RYWARRIOR_NAME,Taiaha,Taiaha
-ACHIEVEMENT_KILL_SKELWOLF_NAME,Hellhound,Hellhound
+ACHIEVEMENT_KILL_PUPPETWOLF_NAME,Hundur Sharpfoot,Lawolf des Plaines
+ACHIEVEMENT_KILL_RYSENTRY_NAME,Samoset,Sentinelle Lycan
+ACHIEVEMENT_KILL_RYGUARD_NAME,Kyouchish,Garde Lycan
+ACHIEVEMENT_KILL_RYARCHER_NAME,Kanonicus,Archer Lycan
+ACHIEVEMENT_KILL_RYMAGI_NAME,Mage Redcloud,Magicien Lycan
+ACHIEVEMENT_KILL_RYWARRIOR_NAME,Taiaha,Guerrier Lycan
+ACHIEVEMENT_KILL_SKELWOLF_NAME,Hellhound,Lawolf de l'Enfer
 ACHIEVEMENT_KILL_RYBARGA_NAME,Chief Keokuk,Chef Keokuk
 ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,[Dieu de la Mort] Ankou Démoniaque 
 ACHIEVEMENT_KILL_AIBATT_LVL1,Aibatt Slayer 1,Tueur d'Aibatt I
@@ -562,40 +562,40 @@ ACHIEVEMENT_KILL_LUMINFIN_LVL2,Luminfin Slayer 2,Tueur de Luminfin 2
 ACHIEVEMENT_KILL_LUMINFIN_LVL3,Luminfin Slayer 3,Tueur de Luminfin 3
 ACHIEVEMENT_KILL_LUMINFIN_LVL4,Luminfin Slayer 4,Tueur de Luminfin 4
 ACHIEVEMENT_KILL_LUMINFIN_LVL5,Luminfin Hunter,Lumos
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL1,Hundur Sharpfoot Slayer 1,Tueur de Hundur 1
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL2,Hundur Sharpfoot Slayer 2,Tueur de Hundur 2
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL3,Hundur Sharpfoot Slayer 3,Tueur de Hundur 3
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL4,Hundur Sharpfoot Slayer 4,Tueur de Hundur 4
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL1,Hundur Sharpfoot Slayer 1,Tueur de Lawolf des Plaines 1
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL2,Hundur Sharpfoot Slayer 2,Tueur de Lawolf des Plaines 2
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL3,Hundur Sharpfoot Slayer 3,Tueur de Lawolf des Plaines 3
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL4,Hundur Sharpfoot Slayer 4,Tueur de Lawolf des Plaines 4
 ACHIEVEMENT_KILL_PUPPETWOLF_LVL5,Hundur Sharpfoot Hunter,Tueur aux lames acérées
-ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,Tueur de Samoset 1
-ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,Tueur de Samoset 2
-ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,Tueur de Samoset 3
-ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,Tueur de Samoset 4
+ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,Tueur de Sentinelle Lycan 1
+ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,Tueur de Sentinelle Lycan 2
+ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,Tueur de Sentinelle Lycan 3
+ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,Tueur de Sentinelle Lycan 4
 ACHIEVEMENT_KILL_RYSENTRY_LVL5,Samoset Hunter,Marcheur d’écho
-ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,Tueur de Kyouchish 1
-ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,Tueur de Kyouchish 2
-ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,Tueur de Kyouchish 3
-ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,Tueur de Kyouchish 4
+ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,Tueur de Garde Lycan 1
+ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,Tueur de Garde Lycan 2
+ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,Tueur de Garde Lycan 3
+ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,Tueur de Garde Lycan 4
 ACHIEVEMENT_KILL_RYGUARD_LVL5,Kyouchish Hunter,Marque des ténèbres 
-ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,Tueur de Kanonicus 1
-ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,Tueur de Kanonicus 2
-ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,Tueur de Kanonicus 3
-ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,Tueur de Kanonicus 4
+ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,Tueur de Archer Lycan 1
+ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,Tueur de Archer Lycan 2
+ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,Tueur de Archer Lycan 3
+ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,Tueur de Archer Lycan 4
 ACHIEVEMENT_KILL_RYARCHER_LVL5,Kanonicus Hunter,Exécuteur 
-ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,Tueur de Mage Redcloud 1
-ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,Tueur de Mage Redcloud 2
-ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,Tueur de Mage Redcloud 3
-ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,Tueur de Mage Redcloud 4
+ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,Tueur de Magicien Lycan 1
+ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,Tueur de Magicien Lycan 2
+ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,Tueur de Magicien Lycan 3
+ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,Tueur de Magicien Lycan 4
 ACHIEVEMENT_KILL_RYMAGI_LVL5,Mage Redcloud Hunter,Éclat de sang
-ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,Tueur de Taiaha 1
-ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,Tueur de Taiaha 2
-ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,Tueur de Taiaha 3
-ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,Tueur de Taiaha 4
+ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,Tueur de Guerrier Lycan 1
+ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,Tueur de Guerrier Lycan 2
+ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,Tueur de Guerrier Lycan 3
+ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,Tueur de Guerrier Lycan 4
 ACHIEVEMENT_KILL_RYWARRIOR_LVL5,Taiaha Hunter,Chant de guerre
-ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,Tueur de Hellhound 1
-ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,Tueur de Hellhound 2
-ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,Tueur de Hellhound 3
-ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,Tueur de Hellhound 4
+ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,Tueur de Lawolf de l'Enfer 1
+ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,Tueur de Lawolf de l'Enfer 2
+ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,Tueur de Lawolf de l'Enfer 3
+ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,Tueur de Lawolf de l'Enfer 4
 ACHIEVEMENT_KILL_SKELWOLF_LVL5,Hellhound Hunter,Issu des ténèbres
 ACHIEVEMENT_KILL_RYBARGA_LVL1,Chief Keokuk Slayer 1,Tueur de Chef Keokuk 1
 ACHIEVEMENT_KILL_RYBARGA_LVL2,Chief Keokuk Slayer 2,Tueur de Chef Keokuk 2
