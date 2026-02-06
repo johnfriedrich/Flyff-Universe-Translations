@@ -2393,24 +2393,24 @@ UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
 UI_PARTY_READY_INFO2,is ready!,is ready!
 UI_PARTY_READY_INFO3,is not ready.,is not ready.
 UI_PARTY_EDIT_NAME,Edit the party's name.,Edit the party's name.
-UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
-UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
+UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Nivel de Objeto (1 - %d)
+UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Nivel de Objeto (%d - 1)
 UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
 UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
 UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Seller Name (A - Z)
 UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Seller Name (Z - A)
-UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
-UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
+UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Nombre de Tienda (A - Z)
+UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Nombre de Tienda (Z - A)
 UI_SEARCHSHOP_SELLER,Seller,Seller
-UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Item Name (A - Z)
-UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Item Name (Z - A)
+UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Nombre de Objeto (A - Z)
+UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Nombre de Objeto (Z - A)
 UI_SEARCHSHOP_LOCATION,Show Location,Mostrar Ubicación
 UI_SEARCHSHOP_MESSAGE,Message Seller,Message Seller
 UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleport %d / %d
 UI_PURCHASE_INAPP_NOTICE,Notice,Anuncio
 UI_PURCHASE_INAPP_PURCHASE,Purchase,Comprar
-UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,Please select the offer to purchase
-UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,There are currently no offers available
+UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,Por favor seleccione la oferta para comprar
+UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,Actualmente no hay ofertas disponibles
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free","Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free"
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free","Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free"
@@ -2422,7 +2422,7 @@ UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
 UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
 UI_SEARCHSHOP_PLAYERNAME,Player Name,Nombre de Jugador
-UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
+UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Partido Manual
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Nombre
 UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invitar al Equipo 1
 UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invitar al Equipo 2
@@ -2487,9 +2487,9 @@ UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
 UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
 UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Min Player Lv.
 UI_MSGBOX_RECIEVE,Receive,Recibir
-UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles.","This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles."
-UI_MATOURNAMENT_RANKING_TOP50_INFO,"This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
-UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
+UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles.","Esta ventana contiene información sobre tus partidas y tu historial de participación en el Torneo Madrigal. Puedes ver información de las últimas cuatro semanas, incluida la semana actual.\nPuedes hacer clic en una fecha para ver los detalles de las batallas de ese día."
+UI_MATOURNAMENT_RANKING_TOP50_INFO,"This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","Esta ventana contiene información sobre los partidos y clasificaciones del Torneo Madrigal.\nSi solo un equipo aparece en las clasificatorias, significa que serán descalificados por falta de oponentes."
+UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","Esta ventana contiene información sobre los partidos y clasificaciones del Torneo Madrigal. Si solo se menciona un equipo en las eliminatorias, significa que serán descalificados por falta de oponentes."
 UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bidding
 UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rango
@@ -2523,17 +2523,17 @@ UI_COUPLE_BREAKUP_FORCE,Break Up(F),Break Up(F)
 UI_COUPLE_TELEPORT,Teleport,Teleport
 UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.
 UI_COUPLE_CHEER,Cheer,Animar
-UI_COUPLE_FORM_DATE,Formation Date,Formation Date
+UI_COUPLE_FORM_DATE,Formation Date,Fecha de Formación
 UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Available Storage Slots
 UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximum Daily Teleports
 UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximum Daily Cheers
 UI_COUPLE_MAX_POINTS,Maximum Skill Points,Maximum Skill Points
 UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Total Quests Completed
-UI_COUPLE_SINGLE,You are single.,You are single.
+UI_COUPLE_SINGLE,You are single.,Estás soltero.
 UI_COUPLE_TABPARTNER,Partner,Partner
-UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
-UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
-UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?"
+UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","¿Estás seguro de que quieres solicitar una ruptura con tu pareja? Si rompen, perderás inmediatamente todos los elementos en el almacenamiento de la pareja y las funciones de pareja ya no estarán disponibles."
+UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","¿Estás seguro de que quieres forzar inmediatamente una ruptura con tu pareja? Si rompes, perderás de inmediato todos los objetos en el almacenamiento de pareja y las funciones de pareja dejarán de estar disponibles."
+UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Tu pareja ha solicitado una ruptura. Si aceptas, perderás inmediatamente todos los objetos en el almacenamiento de la pareja y dejarás de ser pareja, perdiendo cualquier función de pareja. ¿Aceptas?"
 UI_COUPLE_PROPOSE,Propose,Propose
 UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the inserted couple ring.,Request to form a couple with the recipient using the inserted couple ring.
 UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Required Couple Level: %d
@@ -2553,7 +2553,7 @@ UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to 
 UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","If you fail, you will lose your item."
 UI_HOUSINGWARDROBE_INFO,Your wardrobe items can only be worn by #bone#nb NPC at a time.,Your wardrobe items can only be worn by #bone#nb NPC at a time.
 UI_HOUSINGWARDROBE_CONFIRM,Equip,Equipar
-UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?
+UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,"Esto hará que el NPC seleccionado use el artículo de disfraz elegido. Solo un NPC a la vez puede llevar el mismo artículo de disfraz. ¿Deseas continuar?"
 UI_HOUSINGWARDROBE_USEDBY,Used by %s,Usado en %s
 UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
 UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip that item?,Unequip that item?
@@ -2618,7 +2618,7 @@ UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\n
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
 UI_LIFE_PRODUCTION_TITLE,Production,Producción
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Tasa de éxito
-UI_LIFE_PRODUCTION_TIME,Production time per cycle,Production time per cycle
+UI_LIFE_PRODUCTION_TIME,Production time per cycle,Tiempo de producción por ciclo
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,Required Mastery: %d\nRequired Title: 
 UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingrediente
@@ -2773,10 +2773,10 @@ UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanent Ranking
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Title:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank:,Rango Actual:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,unranked.
-UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Spring Points: %d Pts
-UI_QUEST_PT_JAN2024_2,Spring Points: ????,Spring Points: ????
-UI_EVENT_JAN2024_NAME,Spring Point Exchange,Spring Point Exchange
-UI_JAN2024_POINT_NAME,Spring Points,Spring Points
+UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Puntos de Primavera: %d Pts
+UI_QUEST_PT_JAN2024_2,Spring Points: ????,Puntos de Primavera: ????
+UI_EVENT_JAN2024_NAME,Spring Point Exchange,Puntos de Primavera Intercambio
+UI_JAN2024_POINT_NAME,Spring Points,Puntos de Primavera
 UI_POINTS,%d Pts,%d Pts
 UI_QUEST_ATTEMPT_GATHERING,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
 UI_STANDBY,Standby,Standby
@@ -2797,14 +2797,14 @@ UI_MENU_UNMUTE,Unmute,Quitar silencio
 UI_MENU_FREEZE,Freeze,Congelar
 UI_MENU_UNFREEZE,Unfreeze,Descongelar
 UI_MENU_PARTY,Party,Party
-UI_MENU_GUILDJOIN,Guild Join,Guild Join
+UI_MENU_GUILDJOIN,Guild Join,Unirse Guild
 UI_MENU_BAN,Ban,Ban
 UI_MENU_BAN_IP,Ban IP,Ban IP
 UI_MENU_KICK_IP,Kick IP,Kick IP
 UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
-UI_APP_INSPECTION,Inspection,Inspection
+UI_APP_INSPECTION,Inspection,Inspección
 UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Jugadores asesinados: 
-UI_TARGET_PK_VALUE,- PK Value : ,- PK Value : 
+UI_TARGET_PK_VALUE,- PK Value : ,- Valor PK : 
 UI_TARGET_PLAYER_ID,- PlayerID: #,- PlayerID: #
 UI_PUBLISHED_BY,Published by ,Publicado por 
 UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. Reservados todos los derechos.
@@ -3156,7 +3156,7 @@ UI_GUILDICON,Guild Icon,Icono de Guild
 UI_GUILDNAME,Guild Name,Nombre de Guild
 UI_TOTALBETAMOUNT,Total Bet Amount,Total Bet Amount
 UI_MYBET,My Bet,My Bet
-UI_ACTION,Action,Action
+UI_ACTION,Action,Acción
 UI_BTN_ADDBET,Add Bet,Add Bet
 UI_TITLE_ADDBET,Add Bet,Add Bet
 UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ","* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  "
@@ -3171,11 +3171,11 @@ UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Total Server\nFWC Coin
 UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,My FWC Coin Spent
 UI_RANK,Rank,Rango
 UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,Total FWC Coin Spent
-UI_OPTION_IMAGE_TITLE,Banner Titles,Banner Titles
+UI_OPTION_IMAGE_TITLE,Banner Titles,Títulos de Banners
 UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,Right-Hand Weapon Attack
 UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,Left-Hand Weapon Attack
 UI_PARTS_SHIELD_DEF,Shield Defense,Defensa con Escudo
-UI_SKILL_SYNERGY,Synergy,Synergy
+UI_SKILL_SYNERGY,Synergy,Sinergia
 UI_SKILL_SYNERGY_PER,per level %d+,per level %d+
 UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,Rear Dark Illusion Damage
 UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,Critical Mark Chance
