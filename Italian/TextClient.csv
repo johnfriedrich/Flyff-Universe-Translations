@@ -1085,7 +1085,7 @@ TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rai
 TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,You've already applied for the next race.
 TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,The Rainbow Race was not held due to lack of participants.
 TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,Conversion Succesful!
-TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Non abbastanza Materiale.
+TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Non abbastanza materiale.
 TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,This item has reached its maximum upgrade level.
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,The upgrade has been a great failure.
 TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,Upgrade great success!
