@@ -1509,7 +1509,7 @@ UI_CHAT_NOTALK,Mute,Mute
 UI_CHAT_TALK,Unmute,Unmute
 UI_CHAT_IGNORE,Ignore,Ignore
 UI_CHAT_UNIGNORE,Unignore,Unignore
-UI_SELECTSERVER_US,America,Americano
+UI_SELECTSERVER_US,America,America
 UI_SELECTSERVER_EU,Europe,Europa
 UI_SELECTSERVER_ASIA,Asia,Asia
 UI_SELECTSERVER_LABEL,Select your Server and Channel:,Seleziona il tuo server e canale:
