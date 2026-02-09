@@ -1353,7 +1353,7 @@ UI_BOUNTYLIST_HEADER_COMMENT,Comment,Comment
 UI_BOUNTYPOS_TITLE,Bounty Position,Bounty Position
 UI_BOUNTYPOS_FEE,Are you sure you want to pay %s Penya to see %s's position?,Are you sure you want to pay %s Penya to see %s's position?
 UI_APP_GACHA_TIP,Displays the Gacha Menu.,Displays the Gacha Menu.
-UI_GACHA_TITLE,Gacha,Preso
+UI_GACHA_TITLE,Gacha,Gacha
 UI_GACHA_OPEN,Open,Apri
 UI_GACHA_QUANTITY_MAX,Max,Max
 UI_GACHA_RESET,Reset,Reset
