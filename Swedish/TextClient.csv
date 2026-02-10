@@ -1,7 +1,7 @@
 ﻿Key,English,Swedish
-TEXTCLIENT_CONNECTING,Connecting. Please wait.,Connecting. Please wait.
-TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Cannot connect to the game. Please check the network.
-TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,The game has been updated. Please close the page and open it again.
+TEXTCLIENT_CONNECTING,Connecting. Please wait.,Ansluter. Vänta.
+TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Det går inte att ansluta till spelet. Kontrollera nätverket.
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Spelet har uppdaterats. Stäng sidan och öppna den igen.
 TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Wrong server identifier.
 TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Unknown error, please try again."
 TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Your account is already connected.
@@ -1514,10 +1514,10 @@ TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid mat
 TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
 TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
 TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
-TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
-TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
-TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
-TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Röda laget
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blåa laget
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Gröna laget
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Gula laget
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
 TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
