@@ -1520,7 +1520,7 @@ UI_WORLD_LOCK,Locked,上锁
 UI_WORLD_UNLOCK,Unlocked,解锁
 UI_GUILD_LASTSEEN,Last Seen:,最近登录：
 UI_PET_STAT,Stat,属性
-UI_PET_STAT_NONE,None,没有
+UI_PET_STAT_NONE,None,无
 UI_PET_ENERGY,Energy,能量
 UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Do you want to continue?,#b窗口中的宠物将会消失。#nb 你想要继续吗？
 UI_PET_TIER,Tier,等级
