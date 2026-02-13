@@ -2575,10 +2575,10 @@ UI_COUPLE_RING_CHEER,Cheers: %d,Encouragements : %d
 UI_COUPLE_RING_SLOTS,Storage slots: %d,Emplacements de stockage : %d
 UI_COUPLE_MOTION_TITLE,Couple Motion,Mouvements de couple
 UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Votre partenaire demande le mouvement %s. Acceptez-vous ?
-UI_APP_LIFE_TIP,Opens life contents window.,Ouvre la fenêtre de vie
+UI_APP_LIFE_TIP,Opens life contents window.,Ouvre la fenêtre des métiers
 UI_LIFE_GATHERING_TAB,Gathering,Collecte
 UI_LIFE_PRODUCTION_TAB,Production,Production
-UI_LIFE_TITLE,Life,Vie
+UI_LIFE_TITLE,Life,Métier
 UI_LIFE_MASTERY_EFFECT,Mastery Effect,Effet de maîtrise
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Collecte identifiée
 UI_LIFE_HARVESTING_INFORMATION,Harvesting Information,Informations sur la collecte
