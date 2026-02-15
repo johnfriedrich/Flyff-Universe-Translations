@@ -1,18 +1,18 @@
 ﻿Key,English,French
-ITEMTYPE_1H_SWORD,1H Sword,1H Sword
-ITEMTYPE_2H_SWORD,2H Sword,2H Sword
-ITEMTYPE_1H_AXE,1H Axe,1H Axe
-ITEMTYPE_2H_AXE,2H Axe,2H Axe
-ITEMTYPE_KNUCKLE,Knuckle,Knuckle
-ITEMTYPE_STICK,Stick,Stick
-ITEMTYPE_BOW,Bow,Bow
+ITEMTYPE_1H_SWORD,1H Sword,Épée
+ITEMTYPE_2H_SWORD,2H Sword,Glaive
+ITEMTYPE_1H_AXE,1H Axe,Hache
+ITEMTYPE_2H_AXE,2H Axe,Doloire
+ITEMTYPE_KNUCKLE,Knuckle,Poing 
+ITEMTYPE_STICK,Stick,Sceptre
+ITEMTYPE_BOW,Bow,Arc
 ITEMTYPE_YOYO,Yo-Yo,Yo-Yo
 ITEMTYPE_WAND,Wand,Baguettes
 ITEMTYPE_STAFF,Staff,Bâtons
 ITEMTYPE_COSTUME,Costume,Costume
 ITEMTYPE_SHOES,Shoes,Chaussures
-ITEMTYPE_PICKUP,Pick-Up Pet,Familier ramasseur
-ITEMTYPE_REAR_PET,Raised Pet,Familier élevé
+ITEMTYPE_PICKUP,Pick-Up Pet,Ramasseur
+ITEMTYPE_REAR_PET,Raised Pet,Familier
 ITEMTYPE_CONSUMABLE,Consumable,Consommable
 ITEMTYPE_BOARD,Board,Planche
 ITEMTYPE_CAR,Car,Véhicule
