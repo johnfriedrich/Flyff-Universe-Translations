@@ -463,7 +463,7 @@ NPC_000511,"No, not yet. You are not qualified to challenge this creature yet. N
 NPC_000512,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.","Du willst nicht wissen wer ich bin. Ich existiere und ich existiere nicht, das ist alles."
 NPC_000513,"Farewell, brave one.","Leb wohl, Mutiger."
 NPC_000514,"Worry not, Hormes. We will not fail. ","Jammer nicht so viel rum. Was wir tun ist nicht gut, richtig?"
-NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming.",Ein großer Stern versank am roten Horizont; die verbliebenen Sterne strahlten nur um so heller.
+NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming.","Ein großer Stern versank am roten Horizont; die verbliebenen Sterne strahlten nur um so heller."
 NPC_000516,"My name is Guabrill Elldoradin, the Blade Wise Man. We've all come together to guide to adventurer's such as your self on the path of the Heroes. Will you stand up for Madrigal, young one?","Mein Name ist Guabrill Elldoradin, der Blade Weise. Wir sind alle zusammengekommen, um Abenteurer wie dich auf dem Weg der Helden zu begleiten. Wirst du dich für Madrigal einsetzen, Neuling?"
 NPC_000517,The Heroes will never be forgotten. Stories of their sacrifice will be told for generations to come.,"Sie werden niemals vergessen werden, nicht einmal in der Zukunft, denn sie sind Helden."
 NPC_000518,"#b#cff8a004fWelcome, competitors! The #cfff60000Guild Siege Application Center #cff8a004fis open for business!#nc#nb","#b#cff8a004fWillkommen, Krieger! Das #cfff60000Bewerbungszentrum für Gildenkriege #cff8a004fhat geöffnet!#nc#nb"
@@ -1329,19 +1329,19 @@ NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll
 NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,The nightmares are getting stronger. I need someone brave enough to help me contain them.
 NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,Hunting's been tough lately. I could use help tracking down some prey.
 NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,Security is getting worse every day. I need someone to help me investigate a threat.
-NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...
+NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,Willkommen beim #b#cffff0000Eillun Quest Büro#nc#nb! Du suchst nach Arbeit? Ich könnten einen Job für dich haben…
 NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,"Willkommen. Die ansässigen Bürger haben folgende Aufgaben. Wähle eine Aufgabe aus der Liste, wenn du sie bewältigen möchtest."
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",Tut mir leid.. es sind leider zur Zeit keine Quests verfügbar. Bitte komm später wieder.
-NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!"
+NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","Mein Name ist Miorang und ich bin der Leiter des Eillun-Quest-Büros. Wenn unsere Bürger einen Jagdauftrag oder eine andere Aufgabe veröffentlichen, ist es meine Aufgabe, den richtigen Kandidaten für den Job zu finden. Schau von Zeit zu Zeit vorbei, um zu sehen, ob ich etwas zur Verfügung habe!"
 NPC_150190,Farewell!,Auf Wiedersehen.
-NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?
+NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Willkommen beim #b#cffff0000Büro.#nc#nb von Eillun. Wie kann ich dir behilflich sein?
 NPC_150192,"So what can you do for me, huh?",Was kann ich für dich tun?
-NPC_150193,Ugh... maybe next time.,Ugh... maybe next time.
-NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,My name is Cheirang and I manage the Office of Eillun. How can I help you today?
-NPC_150195,Farewell!,Auf Wiedersehen.
-NPC_150196,"Welcome to Eillun! Please, enjoy your stay!","Welcome to Eillun! Please, enjoy your stay!"
+NPC_150193,Ugh... maybe next time.,Ugh... vielleicht das Nächste mal.
+NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,Mein Name ist Cheirang und ich leite das Büro von Eillun. Wie kann ich dir heute helfen?
+NPC_150195,Farewell!,Auf Wiedersehen!
+NPC_150196,"Welcome to Eillun! Please, enjoy your stay!",Willkommen in Eillun! Bitte genieße deinen Aufenthalt!
 NPC_150197,"Hello, traveler. I have some missions for you!",Hallo Abenteurer. Ich habe einige Aufgaben für dich!
-NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
-NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
-NPC_150200,Farewell!,Auf Wiedersehen.
-NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,I've spotted a security issue that needs immediate attention. Can you handle it?
+NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun ist das Herz von Madrigals blühendem Geist. Unsere Bäume mögen in den Himmel ragen, doch unsere Gastfreundschaft reicht immer weiter. Solltest du jemals Führung suchen, komm und finde mich unter der Großen Blüte."
+NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,Ich bin der Bürgermeister von Eillun. Die Harmonie unserer Blüten und unserer Bewohner liegt mir am meisten am Herzen. Wie kann ich dir heute unter unseren großen Bäumen helfen?
+NPC_150200,Farewell!,Auf Wiedersehen!
+NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,"Ich habe ein Sicherheitsproblem entdeckt, das dringend behoben werden muss. Kannst du dich darum kümmern?"
