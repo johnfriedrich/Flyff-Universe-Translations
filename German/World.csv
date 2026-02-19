@@ -1,6 +1,6 @@
 ﻿Key,English,German
 DUASYLUM_WLD_000000,Ankou's Asylum,Ankou's Zuflucht
-DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Kammer
+DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Kerker
 DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),Lerenkluft (Instanzierter Dungeon)
 DUHERNEOS_WLD_000000,Herneos (Dungeon),Herneos (Dungeon)
 DUDADK_WLD_000000,Dekane Mine (Dungeon),Dekane Mine (Dungeon)
@@ -61,14 +61,14 @@ WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,Fluglinie Arians ↔ Tote 
 WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,Azria\nVerlassene Erons Fabrik
 WDMADRIGAL_WLD_000013,Azria\nVillage,Azria\nDorf
 WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Fluglinie Deadwallderness ↔ Azria
-WDMADRIGAL_WLD_000015,Storm Peak Entrance,Sturmgipfel Eingang
-WDMADRIGAL_WLD_000017,Envy Depths Entrance,Neidische Tiefen Eingang
-WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Guardiane Heiligtum Eingang
-WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Lerenkluft Eingang
-WDMADRIGAL_WLD_000022,Wilds Entrance,Wildnis Eingang
+WDMADRIGAL_WLD_000015,Storm Peak Entrance,Eingang des Sturmgipfels
+WDMADRIGAL_WLD_000017,Envy Depths Entrance,Eingang der Neidischen Tiefen
+WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Eingang des Guardiane Heiligtum
+WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Eingang der Lerenkluft
+WDMADRIGAL_WLD_000022,Wilds Entrance,Eingang der Wildnis
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,Katakomben von Rhisis
 WDMADRIGAL_WLD_000024,This is a safe place.,Dies ist ein sicherer Ort.
-WDMADRIGAL_WLD_000025,The Wilds Entrance,Wilds Eingang
+WDMADRIGAL_WLD_000025,The Wilds Entrance,Eingang der Wildnis
 WDMADRIGAL_WLD_000026,Coral Village,Korallen Dorf
 WDMADRIGAL_WLD_000028,Coral Island,Koralleninsel
 WDMADRIGAL_WLD_000029,Welcome to Coral!,Willkommen auf der Koralleninsel!
@@ -86,7 +86,7 @@ WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Kamm
 WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Fälle
 WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Klippen
 WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Wald
-WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Zuflucht Eingang
+WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Eingang zu Ankou's Zuflucht
 WDMADRIGAL_WLD_000047,This is a safe place.,Dies ist ein sicherer Ort.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,Darkon 1\n Stillgelegte Erons Fabrik 2
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,Dies war die zweite Erons Fabrik. Hier wurden die Erons hergestellt.
