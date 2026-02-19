@@ -19,7 +19,7 @@ UI_SELECTSERVER_BACK,Back,Bumalik
 UI_SELECTSERVER_NEXT,Next,Susunod
 UI_SELECTSERVER_FULL,full,puno
 UI_SELECTSERVER_BUSY,busy,abala
-UI_SELECTSERVER_BEST,best,best
+UI_SELECTSERVER_BEST,best,pinakamahusay
 UI_SELECTSERVER_NEWNAME,Please enter another name:,Maglagay ng bagong pangalan:
 UI_SELECTSERVER_NAMETITLE,Character Name,Ngalan ng Karakter
 UI_CHARLIST_TITLE,Characters,Mga karakter
@@ -33,7 +33,7 @@ UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during 
 UI_NEWCHAR_NAME,Name:,Pangalan:
 UI_NEWCHAR_GIRL,Girl,Babae
 UI_NEWCHAR_BOY,Boy,Lalaki
-UI_MSGBOX_START,Start,Start
+UI_MSGBOX_START,Start,Simulan
 UI_MSGBOX_OK,Ok,Sige
 UI_MSGBOX_RETRY,Retry,Subukan muli
 UI_MSGBOX_CANCEL,Cancel,Kansela
@@ -105,19 +105,19 @@ UI_CHARINFO_PVP_KARMAPOINT,Karma Point,Iskor ng Karma
 UI_CHARINFO_PVPPK,PVP/PK,PVP/PK
 UI_TOOLTIP_SEX_MALE,Sex: Male,Kasarian: Lalaki
 UI_TOOLTIP_SEX_FEMALE,Sex: Female,Kasarian: Babae
-UI_TOOLTIP_HARVEST_TIMEREDUC,Time Reduction Level,Time Reduction Level
-UI_TOOLTIP_HARVEST_YIELDBONUS,Yield Bonus Level,Yield Bonus Level
-UI_TOOLTIP_HARVEST_SPAWNBONUS,Carrier Chance Bonus Level,Carrier Chance Bonus Level
-UI_TOOLTIP_ONEHAND,One-handed weapon.,One-handed weapon.
-UI_TOOLTIP_TWOHAND,Two-handed weapon.,Two-handed weapon.
-UI_TOOLTIP_ATTACK_BASE,Base Attack:,Base Attack:
-UI_TOOLTIP_DEF_BASE,Base Defense:,Base Defense:
+UI_TOOLTIP_HARVEST_TIMEREDUC,Time Reduction Level,Antas ng Pagbabawas ng Oras
+UI_TOOLTIP_HARVEST_YIELDBONUS,Yield Bonus Level,Antas ng Bonus sa Ani
+UI_TOOLTIP_HARVEST_SPAWNBONUS,Carrier Chance Bonus Level,Antas ng Bonus sa Pagkakataon ng Carrier
+UI_TOOLTIP_ONEHAND,One-handed weapon.,Sandata na ginagamit ng isang kamay.
+UI_TOOLTIP_TWOHAND,Two-handed weapon.,Sandata na ginagamit ng dalawang kamay.
+UI_TOOLTIP_ATTACK_BASE,Base Attack:,Batayang Atake:
+UI_TOOLTIP_DEF_BASE,Base Defense:,Batayang Depensa:
 UI_TOOLTIP_ATTACK,Attack:,Atake:
-UI_TOOLTIP_DEF_A,Defense:,Defense:
-UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,Attack speed: %s
-UI_TOOLTIP_REQ_JOB,Req Job:,Req Job:
-UI_TOOLTIP_REQ_LEVEL,Required Level: %d,Kinailangan Lebel: %d
-UI_TOOLTIP_REQ,Requires %s,Requires %s
+UI_TOOLTIP_DEF_A,Defense:,Depensa:
+UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,Bilisan ng Atake: %s
+UI_TOOLTIP_REQ_JOB,Req Job:,Kinakailangang Trabaho:
+UI_TOOLTIP_REQ_LEVEL,Required Level: %d,Kinakailangang Antas: %d
+UI_TOOLTIP_REQ,Requires %s,Kinakailangang %s
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,Panumbalik ng MP: %d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP: %d
 UI_TOOLTIP_CONSUME_FP,FP: %d,FP: %d
@@ -129,7 +129,7 @@ UI_TOOLTIP_INV_GAUNTLET,Gauntlet,Guwantes
 UI_TOOLTIP_INV_BOOTS,Boots,Bota
 UI_TOOLTIP_INV_HELMET,Helmet,Helmet
 UI_TOOLTIP_INV_CLO,Cloak,Balabal
-UI_TOOLTIP_INV_WEAPON,Weapon,Weapon
+UI_TOOLTIP_INV_WEAPON,Weapon,Sandata
 UI_TOOLTIP_INV_GUARD,Shield,Panangga
 UI_TOOLTIP_INV_MASK,Mask,Maskara
 UI_TOOLTIP_INV_RID,Flying Item,Panlipad
@@ -138,31 +138,31 @@ UI_TOOLTIP_INV_RING,Ring,Singsing
 UI_TOOLTIP_INV_EARRING,Earring,Earring
 UI_TOOLTIP_INV_BULLET,"Sub Weapon (Arrows, Posters)","Pangalawang Sandata (Pana, Poster)"
 UI_TOOLTIP_INV_CLOTHES_1,Fashion hat,Pamormang Salakot
-UI_TOOLTIP_INV_CLOTHES_2,Fashion costume,Fashion costume
-UI_TOOLTIP_INV_CLOTHES_3,Fashion gloves,Fashion gloves
-UI_TOOLTIP_INV_CLOTHES_4,Fashion shoes,Fashion shoes
+UI_TOOLTIP_INV_CLOTHES_2,Fashion costume,Kasuotang panmoda
+UI_TOOLTIP_INV_CLOTHES_3,Fashion gloves,Pamormang Guwantes
+UI_TOOLTIP_INV_CLOTHES_4,Fashion shoes,Pamormang Sapatos
 UI_TOOLTIP_MON_LVL,Lv.,Lv.
 UI_TOOLTIP_MON_DROP,Booty:,Premyo:
 UI_TOOLTIP_MON_NO_DROP,None,Wala
 UI_MAP_MONINFO,Show monsters informations.,Ipakita ang mga impormasyon ng mga halimaw.
 UI_TOOLTIP_DELETE_ITEM,The item dragged here is removed.,Ang item na nilagay dito ay tinanggal.
 UI_INVENTORY_DELETE,Drop confirmation,Kumpirmahing itapon
-UI_INVENTORY_DELETE_CONFIRM,Really delete this item?,Burahin naba tala itong gamit?
+UI_INVENTORY_DELETE_CONFIRM,Really delete this item?,Talaga bang burahin ang gamit na ito?
 UI_INVENTORY_DELETE_CNT,Qty,Dami
 UI_DIALOG,Dialog,Dyalogo
 UI_DIALOG_TITLE,Conversation,Pag-uusap
 UI_DIALOG_ABOUT,Ask about %s,Tanung ukol saamin %s
 UI_OPTION_TAB_GAME,Game,Laro
-UI_OPTION_TAB_CONTROLS,Controls,Controls
+UI_OPTION_TAB_CONTROLS,Controls,Kontrols
 UI_OPTION_TAB_VIDEO,Graphics,Grapiko
-UI_OPTION_TAB_GRAPHICS,Video,Video
-UI_OPTION_TAB_AUDIO,Audio,Audio
+UI_OPTION_TAB_GRAPHICS,Video,Vidyo
+UI_OPTION_TAB_AUDIO,Audio,Audyo
 UI_OPTION_PM,Whispers and Messages,Mga Bulong at Mensahe
 UI_OPTION_PARTY,Party and guild invites,Inbitasyon ng partido at samahan
-UI_OPTION_FRIEND,Friend Invites,Friend Invites
-UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Guild Siege Captions
-UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,Disable Tutorial Pang
-UI_OPTION_COUPLE,Couple Proposals,Couple Proposals
+UI_OPTION_FRIEND,Friend Invites,Inbitasyon ng Kaibigan
+UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Caption ng Pagsalakay ng Samahan
+UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,Huwag paganahin ang Tutorial Pang
+UI_OPTION_COUPLE,Couple Proposals,Panukala ng Magkasintahan
 UI_INSTANTMSG_TITLE,Message,Mensahe
 UI_MESSAGE_SEND,Send,Ipadala
 UI_SHOP_TITLE,Shop,Tindahan
@@ -182,253 +182,253 @@ UI_BUYITEM_TITLE,Confirm Item Purchase,Kumpirmang Bilhin ang Gamit
 UI_BUYITEM_CONFIRM,Do you want to buy?,Gusto bang bumili?
 UI_BUYITEM_PRICE,Cost,Gastusin
 UI_OPTION_GRASS,Grass,Damo
-UI_TOOLTIP_MAX_HP,Max. HP,Max. HP
-UI_TOOLTIP_MAX_MP,Max. MP,Max. MP
-UI_TOOLTIP_MAX_FP,Max. FP,Max. FP
-UI_TOOLTIP_SPEED,Speed,Speed
-UI_TOOLTIP_ATKSPEED,Attack Speed,Attack Speed
-UI_TOOLTIP_BLOCKMELEE,Melee Block,Melee Block
-UI_TOOLTIP_HITRATE,Hit Rate,Hit Rate
-UI_TOOLTIP_ABILITYMIN,Min. Ability,Min. Ability
-UI_TOOLTIP_ABILITYMAX,Max. Ability,Max. Ability
-UI_TOOLTIP_DEFENSE,Defense,Defense
-UI_TOOLTIP_DEFMAGIC,Magic Defense,Magic Defense
-UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,Electricity Resistance
-UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,Lahat ng Element Resistance
-UI_TOOLTIP_DEFFIRE,Fire Resistance,Fire Resistance
-UI_TOOLTIP_DEFWIND,Wind Resistance,Wind Resistance
-UI_TOOLTIP_DEFWATER,Water Resistance,Water Resistance
-UI_TOOLTIP_DEFEARTH,Earth Resistance,Earth Resistance
-UI_CHARINFO_ELEMENTDEF,Resistance,Resistance
+UI_TOOLTIP_MAX_HP,Max. HP,Pinakamataas. HP
+UI_TOOLTIP_MAX_MP,Max. MP,Pinakamataas. MP
+UI_TOOLTIP_MAX_FP,Max. FP,Pinakamataas. FP
+UI_TOOLTIP_SPEED,Speed,Bilis
+UI_TOOLTIP_ATKSPEED,Attack Speed,Bilis ng Atake
+UI_TOOLTIP_BLOCKMELEE,Melee Block,Pagharang sa Melee
+UI_TOOLTIP_HITRATE,Hit Rate,Antas ng Tama
+UI_TOOLTIP_ABILITYMIN,Min. Ability,Pinakamababa. Kakayahan
+UI_TOOLTIP_ABILITYMAX,Max. Ability,Pinakamataas. Kakayahan
+UI_TOOLTIP_DEFENSE,Defense,Depensa
+UI_TOOLTIP_DEFMAGIC,Magic Defense,Depensa sa Mahika
+UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,Resistensya sa Kuryente
+UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,Lahat ng Elemento na Resistensya
+UI_TOOLTIP_DEFFIRE,Fire Resistance,Resistensya sa Apoy
+UI_TOOLTIP_DEFWIND,Wind Resistance,Resistensya sa Hangin
+UI_TOOLTIP_DEFWATER,Water Resistance,Resistensya sa Tubig
+UI_TOOLTIP_DEFEARTH,Earth Resistance,Resistensya sa Lupa
+UI_CHARINFO_ELEMENTDEF,Resistance,Resistensya
 UI_CHARINFO_ELEMENTMASTRY,Mastery,Karunungan
 UI_TOOLTIP_HP,HP,HP
 UI_TOOLTIP_MP,MP,MP
 UI_TOOLTIP_FP,FP,FP
-UI_TOOLTIP_HPRECOVERY,HP Recovery,HP Recovery
-UI_TOOLTIP_MPRECOVERY,MP Recovery,MP Recovery
-UI_TOOLTIP_FPRECOVERY,FP Recovery,FP Recovery
-UI_TOOLTIP_ALL_RECOVERY,"HP, MP & FP Recovery","HP, MP at FP Recovery"
-UI_TOOLTIP_ALL_RECOVERY_RATE,"HP, MP & FP Recovery Rate","HP, MP & FP Recovery Rate"
-UI_TOOLTIP_KILL_HP,HP Recovery on kill,HP Recovery sa pag-patay
-UI_TOOLTIP_KILL_MP,MP Recovery on kill,MP Recovery sa pag-patay
-UI_TOOLTIP_KILL_FP,FP Recovery on kill,FP Recovery sa pag-patay
-UI_TOOLTIP_KILL_ALL,"HP, MP & FP Recovery on kill","HP, MP & FP Recovery on kill"
-UI_TOOLTIP_KILL_HP_RATE,HP Recovery Rate on kill,HP Recovery Rate on kill
-UI_TOOLTIP_KILL_MP_RATE,MP Recovery Rate on kill,MP Recovery Rate on kill
-UI_TOOLTIP_KILL_FP_RATE,FP Recovery Rate on kill,FP Recovery Rate on kill
-UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on kill","HP, MP & FP Recovery Rate on kill"
-UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Decreased Rate of MP & FP Consumption
-UI_TOOLTIP_CHRDMG,Additional Damage,Dagdag damage
-UI_TOOLTIP_PARRY,Parry,Parry
-UI_TOOLTIP_ATKPOWER,Increased Attack,Increased Attack
-UI_TOOLTIP_JUMPING,Jump Height,Jump Height
-UI_TOOLTIP_BLOCKRANGE,Ranged Block,Ranged Block
-UI_TOOLTIP_ALLSTAT,All Stats,All Stats
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,Increased HP
-UI_TOOLTIP_CONDITIONRATE,Magical Power,Magical Power
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Increased Defense
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,Increased MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,Increased FP
-UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Critical Chance
-UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Attribute Attack
-UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Mastery: Earth
-UI_TOOLTIP_DST_MASTRY_FIRE,Mastery: Fire,Mastery: Fire
-UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water,Mastery: Water
-UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity,Mastery: Electricity
-UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind,Mastery: Wind
-UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,All Elements Mastery
-UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,Reflect Damage
-UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,MP Consumption Decrease
-UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,FP Consumption Decrease
-UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,Casting Speed
-UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Action Speed
-UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Projectile Speed
-UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Disable Effect
-UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Weaken Effect
-UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,Critical Damage
-UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),Attack Power (Yo-Yo)
-UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),Attack Power (Bow)
-UI_TOOLTIP_DST_KNUCKLE_DMG,Attack Power (Knuckle),Attack Power (Knuckle)
-UI_TOOLTIP_DST_SWD_DMG,Attack Power (Sword),Attack Power (Sword)
-UI_TOOLTIP_DST_AXE_DMG,Attack Power (Axe),Attack Power (Axe)
-UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,Attack Speed Rate
-UI_TOOLTIP_DST_DMG_GET,Lifesteal,Lifesteal
-UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,Attack power and HP
-UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,Defense power and accuracy decrease
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Death's Rush Chance
-UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Ankou's Harvest
-UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Muran's Wrath
-UI_TOOLTIP_LOCOMOTION,Movement,Movement
-UI_TOOLTIP_RETURN_USE,Return to your former position.,Return to your former position.
-UI_DISPLAY_BUFFS,Show/hide buffs,Show/hide buffs
-UI_SELECTJOB_TITLE,Select new job,Select new job
+UI_TOOLTIP_HPRECOVERY,HP Recovery,Pagbawi ng HP
+UI_TOOLTIP_MPRECOVERY,MP Recovery,Pagbawi ng MP
+UI_TOOLTIP_FPRECOVERY,FP Recovery,Pagbawi ng FP
+UI_TOOLTIP_ALL_RECOVERY,"HP, MP & FP Recovery","Pagbawi ng HP, MP at FP"
+UI_TOOLTIP_ALL_RECOVERY_RATE,"HP, MP & FP Recovery Rate","Rate ng Pagbawi ng HP, MP at FP"
+UI_TOOLTIP_KILL_HP,HP Recovery on kill,Pagbawi ng HP sa pag-patay
+UI_TOOLTIP_KILL_MP,MP Recovery on kill,Pagbawi ng MP sa pag-patay
+UI_TOOLTIP_KILL_FP,FP Recovery on kill,Pagbawi ng FP sa pag-patay
+UI_TOOLTIP_KILL_ALL,"HP, MP & FP Recovery on kill","Pagbawi ng HP, MP at FP sa pag-patay"
+UI_TOOLTIP_KILL_HP_RATE,HP Recovery Rate on kill,Rate ng Pagbawi ng HP sa pag-patay
+UI_TOOLTIP_KILL_MP_RATE,MP Recovery Rate on kill,Rate ng Pagbawi ng MP sa pag-patay
+UI_TOOLTIP_KILL_FP_RATE,FP Recovery Rate on kill,Rate ng Pagbawi ng FP sa pag-patay
+UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on kill","Rate ng Pagbawi ng HP, MP at FP sa pag-patay"
+UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Binawasang Rate ng Pagkonsumo ng MP at FP
+UI_TOOLTIP_CHRDMG,Additional Damage,Karagdagang Pinsala
+UI_TOOLTIP_PARRY,Parry,Sangga
+UI_TOOLTIP_ATKPOWER,Increased Attack,Pinataas na Atake
+UI_TOOLTIP_JUMPING,Jump Height,Taas ng Luksong
+UI_TOOLTIP_BLOCKRANGE,Ranged Block,Saklaw ng Harang
+UI_TOOLTIP_ALLSTAT,All Stats,Lahat ng Estadistika
+UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,Pinataas na HP
+UI_TOOLTIP_CONDITIONRATE,Magical Power,Lakas ng Mahika
+UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Pinataas na Depensa
+UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,Pinataas na MP
+UI_TOOLTIP_DST_FP_RATE,Increased FP,Pinataas na FP
+UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Tsansa ng Kritikal
+UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Atake ng Atributo
+UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Karunungan: Lupa
+UI_TOOLTIP_DST_MASTRY_FIRE,Mastery: Fire,Karunungan: Apoy
+UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water,Karunungan: Tubig
+UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity,Karunungan: Kuryente
+UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind,Karunungan: Hangin
+UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,Lahat ng Elemento na Karunungan
+UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,Pagbabalik ng Pinsala
+UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,Binawasang Pagkonsumo ng MP
+UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,Binawasang Pagkonsumo ng FP
+UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,Bilis ng Pagbasa ng Spell
+UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Bilis ng Aksyon
+UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Bilis ng Proyektil
+UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Epekto ng Pag-disable
+UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Epekto ng Pagpapahina
+UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,Karagdagang Pinsala sa Kritikal
+UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),Lakas ng Atake (Yo-Yo)
+UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),Lakas ng Atake (Bow)
+UI_TOOLTIP_DST_KNUCKLE_DMG,Attack Power (Knuckle),Lakas ng Atake (Knuckle)
+UI_TOOLTIP_DST_SWD_DMG,Attack Power (Sword),Lakas ng Atake (Sword)
+UI_TOOLTIP_DST_AXE_DMG,Attack Power (Axe),Lakas ng Atake (Axe)
+UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,Rate ng Bilis ng Atake
+UI_TOOLTIP_DST_DMG_GET,Lifesteal,Pagnakaw ng buhay
+UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,Lakas ng Atake at HP
+UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,Bawasan ang Lakas ng Depensa at Katumpakan
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Tsansa ng Death's Rush
+UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Ani ng Ankou
+UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Galit ng Muran
+UI_TOOLTIP_LOCOMOTION,Movement,Paggalaw
+UI_TOOLTIP_RETURN_USE,Return to your former position.,Bumalik sa iyong dating posisyon.
+UI_DISPLAY_BUFFS,Show/hide buffs,Ipakita/itago ang mga buffs
+UI_SELECTJOB_TITLE,Select new job,Pumili ng bagong trabaho
 UI_NOTICE_DISCORD,Join our Discord server,Sumali sa aming Discord server
 UI_TOOLTIP_COMBO,Use skills in the Action Slot,Gumamit ng mga skills sa Action Slot
-UI_OPTION_ANTIALIAS,Antialiasing,Antialiasing
-UI_OPTION_LIGHTS,Lights,Lights
+UI_OPTION_ANTIALIAS,Antialiasing,Pagpapakinis ng mga gilid
+UI_OPTION_LIGHTS,Lights,Ilaw
 UI_TOOLTIP_HOTKEY,[Hotkey %s],[Hotkey %s]
 UI_STATUS_HP,HP,HP
 UI_STATUS_FP,FP,FP
 UI_STATUS_MP,MP,MP
 UI_STATUS_EXP,Exp,Exp
-UI_HELPTIPS_TITLE,Todays Tips,Todays Tips
+UI_HELPTIPS_TITLE,Todays Tips,Mga Payo Ngayon
 UI_HELPTIPS_DOYOUKNOW,Do you know?,Alam mo ba?
 UI_HELPFAQ_QUESTION,Q.,Q.
-UI_HIDE,Hide,Hide
+UI_HIDE,Hide,Itago
 UI_PARTY_INFO,Members,Mga Miyembro
-UI_PARTY_SKILL,Skills,Skills
-UI_PARTY_SETTINGS,Settings,Settings
+UI_PARTY_SKILL,Skills,Mga Kasanayan
+UI_PARTY_SETTINGS,Settings,Mga Setting
 UI_PARTY_NAME,Name:,Pangalan:
-UI_PARTY_LEVEL,Level:,Level:
-UI_PARTY_POINT,Points:,Points:
-UI_PARTY_EXPSHARE,Exp Share,Exp Share
-UI_PARTY_EXPMODE_LEVEL,Level,Lebel
-UI_PARTY_EXPMODE_LEVEL_TIP,Exp is distributed to the Party members according to their levels.,Ang Exp ay ipinamamahagi sa mga miyembro ng Party ayon sa kanilang mga level.
-UI_PARTY_EXPMODE_CONTRIB,Contribution,Contribution
-UI_PARTY_EXPMODE_CONTRIB_TIP,"Exp is distributed to the Party members according to their contribution to the combat. Contribution includes attacking, healing and tanking.","Ang Exp ay ipinamamahagi sa mga miyembro ng Party ayon sa kanilang kontribusyon sa labanan. Kasama sa kontribusyon ang pag-atake, pagpapagaling at pag-tank."
-UI_PARTY_LOOT,Distribute Item,Distribute Item
-UI_PARTY_LOOTMODE_IND,Individually,Individually
+UI_PARTY_LEVEL,Level:,Antas:
+UI_PARTY_POINT,Points:,Mga puntos:
+UI_PARTY_EXPSHARE,Exp Share,Pagbabahagi ng Karanasan
+UI_PARTY_EXPMODE_LEVEL,Level,Antas
+UI_PARTY_EXPMODE_LEVEL_TIP,Exp is distributed to the Party members according to their levels.,Ang Exp ay ipinamamahagi sa mga miyembro ng Partido ayon sa kanilang mga antas.
+UI_PARTY_EXPMODE_CONTRIB,Contribution,Kontribusyon
+UI_PARTY_EXPMODE_CONTRIB_TIP,"Exp is distributed to the Party members according to their contribution to the combat. Contribution includes attacking, healing and tanking.","Ang Exp ay ipinamamahagi sa mga miyembro ng Partido ayon sa kanilang kontribusyon sa labanan. Kasama sa kontribusyon ang pag-atake, pagpapagaling at pag-tank."
+UI_PARTY_LOOT,Distribute Item,Ipamahagi ang Item
+UI_PARTY_LOOTMODE_IND,Individually,Paisa-isa
 UI_PARTY_LOOTMODE_IND_TIP,This is a Free-For-All Loot type. Players are able to keep whatever they can pick up.,Ito ay isang Free-For-All na uri ng Loot. Nagagawa ng mga manlalaro na panatilihin ang anumang maaari nilang kunin.
-UI_PARTY_LOOTMODE_SEQ,Sequentially,Sequentially
+UI_PARTY_LOOTMODE_SEQ,Sequentially,Sunud-sunod
 UI_PARTY_LOOTMODE_SEQ_TIP,Items are distributed to the characters in order.,Ang mga item ay ipinamamahagi sa mga karakter sa pagkakasunud-sunod.
-UI_PARTY_LOOTMODE_MAN,Manually,Manually
-UI_PARTY_LOOTMODE_MAN_TIP,All items are given to the Party Leader. The Party Leader will them be able to distribute the items as they see fit.,Ang lahat ng items ay binibigay sa Party Leader. Ang Party Leader ang makakapagbigay ng mga items ayon sa kanilang kagustuhan.
-UI_PARTY_LOOTMODE_RAND,Randomly,Randomly
+UI_PARTY_LOOTMODE_MAN,Manually,Manwal
+UI_PARTY_LOOTMODE_MAN_TIP,All items are given to the Party Leader. The Party Leader will them be able to distribute the items as they see fit.,Ang lahat ng items ay binibigay sa Partidong Leader. Ang Partidong Leader ang makakapagbigay ng mga items ayon sa kanilang kagustuhan.
+UI_PARTY_LOOTMODE_RAND,Randomly,Walang pinipili
 UI_PARTY_LOOTMODE_RAND_TIP,Items are distributed randomly.,Ang mga item ay ibinahagi ng random.
-UI_PARTY_LOOTMODE_KILL,Killer,Killer
+UI_PARTY_LOOTMODE_KILL,Killer,Pumatay
 UI_PARTY_LOOTMODE_KILL_TIP,Items are distributed to the player who damaged the most the monster.,Ang mga item ay ibinahagi sa manlalaro na nakapinsala ng higit sa halimaw.
-UI_PARTY_SEARCHMODE,Search Mode,Search Mode
-UI_PARTY_TRANSFER,Transfer,Transfer
-UI_PARTY_LEAVE,Leave,Leave
-UI_PARTY_KICK,Kick,Kick
-UI_PARTY_CHANGE,Change,Change
-UI_PARTY_CONFIRM,Confirm Party,Confirm Party
-UI_PARTY_INVITEQUESTION,%s invites you to join the party. Do you accept?,Iniimbitahan ka ni %s na sumali sa party. Tinatanggap mo ba?
-UI_PARTY_LEAVE_TIP,"This option will allow members to leave the party or give the Party Leader the ability to remove a member. In order to remove a player, you will first need to select them, and then press the Leave Button.","Ang option na ito ay magpapahintulot sa mga miyembro na umalis sa party o magbibigay sa Party Leader ng kakayahang magtanggal ng isang miyembro. Upang maalis ang isang player, kailangan mo munang piliin ang mga ito, at pagkatapos ay pindutin ang Leave Button."
-UI_PARTY_TRANSFER_TIP,Transfer the party to another player. Select a new leader and the press the transfer button.,Ilipat ang party sa ibang player. Pumili ng bagong pinuno at pindutin ang pindutan ng paglipat.
-UI_PARTY_CONFIRM_TIP,Change the Party to Advanced Party.,Baguhin ang Party gawing Advanced Party.
-UI_PARTY_LEAVE_CONFIRM,Confirm leaving party.,Confirm leaving party.
-UI_PARTY_LEAVE_QUESTION,Are you going to leave the party?,Aalis ka na ba sa party?
-UI_PARTY_LEAVE_OTHER,Are you sure you want to remove this player from the party?,Sigurado ka bang gusto mong alisin ang player na ito sa party?
-UI_PARTY_QUICK_TIP,Please click the button to display basic party information.,Mangyaring i-click ang pindutan upang ipakita ang pangunahing impormasyon ng party.
-UI_PARTY_DETAIL_TIP,Please click the button for detailed party information.,Mangyaring i-click ang pindutan para sa detalyadong impormasyon ng party.
-UI_PARTY_CHANGETROUP,Do you want change to Advanced party?,Gusto mo ba magbago tungong Advanced party?
-UI_PARTY_CHANGEPARTY,Change Party,Change Party
-UI_PARTYNAME_ENTER,Enter Party Name,Enter Party Name
-UI_PARTYNAME_TITLE,Change Party Name,Change Party Name
-UI_FRIEND_CONFIRM,Add Friend Confirmation,Add Friend Confirmation
+UI_PARTY_SEARCHMODE,Search Mode,Modo ng Paghahanap
+UI_PARTY_TRANSFER,Transfer,Paglilipat
+UI_PARTY_LEAVE,Leave,Umalis
+UI_PARTY_KICK,Kick,Alisin
+UI_PARTY_CHANGE,Change,Ibahin
+UI_PARTY_CONFIRM,Confirm Party,Kumpirmahin ang Partido
+UI_PARTY_INVITEQUESTION,%s invites you to join the party. Do you accept?,Iniimbitahan ka ni %s na sumali sa partido. Tinatanggap mo ba?
+UI_PARTY_LEAVE_TIP,"This option will allow members to leave the party or give the Party Leader the ability to remove a member. In order to remove a player, you will first need to select them, and then press the Leave Button.","Ang option na ito ay magpapahintulot sa mga miyembro na umalis sa partido o magbibigay sa Party Leader ng kakayahang magtanggal ng isang miyembro. Upang maalis ang isang player, kailangan mo munang piliin ang mga ito, at pagkatapos ay pindutin ang Leave Button."
+UI_PARTY_TRANSFER_TIP,Transfer the party to another player. Select a new leader and the press the transfer button.,Ilipat ang partido sa ibang player. Pumili ng bagong pinuno at pindutin ang pindutan ng paglipat.
+UI_PARTY_CONFIRM_TIP,Change the Party to Advanced Party.,Baguhin ang Partido gawing Advanced Party.
+UI_PARTY_LEAVE_CONFIRM,Confirm leaving party.,Kumpirmahin ang pag-alis sa partido.
+UI_PARTY_LEAVE_QUESTION,Are you going to leave the party?,Aalis ka na ba sa partido?
+UI_PARTY_LEAVE_OTHER,Are you sure you want to remove this player from the party?,Sigurado ka bang gusto mong alisin ang player na ito sa partido?
+UI_PARTY_QUICK_TIP,Please click the button to display basic party information.,Mangyaring i-click ang pindutan upang ipakita ang pangunahing impormasyon ng partido.
+UI_PARTY_DETAIL_TIP,Please click the button for detailed party information.,Mangyaring i-click ang pindutan para sa detalyadong impormasyon ng partido.
+UI_PARTY_CHANGETROUP,Do you want change to Advanced party?,Gusto mo ba magbago tungong Advanced partido?
+UI_PARTY_CHANGEPARTY,Change Party,Ibahin ang Partido
+UI_PARTYNAME_ENTER,Enter Party Name,Ipasok ang pangalan ng Partido
+UI_PARTYNAME_TITLE,Change Party Name,Ibahin ang pangalan ng Partido
+UI_FRIEND_CONFIRM,Add Friend Confirmation,Kumpirmasyon sa pagdagdag ng Kaibigan
 UI_FRIEND_INVITEQUESTION,%s wants to be your friend. Do you accept?,Gusto ni %s na maging kaibigan mo. Tinatanggap mo ba?
 UI_MESSENGER_ONLINE,Online,Online
 UI_MESSENGER_OFFLINE,Offline,Offline
 UI_MESSENGER_ABSENT,AFK,AFK
-UI_MESSENGER_HARDPLAY,Addict Mode,Addict Mode
-UI_MESSENGER_REST,Resting / Vending,Resting / Vending
-UI_MESSENGER_EAT,Eating,Eating
-UI_MESSENGER_MOVE,Moving,Moving
-UI_MESSENGER_FRIEND,Friend,Friend
+UI_MESSENGER_HARDPLAY,Addict Mode,Modo Adik
+UI_MESSENGER_REST,Resting / Vending,Pagpapahinga / Pagbebenta
+UI_MESSENGER_EAT,Eating,Kumakain
+UI_MESSENGER_MOVE,Moving,Gumagalaw
+UI_MESSENGER_FRIEND,Friend,Kaibigan
 UI_MESSENGER_SORT_CHANNEL,Ch.,Ch.
-UI_MESSENGER_SORT_STATE,State,State
-UI_MESSENGER_SORT_LEVEL,Level,Lebel
+UI_MESSENGER_SORT_STATE,State,Estado
+UI_MESSENGER_SORT_LEVEL,Level,Antas
 UI_MESSENGER_SORT_NAME,Name,Pangalan
 UI_MESSENGER_SORT_JOB,Job,Trabaho
 UI_INSTANTMSG_JOIN,has logged into the game.,ay pumasok sa laro.
-UI_OPTION_JOIN_NOTIFICATION,Message alarm,Message alarm
+UI_OPTION_JOIN_NOTIFICATION,Message alarm,Alertang mensahe
 UI_MESSENGER_MENU_MESSAGE,Message,Mensahe
-UI_MESSENGER_MENU_UNBLOCK,Unblock,Unblock
-UI_MESSENGER_MENU_BLOCK,Block,Block
+UI_MESSENGER_MENU_UNBLOCK,Unblock,Alisin sa Block
+UI_MESSENGER_MENU_BLOCK,Block,I-Block
 UI_MESSENGER_MENU_DELETE,Delete,Burahin
-UI_MESSENGER_MENU_MOVE,Move,Move
-UI_MESSENGER_MENU_TAGSEND,Send a memo,Send a memo
+UI_MESSENGER_MENU_MOVE,Move,Ilipat
+UI_MESSENGER_MENU_TAGSEND,Send a memo,Magpadala ng memo
 UI_MESSENGER_ADD_FRIEND,Add a new friend,Magdagdag ng bagong kaibigan
-UI_ADDFRIEND_TITLE,Add friend,Add friend
-UI_ADDFRIEND_NAME,Enter Player Name,Enter Player Name
-UI_READMEMO_TITLE,Message Window,Message Window
-UI_SENDMEMO_TITLE,Message Sending Window,Message Sending Window
-UI_POST_TITLE,Post,Post
-UI_POST_TAB_SEND,Send Mail,Send Mail
-UI_POST_TAB_RECEIVE,Inbox,Inbox
-UI_OPTION_UISCALE,Scale,Scale
-UI_OPTION_TEXTSCALE,Font Size,Font Size
-UI_IGNORELIST_TITLE,Ignore List,Ignore List
-UI_IGNORELIST_COUNT,Ignored list: %d,Ignored list: %d
-UI_CHATFILTER_TITLE,Chatting Filter,Chatting Filter
-UI_CHATFILTER_GENERAL,General,General
-UI_CHATFILTER_WHISPER,Whisper,Whisper
-UI_CHATFILTER_SHOUT,Shout,Shout
+UI_ADDFRIEND_TITLE,Add friend,Magdagdag ng Kaibigan
+UI_ADDFRIEND_NAME,Enter Player Name,Ipasok ang Pangalan ng Player
+UI_READMEMO_TITLE,Message Window,Window ng Mensahe
+UI_SENDMEMO_TITLE,Message Sending Window,Window ng Pagpapadala ng Mensahe
+UI_POST_TITLE,Post,I-Post
+UI_POST_TAB_SEND,Send Mail,Magpadala ng Mail
+UI_POST_TAB_RECEIVE,Inbox,Lalagyan ng mensahe
+UI_OPTION_UISCALE,Scale,Sukat
+UI_OPTION_TEXTSCALE,Font Size,Laki ng Font
+UI_IGNORELIST_TITLE,Ignore List,Listahan ng hindi pinapansin
+UI_IGNORELIST_COUNT,Ignored list: %d,Bilang ng hindi pinapansin: %d
+UI_CHATFILTER_TITLE,Chatting Filter,Filter ng Chat
+UI_CHATFILTER_GENERAL,General,Pangkalahatan
+UI_CHATFILTER_WHISPER,Whisper,Bulong
+UI_CHATFILTER_SHOUT,Shout,Sigaw
 UI_CHATFILTER_PARTY,Party,Partido
 UI_CHATFILTER_GUILD,Guild,Guild
-UI_CHATFILTER_RESET_COLORS,Reset Defaults,Reset Defaults
-UI_POSTSEND_TO,Receiver,Receiver
-UI_POSTSEND_TITLE,Title,Title
+UI_CHATFILTER_RESET_COLORS,Reset Defaults,I-reset ang mga default
+UI_POSTSEND_TO,Receiver,Tumatanggap
+UI_POSTSEND_TITLE,Title,Titulo
 UI_POSTSEND_GOLD,Penya,Penya
-UI_POSTSEND_PRICE,Rental Fee: %d Penya,Rental Fee: %d Penya
+UI_POSTSEND_PRICE,Rental Fee: %d Penya,Bayad sa Paupahan: %d Penya
 UI_POSTSEND_SEND,Send,Ipadala
-UI_ITEMSLOT_TITLE,Item confirmation,Item confirmation
+UI_ITEMSLOT_TITLE,Item confirmation,Kumpirmasyon ng Item
 UI_ITEMSLOT_QUESTION,How many items?,Ilang item?
-UI_ITEMSLOT_COUNT,Count:,Count:
+UI_ITEMSLOT_COUNT,Count:,Bilang:
 UI_POSTSEND_CONFIRM,Are you sure you want to send?\nMail expires after %d days,Sigurado ka bang gusto mong magpadala?\nMag-e-expire ang mail pagkatapos ng %d araw
 UI_POST_NO_MAIL,You don't have any mail,Wala kang anumang mail
-UI_POST_UNKNOWN,Unknown,Unknown
-UI_POST_RECEIVE_DATE,Date Received: %s,Date Received: %s
-UI_POSTREAD_TITLE,Check Post Box,Check Post Box
-UI_POSTREAD_FROM,Sender,Sender
+UI_POST_UNKNOWN,Unknown,Hindi kilala
+UI_POST_RECEIVE_DATE,Date Received: %s,Petsa ng Pagtanggap: %s
+UI_POSTREAD_TITLE,Check Post Box,Suriin ang Post Box
+UI_POSTREAD_FROM,Sender,Tagapagpadala
 UI_POSTREAD_DELETE,Delete,Burahin
-UI_POSTREAD_DELETE_ALL,Delete all read mails,Delete all read mails
-UI_POSTREAD_DELETEALL_CONFIRM,Delete selected mails? Items and penya will be deleted as well.,Delete selected mails? Items and penya will be deleted as well.
-UI_POSTREAD_REPLY,Reply,Reply
-UI_POSTREAD_DELETETITLE,Delete Mail,Delete Mail
+UI_POSTREAD_DELETE_ALL,Delete all read mails,Burahin lahat ng nabasang mail
+UI_POSTREAD_DELETEALL_CONFIRM,Delete selected mails? Items and penya will be deleted as well.,Tanggalin ang napiling mail? Ang mga item at penya ay tatanggalin din.
+UI_POSTREAD_REPLY,Reply,Sagot
+UI_POSTREAD_DELETETITLE,Delete Mail,Tanggalin ang Mail
 UI_POSTREAD_DELETECONFIRM,Delete this mail? Items and penya will be deleted as well.,Tanggalin ang mail na ito? Ang mga item at penya ay tatanggalin din.
 UI_POSTREAD_MAILEXPIRED,Mail Expired,Mail Expired
 UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s penya to recover it.,Nag-expire ang mail na ito %d araw ang nakalipas. Kailangan mong magbayad ng %s penya upang mabawi ito.
-UI_QUEST_CANCEL,Remove quest,Remove quest
-UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Cancel Quest in Progress
-UI_QUEST_ALLQUESTS,All Quests,All Quests
-UI_QUEST_INPROGRESS,In Progress,In Progress
-UI_QUEST_COMPLETED,Completed,Completed
-UI_QUEST_LIST,Quest List,Quest List
-UI_QUEST_DETAIL,Quest Details,Quest Details
-UI_QUEST_REWARDS,Reward List,Reward List
-UI_QUEST_CONDITIONS,Quest Condition,Quest Condition
+UI_QUEST_CANCEL,Remove quest,Tanggalin ang quest
+UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Ikansela ang Quest na Kasalukuyang Isinasagawa
+UI_QUEST_ALLQUESTS,All Quests,Lahat ng Quest
+UI_QUEST_INPROGRESS,In Progress,Kasalukuyang Isinasagawa
+UI_QUEST_COMPLETED,Completed,Natapos
+UI_QUEST_LIST,Quest List,Listahan ng Quest
+UI_QUEST_DETAIL,Quest Details,Detalye ng Quest
+UI_QUEST_REWARDS,Reward List,Listahan ng Gantimpala
+UI_QUEST_CONDITIONS,Quest Condition,Kondisyon ng Quest
 UI_QUEST_GOLD1,Penya: %d,Penya: %d
 UI_QUEST_GOLD2,Penya: %d~%d,Penya: %d~%d
 UI_QUEST_GOLD3,Penya: ????,Penya: ????
-UI_QUEST_EXP1,Experience Gained.,Experience Gained.
-UI_QUEST_EXP2,Experience: %.2f%%,Experience: %.2f%%
-UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Couple Experience: %.2f%%
-UI_QUEST_SKILLPOINT,Skill points,Skill points
-UI_QUEST_INVENTORYSLOT1,Inventory Space,Inventory Space
-UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,Inventory Space: %d
+UI_QUEST_EXP1,Experience Gained.,Nakamit na Karanasan.
+UI_QUEST_EXP2,Experience: %.2f%%,Karanasan: %.2f%%
+UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Karanasan ng Magkasintahan: %.2f%%
+UI_QUEST_SKILLPOINT,Skill points,Puntos ng Kasanayan
+UI_QUEST_INVENTORYSLOT1,Inventory Space,Espasyo ng Imbentaryo
+UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,Espasyo ng Imbentaryo: %d
 UI_QUEST_MODIFY_KARMA1,Collected Karma Point: %d,Nakolektang Karma Point: %d
 UI_QUEST_MODIFY_KARMA2,Collected Karma Point: ????,Nakolektang Karma Point: ????
 UI_QUEST_ADD_KARMA1,Added Karma Point: %d,Dagdag Karma Point: %d
 UI_QUEST_ADD_KARMA2,Added Karma Point: ????,Dagdag Karma Point: ????
-UI_QUEST_ITEM1,Item: %s(%d),Item: %s(%d)
-UI_QUEST_ITEM2,Item: ????,Item: ????
-UI_QUEST_COND_COMPLETED,Quest completed.,Quest completed.
+UI_QUEST_ITEM1,Item: %s(%d),Bagay: %s(%d)
+UI_QUEST_ITEM2,Item: ????,Bagay: ????
+UI_QUEST_COND_COMPLETED,Quest completed.,Natapos na ang Quest.
 UI_QUEST_LIMIT_TIME,Time Left: #b%d minutes#nb,Natitirang Oras: #b%d minuto#nb
 UI_QUEST_LIMIT_TIMEOUT,#bYou exceeded the time limit#nb,#bLumampas ka sa limitasyon sa oras#nb
-UI_QUEST_KILL_NPC,Defeat %s #cffc32f07#b%d/%d#nb#nc,Defeat %s #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_KILL_NPC,Defeat %s #cffc32f07#b%d/%d#nb#nc,Tumalo ng %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_ITEM,%s #cffc32f07#b%d/%d#nb#nc,%s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PATROL,%s Search,%s Search
+UI_QUEST_PATROL,%s Search,%s Humanap
 UI_QUEST_COMPLETE_TEXT,[Complete],[Kumpleto]
 UI_QUEST_NODISGUISE,Transformed into a human,Nagbagong anyo bilang tao
 UI_QUEST_DISGUISE,Transformed into %s,Nagbagong anyo bilang %s
-UI_QUEST_SKILLLVL,%s Skill Level #b(%d/%d)#nb,%s Skill Level #b(%d/%d)#nb
-UI_QUEST_KARMA_POINT,Karma Point #b(%d %s %d)#nb,Karma Point #b(%d %s %d)#nb
-UI_QUEST_PARTY_SOLO,Going solo,Going solo
-UI_QUEST_PARTY,Create party,Gumawa ng party
-UI_QUEST_PARTY_LEADER,Party Leader,Party Leader
-UI_QUEST_PARTY_MEMBER,Non-Party Leader,Non-Party Leader
-UI_QUEST_PARTY_NUM,Number of Party Members #b(%d %s %d)#nb,Bilang ng mga Miyembro ng Party #b(%d %s %d)#nb
-UI_QUEST_PARTY_LEADER_NUM,"Party Leader, Number of Party Members #b(%d %s %d)#nb","Party Leader, Bilang ng mga Miyembro ng Party #b(%d %s %d)#nb"
-UI_QUEST_PARTY_MEMBER_NUM,"Non-Party Leader, Number of Party Members #b(%d %s %d)#nb","Non-Party Leader, Bilang ng mga Miyembro ng Party #b(%d %s %d)#nb"
-UI_QUEST_GUILD_SOLO,Non-Guild Mode,Non-Guild Mode
+UI_QUEST_SKILLLVL,%s Skill Level #b(%d/%d)#nb,%s Antas ng Kasanayan #b(%d/%d)#nb
+UI_QUEST_KARMA_POINT,Karma Point #b(%d %s %d)#nb,Karmang Punto #b(%d %s %d)#nb
+UI_QUEST_PARTY_SOLO,Going solo,Nag-iisa
+UI_QUEST_PARTY,Create party,Gumawa ng partido
+UI_QUEST_PARTY_LEADER,Party Leader,Pinuno ng Partido
+UI_QUEST_PARTY_MEMBER,Non-Party Leader,Hindi Pinuno ng Partido
+UI_QUEST_PARTY_NUM,Number of Party Members #b(%d %s %d)#nb,Bilang ng mga Miyembro ng Partido #b(%d %s %d)#nb
+UI_QUEST_PARTY_LEADER_NUM,"Party Leader, Number of Party Members #b(%d %s %d)#nb","Pinuno ng Partido, Bilang ng mga Miyembro ng Partido #b(%d %s %d)#nb"
+UI_QUEST_PARTY_MEMBER_NUM,"Non-Party Leader, Number of Party Members #b(%d %s %d)#nb","Hindi Pinuno ng Partido, Bilang ng mga Miyembro ng Partido #b(%d %s %d)#nb"
+UI_QUEST_GUILD_SOLO,Non-Guild Mode,Hindi Kasapi ng Guild
 UI_QUEST_GUILD,Create Guild,Lumikha ng Guild
-UI_QUEST_GUILD_LEADER,Guild Leader,Guild Leader
-UI_QUEST_GUILD_MEMBER,Non-Guild Leader,Non-Guild Leader
+UI_QUEST_GUILD_LEADER,Guild Leader,Pinuno ng Guild
+UI_QUEST_GUILD_MEMBER,Non-Guild Leader,Hindi Pinuno ng Guild
 UI_QUEST_GUILD_NUM,Number of Guild Members #b(%d %s %d)#nb,Bilang ng mga Miyembro ng Guild #b(%d %s %d)#nb
-UI_QUEST_GUILD_LEADER_NUM,"Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Guild Leader, Bilang ng mga Miyembro ng Guild #b(%d %s %d)#nb"
-UI_QUEST_GUILD_MEMBER_NUM,"Non-Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Non-Guild Leader, Bilang ng mga Miyembro ng Guild #b(%d %s %d)#nb"
+UI_QUEST_GUILD_LEADER_NUM,"Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Pinuno ng Guild, Bilang ng mga Miyembro ng Guild #b(%d %s %d)#nb"
+UI_QUEST_GUILD_MEMBER_NUM,"Non-Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Hindi Pinuno ng Guild, Bilang ng mga Miyembro ng Guild #b(%d %s %d)#nb"
 UI_QUEST_CHAOTIC1,You became a criminal.,Ikaw ay naging kriminal.
 UI_QUEST_CHAOTIC2,You have been acquitted of your crimes.,Ikaw ay napawalang-sala sa iyong mga krimen.
 UI_QUEST_DIALOG,Chat with #cff78e12f%s#nc,Makipag-usap kay #cff78e12f%s#nc
@@ -437,674 +437,674 @@ UI_QUEST_CANCEL_CONFIRM,Are you going to cancel the quest?,Kakanselahin mo ba an
 UI_CONFIRMATION,Confirmation,Kumpirmasyon
 UI_QUEST_DESTINATION_TITLE,Destination,Destinasyon
 UI_MSGBOX_INFO,Information,Impormasyon
-UI_OPTION_UIALPHA,Opacity,Opacity
-UI_QUESTGOAL,Quest Goal,Quest Goal
-UI_GUILD_TAB_INFO,Info,Info
+UI_OPTION_UIALPHA,Opacity,Kalabuan
+UI_QUESTGOAL,Quest Goal,Layunin ng Misyon
+UI_GUILD_TAB_INFO,Info,Impormasyon
 UI_GUILD_TAB_MEMBER,Members,Mga Miyembro
 UI_GUILD_TAB_GRADE,Titles,Mga Titulo
-UI_GUILD_TAB_WAR,Guild Duel,Guild Duel
+UI_GUILD_TAB_WAR,Guild Duel,Duel ng Guild
 UI_GUILD_NAME,Name:,Pangalan:
 UI_GUILD_NAME_BUTTON,Name,Pangalan
-UI_GUILD_MASTER,Master:,Master:
+UI_GUILD_MASTER,Master:,Puno:
 UI_GUILD_EXP,Exp:,Exp:
 UI_GUILD_PENYA,Penya:,Penya:
-UI_GUILD_LEVEL,Level:,Level:
-UI_GUILD_MEMBER,Members:,Members:
+UI_GUILD_LEVEL,Level:,Antas:
+UI_GUILD_MEMBER,Members:,Mga Miyembro
 UI_GUILD_DISCORD_TIP,Join the Guild Discord.,Sumali sa Guild Discord.
 UI_GUILD_LOGO,Logo:,Logo:
 UI_GUILD_LOGO_BUTTON,Logo,Logo
 UI_GUILD_NOTICE,Notice,Paunawa
-UI_GUILD_DISMISS,Dismiss,Dismiss
-UI_GUILD_NOTICE_TIP,Set your guild's notice.,Set your guild's notice.
+UI_GUILD_DISMISS,Dismiss,Itakwil
+UI_GUILD_NOTICE_TIP,Set your guild's notice.,Itakda ang paunawa ng iyong guild.
 UI_GUILD_LOGO_TIP,Change your guild's logo.,Baguhin ang logo ng iyong guild.
-UI_GUILD_NAME_TIP,This establishes your guild's name. It can be done only once.,This establishes your guild's name. It can be done only once.
-UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!","Disband your guild. Be careful, there's no going back!"
-UI_GUILDNAME_ENTER,Enter Guild Name,Enter Guild Name
-UI_GUILDNAME_TITLE,Guild Name Setup,Guild Name Setup
-UI_GUILDNOTICE_TITLE,Guild Notice Setup,Guild Notice Setup
-UI_GUILDNOTICESEARCH_TITLE,Guild Search Notice Setup,Guild Search Notice Setup
+UI_GUILD_NAME_TIP,This establishes your guild's name. It can be done only once.,Itinatakda nito ang pangalan ng iyong guild. Maaari lamang itong gawin nang isang beses.
+UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!","I-dissband ang iyong guild. Mag-ingat, walang balik!"
+UI_GUILDNAME_ENTER,Enter Guild Name,Ipasok ng Pangalan ng Guild
+UI_GUILDNAME_TITLE,Guild Name Setup,Pagsasaayos ng Pangalan ng Guild
+UI_GUILDNOTICE_TITLE,Guild Notice Setup,Pagsasaayos ng Paunawa ng Guild
+UI_GUILDNOTICESEARCH_TITLE,Guild Search Notice Setup,Pagsasaayos ng Paghahanap ng Paunawa ng Guild
 UI_GUILDNOTICE_NEW,New,Bago
-UI_GUILDNOTICE_SAVE,Save,Save
-UI_GUILDNOTICE_NEW_TIP,Write new Guild Notice.,Write new Guild Notice.
-UI_GUILDNOTICE_SAVE_TIP,"Open the Notice, and send it to other characters.","Open the Notice, and send it to other characters."
-UI_GUILDLOGO_TITLE,Guild Logo Setup,Guild Logo Setup
-UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,Disband Guild Confirmation
-UI_GUILDDISMISS_CONFIRM,"Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well.","Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well."
-UI_GUILD_PAY,Salary,Salary
-UI_GUILD_PAY_SETUP,Setup,Setup
+UI_GUILDNOTICE_SAVE,Save,I-save
+UI_GUILDNOTICE_NEW_TIP,Write new Guild Notice.,Sumulat ng bagong Paunawa ng Guild.
+UI_GUILDNOTICE_SAVE_TIP,"Open the Notice, and send it to other characters.","Buksan ang Paunawa, at ipadala ito sa ibang mga karakter."
+UI_GUILDLOGO_TITLE,Guild Logo Setup,Pagsasaayos ng Logo ng Guild
+UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,Kumpirmasyon ng Pagkakawatak-watak ng Guild
+UI_GUILDDISMISS_CONFIRM,"Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well.","Gusto mo bang i-dissband ang guild? Tandaan na kung ang iyong guild ay nagmamay-ari ng isang bahay, mawawala rin sa iyo ang pagmamay-ari ng guild house."
+UI_GUILD_PAY,Salary,Sweldo
+UI_GUILD_PAY_SETUP,Setup,Pagsasaayos
 UI_GUILD_GRADE_MEMBER,Members,Mga Miyembro
-UI_GUILD_POWERS,Powers,Powers
-UI_GUILD_POWER_TITLE,Title,Title
-UI_GUILD_POWER_RANK,Rank,Rank
+UI_GUILD_POWERS,Powers,Mga Kapangyarihan
+UI_GUILD_POWER_TITLE,Title,Titulo
+UI_GUILD_POWER_RANK,Rank,Ranggo
 UI_GUILD_POWER_JOIN,Join,Sumali
-UI_GUILD_POWER_ITEM,Item,Item
+UI_GUILD_POWER_ITEM,Item,Bagay
 UI_GUILD_POWER_PENYA,Penya,Penya
-UI_GUILD_POWER_SPECTATE,Spectate,Spectate
-UI_GUILD_POWER_TIP,Apply Settings,Apply Settings
-UI_GUILD_POWER_SAVE,Save,Save
-UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),Set %s pay.(It will be paid at 00:00 automatically)
-UI_GUILDPAY_TITLE,Setup Pay per Title,Setup Pay per Title
-UI_GUILDPAY_MESSAGE,What amount will you set for payment?,What amount will you set for payment?
-UI_GUILDPAY_AMOUNT,Amount,Amount
-UI_GUILD_GRADE,Title,Title
-UI_GUILD_ALIAS,Nickname,Nickname
-UI_GUILD_APPELATION_UP,Promote Member,Promote Member
-UI_GUILD_APPELATION_DOWN,Demote Member,Demote Member
-UI_GUILD_CLASS_UP,Class Up,Class Up
-UI_GUILD_CLASS_DOWN,Class Down,Class Down
-UI_GUILD_CREATE_ALIAS,Create Nickname,Create Nickname
-UI_GUILD_LEAVE,Leave Guild,Leave Guild
-UI_GUILD_TRANSFER_LEADER,Promote to Guild Master,Promote to Guild Master
-UI_GUILDALIAS_TITLE,Setup Guild Title,Setup Guild Title
-UI_GUILDALIAS_ENTER,Enter Title,Enter Title
-UI_GUILDINVITE_TITLE,Invite to Guild,Invite to Guild
-UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Do you accept?,%s invites you to join the guild %s. Do you accept?
-UI_GUILD_JOINQUESTION,%s wants to join your guild. Do you accept?,%s wants to join your guild. Do you accept?
-UI_GUILDBANK_TITLE,Guild Safebox,Guild Safebox
+UI_GUILD_POWER_SPECTATE,Spectate,Panoorin
+UI_GUILD_POWER_TIP,Apply Settings,Ilapat ang Mga Setting
+UI_GUILD_POWER_SAVE,Save,I-save
+UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),Itakda ang %s na sweldo.(Awtomatikong babayaran sa 00:00)
+UI_GUILDPAY_TITLE,Setup Pay per Title,Pagsasaayos ng Sweldo bawat Titulo
+UI_GUILDPAY_MESSAGE,What amount will you set for payment?,Anong halaga ang itatakda mo para sa bayad?
+UI_GUILDPAY_AMOUNT,Amount,Halaga
+UI_GUILD_GRADE,Title,Titulo
+UI_GUILD_ALIAS,Nickname,Palayaw
+UI_GUILD_APPELATION_UP,Promote Member,Itaguyod ang Miyembro
+UI_GUILD_APPELATION_DOWN,Demote Member,Ibaba ang Miyembro
+UI_GUILD_CLASS_UP,Class Up,Itaguyod ang Klase
+UI_GUILD_CLASS_DOWN,Class Down,Ibaba ang Klase
+UI_GUILD_CREATE_ALIAS,Create Nickname,Lumikha ng Palayaw
+UI_GUILD_LEAVE,Leave Guild,Umalis sa Guild
+UI_GUILD_TRANSFER_LEADER,Promote to Guild Master,Itaguyod sa Guild Master
+UI_GUILDALIAS_TITLE,Setup Guild Title,Pagsasaayos ng Titulo ng Guild
+UI_GUILDALIAS_ENTER,Enter Title,Ipasok ang Titulo
+UI_GUILDINVITE_TITLE,Invite to Guild,Mag-imbita sa Guild
+UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Do you accept?,%s ay nag-imbita sa iyo na sumali sa guild %s. Tinatanggap mo ba?
+UI_GUILD_JOINQUESTION,%s wants to join your guild. Do you accept?,%s ay nais sumali sa iyong guild. Tinatanggap mo ba?
+UI_GUILDBANK_TITLE,Guild Safebox,Kaban ng Guild
 UI_GUILDBANK_SUPPORT,Support,Suporta
 UI_GUILDBANK_CLOAK,Cloak,Balabal
-UI_GUILDBANK_ITEM,Item,Item
-UI_GUILDMERIT_TITLE,Guild Contributing,Guild Contributing
-UI_GUILDMERIT_QUESTITEMS,Quest Items,Quest Items
+UI_GUILDBANK_ITEM,Item,Bagay
+UI_GUILDMERIT_TITLE,Guild Contributing,Pagsusulong ng Guild
+UI_GUILDMERIT_QUESTITEMS,Quest Items,Mga Item ng Quest
 UI_GUILDMERIT_PENYA,Penya,Penya
-UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Guild Siege Information
-UI_GUILDBANKLOG_TITLE,Guild Bank Log,Guild Bank Log
-UI_GUILDBANKLOG_ADDITEM,Add Item,Add Item
-UI_GUILDBANKLOG_REMOVEITEM,Remove Item,Remove Item
-UI_GUILDBANKLOG_ADDGOLD,Deposit Penya,Deposit Penya
-UI_GUILDBANKLOG_REMOVEGOLD,Withdraw Penya,Withdraw Penya
-UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,Add
-UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,Remove
-UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,Deposit Penya
-UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,Withdraw Penya
-UI_MOVEPENYA_TITLE,Transfer Penya,Transfer Penya
-UI_MOVEPENYA_QUESTION,How many do you want to move?,How many do you want to move?
+UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Impormasyon ng Pagsalakay ng Guild
+UI_GUILDBANKLOG_TITLE,Guild Bank Log,Talaan ng Kaban ng Guild
+UI_GUILDBANKLOG_ADDITEM,Add Item,Magdagdag ng Bagay
+UI_GUILDBANKLOG_REMOVEITEM,Remove Item,Alisin ang Bagay
+UI_GUILDBANKLOG_ADDGOLD,Deposit Penya,Magdeposito ng Penya
+UI_GUILDBANKLOG_REMOVEGOLD,Withdraw Penya,Mag-withdraw ng Penya
+UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,Magdagdag
+UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,Alisin
+UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,Magdeposito ng Penya
+UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,Mag-withdraw ng Penya
+UI_MOVEPENYA_TITLE,Transfer Penya,Maglipat ng Penya
+UI_MOVEPENYA_QUESTION,How many do you want to move?,Ilan ang nais mong ilipat?
 UI_MOVEPENYA_INPUT,Penya:,Penya:
-UI_GUILDRANK_TITLE_GUILD,Guild Ranking,Guild Ranking
-UI_GUILDRANK_TITLE_INFO,Other Ranking,Other Ranking
-UI_GUILDRANK_TITLE_WAR,Guild Duel Ranking,Guild Duel Ranking
-UI_GUILDRANK_TAB_WAR_WIN,Most Wins,Most Wins
-UI_GUILDRANK_TAB_WAR_LOSE,Most Losses,Most Losses
-UI_GUILDRANK_TAB_WAR_GIVEUP,Most Surrenders,Most Surrenders
-UI_GUILDRANK_TAB_INFO_LEVEL,Highest Guild Level,Highest Guild Level
-UI_GUILDRANK_TAB_INFO_PLAYTIME,Longest Playtime,Longest Playtime
-UI_GUILDRANK_TAB_GUILD_BEST,Best Guild,Best Guild
-UI_GUILDRANK_TAB_GUILD_UNITED,Best Guild of Unity,Best Guild of Unity
-UI_GUILDRANK_TAB_GUILD_PENYA,Richest Guild,Richest Guild
-UI_GUILDRANK_RANKING,Ranking,Ranking
-UI_GUILDRANK_GUILDNAME,Guild Name,Guild Name
-UI_GUILDRANK_LEADERNAME,Master Name,Master Name
-UI_GUILDRANK_WINLOSE,Win / Lose,Win / Lose
-UI_GUILDRANK_AVGLEVEL,Average Level,Average Level
-UI_GUILD_WAR_DECLARE,Duel,Duel
-UI_GUILD_WAR_PEACE,Peace,Peace
-UI_GUILD_WAR_GIVEUP,Give Up,Give Up
-UI_GUILD_WAR_NAME,Guild Name:,Guild Name:
-UI_GUILD_WAR_LOGO,Guild Logo:,Guild Logo:
-UI_GUILD_WAR_WON,Won:,Won:
-UI_GUILD_WAR_LOST,Lost:,Lost:
-UI_GUILD_WAR_GAVEUP,Gave Up:,Gave Up:
-UI_GUILD_WAR_TIMELEFT,Time Left:,Time Left:
-UI_OPTION_THEME,Theme,Theme
-UI_HOME_PROLOGUE,Prologue,Prologue
-UI_SKILL_PLUS_TIP,Upgrade Skill Level,Upgrade Skill Level
-UI_SKILL_MAX_TIP,Maximize Skill Level,Maximize Skill Level
-UI_SKILL_MINUS_TIP,Downgrade Skill Level,Downgrade Skill Level
-UI_SKILL_RESET,Reset,Reset
-UI_SKILL_RESET_TIP,Redistribute skill point (Skill Point used is unavailable.),Redistribute skill point (Skill Point used is unavailable.)
-UI_SKILL_SAVE,Finish,Finish
-UI_SKILL_SAVE_TIP,Skill Point is distributed by pressing + or – button.,Skill Point is distributed by pressing + or – button.
-UI_SKILL_POINTS,Skill Points,Skill Points
-UI_WARNING,Warning,Warning
-UI_SKILL_CONFIRM_QUESTION,Confirm changes to skill points?,Confirm changes to skill points?
-UI_OPTION_VIBRATIONS,Vibrations,Vibrations
-UI_INVENTORY_SORT,Sort Item,Sort Item
-UI_ITEM_DURATION_TITLE,Item Duration,Item Duration
-UI_ITEM_DURATION_TIME_LEFT,Time Left,Time Left
-UI_QUERY_EQUIP_TITLE,View,View
-UI_OPTION_EQUIP_VIEW,Equipment View,Equipment View
-UI_OPTION_DUEL_REQUESTS,Duel Requests,Duel Requests
-UI_OPTION_DUEL_BETS,Duel Bets,Duel Bets
+UI_GUILDRANK_TITLE_GUILD,Guild Ranking,Ranggo ng Guild
+UI_GUILDRANK_TITLE_INFO,Other Ranking,Iba pang Ranggo
+UI_GUILDRANK_TITLE_WAR,Guild Duel Ranking,Ranggo ng Duel ng Guild
+UI_GUILDRANK_TAB_WAR_WIN,Most Wins,Pinakamaraming Panalo
+UI_GUILDRANK_TAB_WAR_LOSE,Most Losses,Pinakamaraming Pagkatalo
+UI_GUILDRANK_TAB_WAR_GIVEUP,Most Surrenders,Pinakamaraming Pagsuko
+UI_GUILDRANK_TAB_INFO_LEVEL,Highest Guild Level,Pinakamataas na Antas ng Guild
+UI_GUILDRANK_TAB_INFO_PLAYTIME,Longest Playtime,Pinakamahabang Oras ng Paglalaro
+UI_GUILDRANK_TAB_GUILD_BEST,Best Guild,Pinakamahusay na Guild
+UI_GUILDRANK_TAB_GUILD_UNITED,Best Guild of Unity,Pinakamahusay na Guild ng Pagkakaisa
+UI_GUILDRANK_TAB_GUILD_PENYA,Richest Guild,Pinakamayamang Guild
+UI_GUILDRANK_RANKING,Ranking,Ranggo
+UI_GUILDRANK_GUILDNAME,Guild Name,Pangalan ng Guild
+UI_GUILDRANK_LEADERNAME,Master Name,Pangalan ng Pinuno
+UI_GUILDRANK_WINLOSE,Win / Lose,Panalo / Talo
+UI_GUILDRANK_AVGLEVEL,Average Level,Karaniwang Antas
+UI_GUILD_WAR_DECLARE,Duel,Duelyo
+UI_GUILD_WAR_PEACE,Peace,Kapayapaan
+UI_GUILD_WAR_GIVEUP,Give Up,Susuko
+UI_GUILD_WAR_NAME,Guild Name:,Pangalan ng Guild:
+UI_GUILD_WAR_LOGO,Guild Logo:,Logo ng Guild:
+UI_GUILD_WAR_WON,Won:,Panalo:
+UI_GUILD_WAR_LOST,Lost:,Talo:
+UI_GUILD_WAR_GAVEUP,Gave Up:,Sumuko:
+UI_GUILD_WAR_TIMELEFT,Time Left:,Natitirang Oras:
+UI_OPTION_THEME,Theme,Tema
+UI_HOME_PROLOGUE,Prologue,Panimula
+UI_SKILL_PLUS_TIP,Upgrade Skill Level,Pag-upgrade ng Antas ng Kasanayan
+UI_SKILL_MAX_TIP,Maximize Skill Level,Pag-maximize ng Antas ng Kasanayan
+UI_SKILL_MINUS_TIP,Downgrade Skill Level,Pag-downgrade ng Antas ng Kasanayan
+UI_SKILL_RESET,Reset,I-reset
+UI_SKILL_RESET_TIP,Redistribute skill point (Skill Point used is unavailable.),I-redistribute ang puntos ng kasanayan (Hindi magagamit ang ginamit na puntos ng kasanayan)
+UI_SKILL_SAVE,Finish,Tapos na
+UI_SKILL_SAVE_TIP,Skill Point is distributed by pressing + or – button.,I-distribute ang puntos ng kasanayan sa pamamagitan ng pagpindot sa + o – na button.
+UI_SKILL_POINTS,Skill Points,Puntos ng Kasanayan
+UI_WARNING,Warning,Babala
+UI_SKILL_CONFIRM_QUESTION,Confirm changes to skill points?,Kumpirmahin ang mga pagbabago sa puntos ng kasanayan?
+UI_OPTION_VIBRATIONS,Vibrations,Panginginig
+UI_INVENTORY_SORT,Sort Item,Ayusin ang Bagay
+UI_ITEM_DURATION_TITLE,Item Duration,Tagal ng Bagay
+UI_ITEM_DURATION_TIME_LEFT,Time Left,Natitirang Oras
+UI_QUERY_EQUIP_TITLE,View,Tingnan
+UI_OPTION_EQUIP_VIEW,Equipment View,Tingnan ang Kagamitan
+UI_OPTION_DUEL_REQUESTS,Duel Requests,Hiling sa Duel
+UI_OPTION_DUEL_BETS,Duel Bets,Pusta sa Duel
 UI_TRADE_TITLE,Trade,Kalakal
 UI_TRADE_PENYA,Penya,Penya
-UI_DROP_FILTER_TITLE,Pick Up Pet,Pick Up Pet
-UI_DROP_FILTER_SETTINGS,Pick Up item settings,Pick Up item settings
-UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Equipment
-UI_DROP_FILTER_0,Weapons,Weapons
-UI_DROP_FILTER_1,Armor,Armor
-UI_DROP_FILTER_2,Accessory,Accessory
+UI_DROP_FILTER_TITLE,Pick Up Pet,Kumuha ng Alagang Hayop
+UI_DROP_FILTER_SETTINGS,Pick Up item settings,Mga Setting sa Pagkuha ng Bagay
+UI_DROP_FILTER_CAT_EQUIPMENT,Kagamitan,Kagamitan
+UI_DROP_FILTER_0,Weapons,Armas
+UI_DROP_FILTER_1,Armor,Armadura
+UI_DROP_FILTER_2,Accessory,Alahas
 UI_DROP_FILTER_3,Power Dice,Power Dice
 UI_DROP_FILTER_4,Mineral,Mineral
-UI_DROP_FILTER_5,Element Card,Element Card
-UI_DROP_FILTER_6,Socket Card,Socket Card
+UI_DROP_FILTER_5,Element Card,Elemento ng Kard
+UI_DROP_FILTER_6,Socket Card,Socket Kard
 UI_DROP_FILTER_7,Quest,Quest
 UI_DROP_FILTER_8,Booty,Booty
-UI_DROP_FILTER_CAT_MATERIAL,Material ,Material 
+UI_DROP_FILTER_CAT_MATERIAL,Material ,Materyal 
 UI_DROP_FILTER_9,Food,Pagkain
 UI_DROP_FILTER_10,FP Potion,FP Potion
 UI_DROP_FILTER_11,Buff,Buff
-UI_DROP_FILTER_12,Pet,Pet
-UI_DROP_FILTER_13,Etc...,Etc...
-UI_DROP_FILTER_CAT_ETC,Etc,Etc
-UI_DROP_FILTER_14,Common,Common
-UI_DROP_FILTER_15,Uncommon,Uncommon
-UI_DROP_FILTER_16,Rare & Higher,Rare & Higher
-UI_DROP_FILTER_17,Uncommon & Higher,Uncommon & Higher
+UI_DROP_FILTER_12,Pet,Alagang Hayop
+UI_DROP_FILTER_13,Etc...,Atbp...
+UI_DROP_FILTER_CAT_ETC,Etc,Atbp
+UI_DROP_FILTER_14,Common,Karaniwan
+UI_DROP_FILTER_15,Uncommon,Hindi Karaniwan
+UI_DROP_FILTER_16,Rare & Higher,Bihira at Mas Mataas
+UI_DROP_FILTER_17,Uncommon & Higher,Hindi Karaniwan at Mas Mataas
 UI_DROP_FILTER_19,MP Potion,MP Potion
-UI_DROP_FILTER_APPLY,Apply,Apply
-UI_TOOLTIP_ITEMTIME,Time Left:,Time Left:
-UI_TOOLTIP_USE,Use: %s,Use: %s
-UI_TOOLTIP_PERMANENTTIME,No Time Limit,No Time Limit
-UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Waiting Time for reuse: %.2d:%.2d
-UI_RESURRECTION_TITLE,Resurrection Confirm,Resurrection Confirm
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
-UI_TOOLTIP_EQUIPSET,Set Effect,Set Effect
-UI_TOOLTIP_BLOCKRATE,Block,Block
-UI_OPTION_FIELDVIEW_AUTO,Auto,Auto
-UI_OPTION_FIELDVIEW_HIGH,High,High
-UI_OPTION_FIELDVIEW_VERYHIGH,Very High,Very High
+UI_DROP_FILTER_APPLY,Apply,I-apply
+UI_TOOLTIP_ITEMTIME,Time Left:,Natitirang Oras:
+UI_TOOLTIP_USE,Use: %s,Gamitin: %s
+UI_TOOLTIP_PERMANENTTIME,No Time Limit,Walang Limitasyon sa Oras
+UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Oras ng Paghihintay para sa muling paggamit: %.2d:%.2d
+UI_RESURRECTION_TITLE,Resurrection Confirm,Kumpirmasyon ng Pagkabuhay
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,May isa pang manlalaro na sinusubukang buhayin ka (skill level %d). Gusto mo bang mabuhay muli?
+UI_TOOLTIP_EQUIPSET,Set Effect,Epekto ng Set
+UI_TOOLTIP_BLOCKRATE,Block,Harangan
+UI_OPTION_FIELDVIEW_AUTO,Auto,Awtomatik
+UI_OPTION_FIELDVIEW_HIGH,High,Mataas
+UI_OPTION_FIELDVIEW_VERYHIGH,Very High,Napakataas
 UI_OPTION_FIELDVIEW_MEDIUM,Medium,Katamtaman
-UI_OPTION_FIELDVIEW_LOW,Low,Low
-UI_OPTION_FIELDVIEW_VERYLOW,Very Low,Very Low
-UI_OPTION_FIELDVIEW,View,View
+UI_OPTION_FIELDVIEW_LOW,Low,Mababa
+UI_OPTION_FIELDVIEW_VERYLOW,Very Low,Napakababa
+UI_OPTION_FIELDVIEW,View,Tingnan
 UI_OPTION_FIELDVIEW_EXTREME,Extreme,Extreme
 UI_OPTION_COLORBLIND_1,Protanopia,Protanopia
 UI_OPTION_COLORBLIND_2,Deutranopia,Deutranopia
 UI_OPTION_COLORBLIND_3,Tritanopia,Tritanopia
-UI_OPTION_RENDERSCALE,Resolution,Resolution
+UI_OPTION_RENDERSCALE,Resolution,Resolusyon
 UI_OPTION_FOV,FoV,FoV
-UI_OPTION_FOV_TIP,Field of View,Field of View
-UI_OPTION_ADVANCEDSFX,Special Effects,Special Effects
-UI_INFO_PANG_TUTORIAL,Tutorial,Tutorial
+UI_OPTION_FOV_TIP,Field of View,Saklaw ng Paningin
+UI_OPTION_ADVANCEDSFX,Special Effects,Espesyal na Epekto
+UI_INFO_PANG_TUTORIAL,Tutorial,Gabay
 UI_INFO_PANG_NEXT,Next,Susunod
-UI_INFO_PANG_DONE,Done,Done
-UI_INFO_PANG_GOTIT,Got it,Got it
-UI_INFO_PANG_CHECKTHELIST,Check the List,Check the List
-UI_TUTORIAL_LIST_TITLE,Tutorial,Tutorial
-UI_DROP_ITEM_CONFIRM,Really drop this item?,Really drop this item?
-UI_PRIVATE_SHOP_NAME,Shop Name,Shop Name
-UI_PRIVATE_SHOP_LIST,Sale List,Sale List
-UI_PRIVATE_SHOP_RESET,Reset,Reset
+UI_INFO_PANG_DONE,Done,Tapos na
+UI_INFO_PANG_GOTIT,Got it,Nakuha
+UI_INFO_PANG_CHECKTHELIST,Check the List,Suriin ang Listahan
+UI_TUTORIAL_LIST_TITLE,Tutorial,Gabay
+UI_DROP_ITEM_CONFIRM,Really drop this item?,Talagang ibabagsak ang bagay na ito?
+UI_PRIVATE_SHOP_NAME,Shop Name,Pangalan ng Tindahan
+UI_PRIVATE_SHOP_LIST,Sale List,Listahan ng Benta
+UI_PRIVATE_SHOP_RESET,Reset,I-reset
 UI_PRIVATE_SHOP_CHAT,Chat,Chat
-UI_PRIVATE_SHOP_SELL_TITLE,Sell Item Registration,Sell Item Registration
+UI_PRIVATE_SHOP_SELL_TITLE,Sell Item Registration,Pagpaparehistro ng Pagbebenta ng Bagay
 UI_PRIVATE_SHOP_QUANTITY,Quantity,Dami
-UI_PRIVATE_SHOP_UNIT_PRICE,Unit price,Unit price
-UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Will you open your shop?
-UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Will you close your shop?
+UI_PRIVATE_SHOP_UNIT_PRICE,Unit price,Presyo bawat Yunit
+UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Bubuksan mo ba ang iyong tindahan?
+UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Isasara mo ba ang iyong tindahan?
 UI_PERSONAL_SHOP_TITLE,%s's Private Shop,%s's Private Shop
-UI_PRIVATE_SHOP_BUY_TITLE,Buy Item,Buy Item
-UI_PRIVATE_SHOP_BUY,Purchase,Purchase
-UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Total Cost
+UI_PRIVATE_SHOP_BUY_TITLE,Buy Item,Bumili ng Bagay
+UI_PRIVATE_SHOP_BUY,Purchase,Bumili
+UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Kabuuang Gastos
 UI_PERSONAL_SHOP_CHAT_TITLE,Chatting,Kwentuhan
-UI_PERSONAL_SHOP_CHAT_USER,User,User
+UI_PERSONAL_SHOP_CHAT_USER,User,Gumagamit
 UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Mensahe
-UI_PERSONAL_SHOP_CHAT_INPUT,Input,Input
+UI_PERSONAL_SHOP_CHAT_INPUT,Input,Pasok
 UI_PERSONAL_SHOP_CHAT_DIALOG,Dialog,Dyalogo
 UI_PERSONAL_SHOP_CHAT_INFO,Information,Impormasyon
 UI_PERSONAL_SHOP_CHAT_SEND,Send,Ipadala
-UI_PERSONAL_SHOP_JOIN,%s has just logged in.,%s has just logged in.
-UI_PERSONAL_SHOP_LEAVE,%s has disconnected.,%s has disconnected.
-UI_PERSONAL_SHOP_SALE,Character: %s has purchased %s(%d) for %lld penya.,Character: %s has purchased %s(%d) for %lld penya.
-UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,Confirm Selling Premium Item
-UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered."
-UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Soul-Linked]
-UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Account-Linked]
-UI_BEAUTY_SHOP_TITLE,Hair Shop,Hair Shop
-UI_BEAUTY_SHOP_RESET,Reset,Reset
-UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Hair Color
-UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Hair Style
-UI_BEAUTY_SHOP_PREVIEW,Preview,Preview
-UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,Style Price:
-UI_BEAUTY_SHOP_COLOR_PRICE,Color Price:,Color Price:
-UI_BEAUTY_SHOP_TOTAL_PRICE,Total:,Total:
-UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,Confirm Purchase
-UI_OPTION_TRADE,Trade Requests,Trade Requests
+UI_PERSONAL_SHOP_JOIN,%s has just logged in.,%s ay nag log in.
+UI_PERSONAL_SHOP_LEAVE,%s has disconnected.,%s ay nag disconnect.
+UI_PERSONAL_SHOP_SALE,Character: %s has purchased %s(%d) for %lld penya.,Karakter: %s ay bumili ng %s(%d) para sa halagang %lld penya.
+UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,Kumpirmahin ang pagbebenta ng Premium na Item.
+UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","Ito ay isang Premium na Item. Sigurado ka ba?\nKapag nabenta na, hindi na ito maibabalik."
+UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Kaluluwang-Kaugnay]
+UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Naka-link sa account]
+UI_BEAUTY_SHOP_TITLE,Hair Shop,Tindahan ng Buhok
+UI_BEAUTY_SHOP_RESET,Reset,I-reset
+UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Kulay ng Buhok
+UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Estilo ng Buhok
+UI_BEAUTY_SHOP_PREVIEW,Preview,Paunang tingin
+UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,Presyo ng Estilo:
+UI_BEAUTY_SHOP_COLOR_PRICE,Color Price:,Presyo ng Kulay:
+UI_BEAUTY_SHOP_TOTAL_PRICE,Total:,Kabuuan:
+UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,Kumpirmahin ang Pagbili
+UI_OPTION_TRADE,Trade Requests,Mga Kahilingan sa Kalakalan
 UI_TRADE_REQUEST_TITLE,Trade,Kalakal
-UI_TRADE_REQUEST_QUESTION,%s wants to trade. Would you like to trade?,%s wants to trade. Would you like to trade?
-UI_TRADE_PUT_GOLD_QUESTION,How many do you want to move?,How many do you want to move?
+UI_TRADE_REQUEST_QUESTION,%s wants to trade. Would you like to trade?,%s gustong makipagpalit. Gusto mo bang makipagpalit?
+UI_TRADE_PUT_GOLD_QUESTION,How many do you want to move?,Ilan ang gusto mong ilipat?
 UI_TRADE_PUT_GOLD_QTY,Penya:,Penya:
-UI_TRADE_ITEM,Item,Item
-UI_TRADE_PUT_ITEM_QUESTION,Move how many items?,Move how many items?
-UI_TRADE_PUT_ITEM_QTY,Number:,Number:
-UI_TRADE_CONFIRM_TITLE,Confirm Trade,Confirm Trade
-UI_TRADE_CONFIRM_QUESTION,Do you accept the trade?,Do you accept the trade?
-UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,You need to wait for approval.
-UI_OPTION_MOBILE_DIR,Directional Pad,Directional Pad
+UI_TRADE_ITEM,Item,Bagay
+UI_TRADE_PUT_ITEM_QUESTION,Move how many items?,Ilan ang gusto mong ilipat na bagay?
+UI_TRADE_PUT_ITEM_QTY,Number:,Bilang:
+UI_TRADE_CONFIRM_TITLE,Confirm Trade,Kumpirmahin ang Kalakalan
+UI_TRADE_CONFIRM_QUESTION,Do you accept the trade?,Tinatanggap mo ba ang kalakalan?
+UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,Kailangan mong maghintay para sa pag-apruba.
+UI_OPTION_MOBILE_DIR,Directional Pad,Direksyonal Pad
 UI_PIERCING_TITLE,Piercing,Butasan
-UI_PIERCING_PIERCE_ITEM,Pierce Item,Pierce Item
-UI_PIERCING_ITEM,Item,Item
+UI_PIERCING_PIERCE_ITEM,Pierce Item,Butas ng Bagay
+UI_PIERCING_ITEM,Item,Bagay
 UI_PIERCING_MATERIAL,Power Dice,Power Dice
 UI_PIERCING_PROTECTSCROLL,GProtect,GProtect
-UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,Do you want to pierce this item?
-UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,Without Scroll of GProtect you will lose the item in case of failure.
-UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,Remove Piercing Card
-UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb
-UI_PIERCING_REMOVE_OK,Remove,Remove
-UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,The success rate increases with each failed attempt.
-UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,Upgrade attempts: %d
-UI_ELEMENT_ATTEMPTS,Element upgrade attempts: %d,Element upgrade attempts: %d
-UI_PIERCING_ATTEMPTS,Piercing attempts: %d,Piercing attempts: %d
-UI_ACCESSORY_TITLE,Accessory Upgrade,Upgrade ng Alahas
-UI_ACCESSORY_UPGRADE_ITEM,Upgrade Item,Upgrade Item
+UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,Gusto mo bang butasin ang bagay na ito?
+UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,Kung wala ang Scroll ng GProtect - mawawala ang bagay sa kaso ng kabiguan.
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,Alisin ang Piercing Card
+UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,Alisin ang napiling piercing card mula sa bagay na ito? #b#cffff0000Ang inalis na card ay masisira.#nc#nb
+UI_PIERCING_REMOVE_OK,Remove,Alisin
+UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,Ang rate ng tagumpay ay tumataas sa bawat nabigong pagtatangka.
+UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,Mga pagtatangka ng pag-upgrade: %d
+UI_ELEMENT_ATTEMPTS,Element upgrade attempts: %d,Mga pagtatangka ng pag-upgrade ng elemento: %d
+UI_PIERCING_ATTEMPTS,Piercing attempts: %d,Mga pagtatangka ng butas: %d
+UI_ACCESSORY_TITLE,Accessory Upgrade,Pag-upgrade ng aksesorya
+UI_ACCESSORY_UPGRADE_ITEM,Upgrade Item,Pag-upgrade ng Bagay
 UI_ACCESSORY_PROTECTSCROLL,AProtect,AProtect
-UI_ACCESSORY_UNSAFE,Without Scroll of AProtect you will lose the item in case of failure.,Without Scroll of AProtect you will lose the item in case of failure.
-UI_UPGRADE_TITLE,Upgrade,Upgrade
-UI_UPGRADE_ITEM,Item,Item
-UI_UPGRADE_MATERIAL,Power Dice/Card,Power Dice/Card
+UI_ACCESSORY_UNSAFE,Without Scroll of AProtect you will lose the item in case of failure.,Kung wala ang Scroll ng AProtect - mawawala ang bagay sa kaso ng kabiguan.
+UI_UPGRADE_TITLE,Upgrade,Pag-upgrade
+UI_UPGRADE_ITEM,Item,Bagay
+UI_UPGRADE_MATERIAL,Power Dice/Card,Power Dice/Kard
 UI_UPGRADE_PROTECTSCROLL,SProtect,SProtect
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,XProtect
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,Sunstone
 UI_UPGRADE_CHANCESCROLL,SFusion,SFusion
-UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Attribute level will decrease in case of failure. You will not lose the item.
-UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,Without Scroll of SProtect you will lose the item in case of failure.
-UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Do you want to upgrade this item?
+UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Bababa ang antas ng katangian kung magkabigo. Hindi mo mawawala ang bagay.
+UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,Kung wala ang Scroll ng SProtect - mawawala ang bagay sa kaso ng kabiguan.
+UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Gusto mo bang i-upgrade ang bagay na ito?
 UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Tangalin ang Elemento
-UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Confirm Removal
-UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb
-UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,You can use a Premium item.
-UI_REVIVAL_REVIVAL,Original Place,Original Place
-UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,You will be revived where you died.
-UI_COMMITEM_DIALOG_TITLE,Use Item,Use Item
-UI_RESTATE_CONFIRM_TITLE,Confirm Re-Stat,Confirm Re-Stat
-UI_RESTATE_CONFIRM_ALL,All character stats will be reset. Continue?,All character stats will be reset. Continue?
-UI_RESTATE_CONFIRM_STR,Your Strength (STR) stat will be reset and the points will be refunded to you. Continue?,Your Strength (STR) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_STA,Your Stamina (STA) stat will be reset and the points will be refunded to you. Continue?,Your Stamina (STA) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_DEX,Your Dexterity (DEX) stat will be reset and the points will be refunded to you. Continue?,Your Dexterity (DEX) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_INT,Your Intellect (INT) stat will be reset and the points will be refunded to you. Continue?,Your Intellect (INT) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_STR_LOW,50 Strength (STR) points will be refunded to you. Do you want to continue?,50 Strength (STR) points will be refunded to you. Do you want to continue?
-UI_RESTATE_CONFIRM_STA_LOW,50 Stamina (STA) points will be refunded to you. Do you want to continue?,50 Stamina (STA) points will be refunded to you. Do you want to continue?
-UI_RESTATE_CONFIRM_DEX_LOW,50 Dexterity (DEX) points will be refunded to you. Do you want to continue?,50 Dexterity (DEX) points will be refunded to you. Do you want to continue?
-UI_RESTATE_CONFIRM_INT_LOW,50 Intelligence (INT) points will be refunded to you. Do you want to continue?,50 Intelligence (INT) points will be refunded to you. Do you want to continue?
-UI_OPTION_BATTLEBGM,Battle Music,Battle Music
-UI_OPTION_VOICES,Japanese Voices,Japanese Voices
+UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Kumpirmahin ang Pag-alis
+UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,Tangalin ang pag-upgrade ng elemento mula sa bagay na ito? #b#cffff0000Hindi na ito maibabalik.#nc#nb
+UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,Maaari kang gumamit ng Premium na bagay.
+UI_REVIVAL_REVIVAL,Original Place,Orihinal na Lugar
+UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,Mabubuhay ka muli sa lugar kung saan ka namatay.
+UI_COMMITEM_DIALOG_TITLE,Use Item,Gamitin ang Bagay
+UI_RESTATE_CONFIRM_TITLE,Confirm Re-Stat,Kumpirmahin ang Pag-reset ng Stats
+UI_RESTATE_CONFIRM_ALL,All character stats will be reset. Continue?,Lahat ng stats ng karakter ay mare-reset. Magpapatuloy ka ba?
+UI_RESTATE_CONFIRM_STR,Your Strength (STR) stat will be reset and the points will be refunded to you. Continue?,Ang iyong Strength (STR) stat ay mare-reset at ang mga puntos ay ibabalik sa iyo. Magpapatuloy ka ba?
+UI_RESTATE_CONFIRM_STA,Your Stamina (STA) stat will be reset and the points will be refunded to you. Continue?,Ang iyong Stamina (STA) stat ay mare-reset at ang mga puntos ay ibabalik sa iyo. Magpapatuloy ka ba?
+UI_RESTATE_CONFIRM_DEX,Your Dexterity (DEX) stat will be reset and the points will be refunded to you. Continue?,Ang iyong Dexterity (DEX) stat ay mare-reset at ang mga puntos ay ibabalik sa iyo. Magpapatuloy ka ba?
+UI_RESTATE_CONFIRM_INT,Your Intellect (INT) stat will be reset and the points will be refunded to you. Continue?,Ang iyong Intelekt (INT) stat ay mare-reset at ang mga puntos ay ibabalik sa iyo. Magpapatuloy ka ba?
+UI_RESTATE_CONFIRM_STR_LOW,50 Strength (STR) points will be refunded to you. Do you want to continue?,50 puntos ng Strength (STR) ang ibabalik sa iyo. Gusto mo bang magpatuloy?
+UI_RESTATE_CONFIRM_STA_LOW,50 Stamina (STA) points will be refunded to you. Do you want to continue?,50 puntos ng Stamina (STA) ang ibabalik sa iyo. Gusto mo bang magpatuloy?
+UI_RESTATE_CONFIRM_DEX_LOW,50 Dexterity (DEX) points will be refunded to you. Do you want to continue?,50 puntos ng Dexterity (DEX) ang ibabalik sa iyo. Gusto mo bang magpatuloy?
+UI_RESTATE_CONFIRM_INT_LOW,50 Intelligence (INT) points will be refunded to you. Do you want to continue?,50 puntos ng Intelligence (INT) ang ibabalik sa iyo. Gusto mo bang magpatuloy?
+UI_OPTION_BATTLEBGM,Battle Music,Musika ng Laban
+UI_OPTION_VOICES,Japanese Voices,Hapon na Boses
 UI_PK_CONFIRM_TITLE,P.K,P.K
-UI_PK_CONFIRM,You are about to commit a crime. Do you attack?,You are about to commit a crime. Do you attack?
-UI_BANK_ENTERPASS_TITLE,Bank Password,Bank Password
-UI_BANK_ENTERPASS_MSG,Enter Bank PIN (4 Digits),Enter Bank PIN (4 Digits)
+UI_PK_CONFIRM,You are about to commit a crime. Do you attack?,Malapit ka nang gumawa ng krimen. Aatakihin mo ba?
+UI_BANK_ENTERPASS_TITLE,Bank Password,Password ng bangko
+UI_BANK_ENTERPASS_MSG,Enter Bank PIN (4 Digits),Ipasok ang PIN ng bangko (4 na digit)
 UI_BANK_ENTERPASS_PIN,PIN,PIN
-UI_BANK_ENTERPASS_CHANGE,Change,Change
-UI_BANK_CHANGEPASS_TITLE,Bank PIN,Bank PIN
-UI_BANK_CHANGEPASS_MSG,Set/Change Bank PIN (4 Digits),Set/Change Bank PIN (4 Digits)
-UI_BANK_CHANGEPASS_OLD,Old PIN:,Old PIN:
-UI_BANK_CHANGEPASS_NEW,New PIN:,New PIN:
-UI_BANK_CHANGEPASS_CONFIRM,Confirm PIN:,Confirm PIN:
+UI_BANK_ENTERPASS_CHANGE,Change,Palitan
+UI_BANK_CHANGEPASS_TITLE,Bank PIN,PIN ng Bangko
+UI_BANK_CHANGEPASS_MSG,Set/Change Bank PIN (4 Digits),Itakda/Palitan ang PIN ng Bangko (4 na digit)
+UI_BANK_CHANGEPASS_OLD,Old PIN:,Lumang PIN:
+UI_BANK_CHANGEPASS_NEW,New PIN:,Bagong PIN:
+UI_BANK_CHANGEPASS_CONFIRM,Confirm PIN:,Kumpirmahin ang PIN:
 UI_BANK_TITLE,Bank,Banko
-UI_DUELREQUEST_TITLE,Duel Request,Duel Request
-UI_DUELREQUEST_BETMSG,How much do you want to bet for this duel?,How much do you want to bet for this duel?
+UI_DUELREQUEST_TITLE,Duel Request,Paghiling ng Duwelo
+UI_DUELREQUEST_BETMSG,How much do you want to bet for this duel?,Magkano ang gusto mong ipusta para sa duwelo na ito?
 UI_DUELREQUEST_BETLBL,Penya:,Penya:
-UI_DUELREQUEST_MSG,%s challenges you to a duel %s. Do you accept?,%s challenges you to a duel %s. Do you accept?
-UI_DUELREQUEST_PARTY,%s challenges your party to a duel %s. Do you accept?,%s challenges your party to a duel %s. Do you accept?
-UI_DUELREQUEST_NOBET,(no bet),(no bet)
-UI_DUELREQUEST_BETAMOUNT,with a %s Penya bet,with a %s Penya bet
-UI_DUELRESULT_TITLE,Duel Result,Duel Result
-UI_DUELRESULT_WIN,%s wins the Duel!,%s wins the Duel!
-UI_DUELRESULT_LOSE,%s loses the Duel!,%s loses the Duel!
-UI_CASHSHOP_RELOAD,TOP-UP,TOP-UP
-UI_CASHSHOP_LEGALINFO,Legal Information,Legal Information
-UI_CASHSHOP_GSC,General Sales Conditions,General Sales Conditions
-UI_CASHSHOP_SHOWALL,Show All,Show All
-UI_CASHSHOP_SEARCH,Search:,Search:
+UI_DUELREQUEST_MSG,%s challenges you to a duel %s. Do you accept?,%s Hinahamon ka niya sa isang duwelo %s. Tinatanggap mo ba?
+UI_DUELREQUEST_PARTY,%s challenges your party to a duel %s. Do you accept?,%s Hinahamon ang iyong partido sa isang duwelo %s. Tinatanggap mo ba?
+UI_DUELREQUEST_NOBET,(no bet),(walang pustahan)
+UI_DUELREQUEST_BETAMOUNT,with a %s Penya bet,sa %s na taya ng Penya
+UI_DUELRESULT_TITLE,Duel Result,Resulta ng Duwelo
+UI_DUELRESULT_WIN,%s wins the Duel!,%s Panalo sa Duwelo!
+UI_DUELRESULT_LOSE,%s loses the Duel!,%s Talo sa Duwelo!
+UI_CASHSHOP_RELOAD,TOP-UP,MAG-TOP-UP
+UI_CASHSHOP_LEGALINFO,Legal Information,Impormasyon sa Legal
+UI_CASHSHOP_GSC,General Sales Conditions,Pangkalahatang Kundisyon sa Pagbebenta
+UI_CASHSHOP_SHOWALL,Show All,Ipakita Lahat
+UI_CASHSHOP_SEARCH,Search:,Maghanap:
 UI_CASHSHOP_SORT_DEFAULT,Default,Default
-UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Name (A - Z)
-UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Name (Z - A)
-UI_CASHSHOP_SORT_PRICE_ASC,Price (Low > High),Price (Low > High)
-UI_CASHSHOP_SORT_PRICE_DESC,Price (High > Low),Price (High > Low)
-UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in the category.,#b%d#nb items in the category.
-UI_CASHSHOP_SEARCHCOUNT,#b%d#nb items matching search.,#b%d#nb items matching search.
-UI_CASHSHOP_EMPTY,No items found.,No items found.
-UI_CASHSHOP_CONFIRM_TITLE,Confirm purchase,Confirm purchase
-UI_CASHSHOP_CONFIRM_MSG,Do you want to purchase %dx %s for %s?,Do you want to purchase %dx %s for %s?
-UI_CASHSHOP_ORIGINAL_PRICE,Original price:,Original price:
-UI_CASHSHOP_PURCHASE,PURCHASE,PURCHASE
-UI_CASHSHOP_QUANTITY,Quantity:,Quantity:
-UI_CASHSHOP_UNIT_PRICE,Unit price:,Unit price:
-UI_CASHSHOP_TOTAL_PRICE,Total price:,Total price:
-UI_CASHSHOP_LIMITED_OFFER,Limited Offer! Expires in #b%s#nb,Limited Offer! Expires in #b%s#nb
-UI_CASHSHOP_SUPP_ITEM_OFFER,Get %d additional item(s) per unit purchase!,Get %d additional item(s) per unit purchase!
-UI_CASHSHOP_PRODUCT_ID,Product ID:,Product ID:
+UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Pangalan (A - Z)
+UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Pangalan (Z - A)
+UI_CASHSHOP_SORT_PRICE_ASC,Price (Low > High),Presyo (Mababa > Mataas)
+UI_CASHSHOP_SORT_PRICE_DESC,Price (High > Low),Presyo (Mataas > Mababa)
+UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in the category.,#b%d#nb mga bagay sa kategorya.
+UI_CASHSHOP_SEARCHCOUNT,#b%d#nb items matching search.,#b%d#nb mga bagay na tumutugma sa paghahanap.
+UI_CASHSHOP_EMPTY,No items found.,Walang nahanap na bagay.
+UI_CASHSHOP_CONFIRM_TITLE,Confirm purchase,Kumpirmahin ang pagbili
+UI_CASHSHOP_CONFIRM_MSG,Do you want to purchase %dx %s for %s?,Gusto mo bang bilhin ang %dx %s para sa %s?
+UI_CASHSHOP_ORIGINAL_PRICE,Original price:,Orihinal na presyo:
+UI_CASHSHOP_PURCHASE,PURCHASE,BILHIN
+UI_CASHSHOP_QUANTITY,Quantity:,Dami:
+UI_CASHSHOP_UNIT_PRICE,Unit price:,Presyo bawat yunit:
+UI_CASHSHOP_TOTAL_PRICE,Total price:,Kabuuang presyo:
+UI_CASHSHOP_LIMITED_OFFER,Limited Offer! Expires in #b%s#nb,Limitadong Alok! Magtatapos sa #b%s#nb
+UI_CASHSHOP_SUPP_ITEM_OFFER,Get %d additional item(s) per unit purchase!,Makakuha ng %d karagdagang item(s) bawat yunit ng pagbili!
+UI_CASHSHOP_PRODUCT_ID,Product ID:,ID ng Produkto:
 UI_OPTION_POSTPROCESSING,Post-processing,Post-processing
-UI_CASHSHOP_PURCHASEPROCESSING,"Processing the purchase, please wait...","Processing the purchase, please wait..."
-UI_GUILD_WAR_DECLARE_TITLE,Declare Guild Duel,Declare Guild Duel
-UI_GUILD_WAR_DECLARE_INPUT,Target Guild,Target Guild
-UI_GUILD_WAR_REQUEST_TITLE,Guild Duel Request,Guild Duel Request
-UI_GUILD_WAR_REQUEST_MSG,"The Guild Leader of %s, %s, declares a Guild duel. Do you Accept?","The Guild Leader of %s, %s, declares a Guild duel. Do you Accept?"
-UI_INDIRECTTALK_TITLE,Indirect conversation,Indirect conversation
-UI_INDIRECTTALK_MOVER,Mover ID,Mover ID
-UI_CREATEITEM_TITLE,Create Item,Create Item
-UI_CREATEITEM_TYPE,Type,Type
-UI_CREATEITEM_SEX,Sex,Sex
+UI_CASHSHOP_PURCHASEPROCESSING,"Processing the purchase, please wait...","Pinoproseso ang pagbili, mangyaring maghintay..."
+UI_GUILD_WAR_DECLARE_TITLE,Declare Guild Duel,Ipahayag ang Duelyo ng Guild
+UI_GUILD_WAR_DECLARE_INPUT,Target Guild,Target na Guild
+UI_GUILD_WAR_REQUEST_TITLE,Guild Duel Request,Hiling ng Duwelo ng Guild
+UI_GUILD_WAR_REQUEST_MSG,"The Guild Leader of %s, %s, declares a Guild duel. Do you Accept?","Ang Pinuno ng Guild ng %s, %s, ay nagdeklara ng Duwelo ng Guild. Tinatanggap mo ba?"
+UI_INDIRECTTALK_TITLE,Indirect conversation,Di-tuwirang pag-uusap
+UI_INDIRECTTALK_MOVER,Mover ID,ID ng Mover
+UI_CREATEITEM_TITLE,Create Item,Lumikha ng Bagay
+UI_CREATEITEM_TYPE,Type,Uri
+UI_CREATEITEM_SEX,Sex,Kasarian
 UI_CREATEITEM_JOB,Job,Trabaho
-UI_CREATEITEM_LEVEL,Level,Lebel
+UI_CREATEITEM_LEVEL,Level,Antas
 UI_CREATEITEM_QTY,Qty,Dami
 UI_CREATEITEM_ITEM,Item,Item
-UI_CREATEITEM_CREATE,Create,Create
-UI_GUILD_WAR_GIVEUP_TITLE,Give Up,Give Up
-UI_GUILD_WAR_GIVEUP_MSG,Do you give up the Guild Duel?,Do you give up the Guild Duel?
-UI_GUILD_WAR_PEACE_TITLE,Truce,Truce
-UI_GUILD_WAR_PEACE_MSG,Do you propose a truce to the opposing Guild?,Do you propose a truce to the opposing Guild?
-UI_GUILD_WAR_PEACE_CONFIRM_TITLE,Truce Approval,Truce Approval
-UI_GUILD_WAR_PEACE_CONFIRM_MSG,The opposing guild has proposed a truce. Do you approve the truce?,The opposing guild has proposed a truce. Do you approve the truce?
+UI_CREATEITEM_CREATE,Create,Lumikha
+UI_GUILD_WAR_GIVEUP_TITLE,Give Up,Susuko
+UI_GUILD_WAR_GIVEUP_MSG,Do you give up the Guild Duel?,Susuko ka ba sa Duwelo ng Guild?
+UI_GUILD_WAR_PEACE_TITLE,Truce,Tigil-putukan
+UI_GUILD_WAR_PEACE_MSG,Do you propose a truce to the opposing Guild?,Nais mo bang magmungkahi ng tigil-putukan sa kalabang Guild?
+UI_GUILD_WAR_PEACE_CONFIRM_TITLE,Truce Approval,Pag-apruba ng Tigil-putukan
+UI_GUILD_WAR_PEACE_CONFIRM_MSG,The opposing guild has proposed a truce. Do you approve the truce?,Ang kalabang guild ay nagmungkahi ng tigil-putukan. Inaprubahan mo ba ang tigil-putukan?
 UI_TOOLTIP_ATKPOWER_VALUE,Attack,Atake
-UI_RANDOM_SCROLL_TITLE,Random Option,Random Option
-UI_SUMMON_FRIEND_TITLE,Summon,Summon
-UI_SUMMON_FRIEND_MSG,Select friend to summon,Select friend to summon
+UI_RANDOM_SCROLL_TITLE,Random Option,Pare-parehong opsyon
+UI_SUMMON_FRIEND_TITLE,Summon,Tawagin
+UI_SUMMON_FRIEND_MSG,Select friend to summon,Pumili ng kaibigan upang tawagin
 UI_SUMMON_FRIEND_INPUT,Name:,Pangalan:
-UI_SUMMON_FRIEND_CONFIRM,%s asked to summon you. Would you like to accept?,%s asked to summon you. Would you like to accept?
-UI_FONT_EDIT_TITLE,Modify Letter Type,Modify Letter Type
-UI_FONT_EDIT_BOLD,Bold,Bold
-UI_FONT_EDIT_LINE,Line,Line
-UI_FONT_EDIT_COLOR,Color,Color
-UI_FONT_EDIT_CANCELLINE,Cancel Line,Cancel Line
-UI_FONT_EDIT,Letter Edit,Letter Edit
-UI_SUMMON_PARTY_TITLE,Summon Party,Summon Party
-UI_SUMMON_PARTY_MSG,You can summon party members. Unable to use in an event area (e.g. Clockworks). It will be activated for a minute. Summon party members?,You can summon party members. Unable to use in an event area (e.g. Clockworks). It will be activated for a minute. Summon party members?
-UI_SUMMON_PARTY_CONFIRM_TITLE,Summon P. Members,Summon P. Members
-UI_SUMMON_PARTY_CONFIRM_MSG,%s Party has asked to summon you. You will be summoned to the Party Leader. You have one minute to decide.,%s Party has asked to summon you. You will be summoned to the Party Leader. You have one minute to decide.
-UI_SUMMON_PARTY_CONFIRM_HOW,How to Use,How to Use
-UI_SUMMON_PARTY_CONFIRM_TIP,If you click the icon (%s) on the upper of the right you will be teleported to the leader.,If you click the icon (%s) on the upper of the right you will be teleported to the leader.
-UI_SUMMON_PARTY_USE,You should be close for the summon to work. Make sure you are not in an Event arena. Do you want to be teleported?,You should be close for the summon to work. Make sure you are not in an Event arena. Do you want to be teleported?
-UI_SUMMON_BUFF_ICON,You can go to the Party leader once you click double.,You can go to the Party leader once you click double.
-UI_CHANGE_SEX_TITLE,Change Sex,Change Sex
-UI_CHANGE_SEX_FACE,Change Face,Change Face
-UI_ITEM_TRANSY_TITLE,Transy for Item,Transy for Item
-UI_ITEM_TRANSY_SEX,Change Sex of Item,Change Sex of Item
-UI_ITEM_TRANSY_PUT,Please input an item which you want to change.,Please input an item which you want to change.
-UI_ITEM_TRANSY_PUT1,Please input an item on the left column.,Please input an item on the left column.
-UI_CHANGE_NAME_TITLE,Change Name,Change Name
-UI_CHANGE_NAME_INPUT,Enter your new name,Enter your new name
-UI_CHANGE_NAME_PET_TITLE,Change Pet Name,Change Pet Name
-UI_CHANGE_NAME_PET_INPUT,Leave empty to reset to the default name,Leave empty to reset to the default name
-UI_CHANGE_NAME_PET_LABEL,Pet Name:,Pet Name:
-UI_NAVIGATOR_MARK,Mark:,Mark:
-UI_MAP_MARK_ADD,Add Mark,Add Mark
+UI_SUMMON_FRIEND_CONFIRM,%s asked to summon you. Would you like to accept?,%s hiniling na tawagin ka. Gusto mo bang tanggapin?
+UI_FONT_EDIT_TITLE,Modify Letter Type,Baguhin ang uri ng titik
+UI_FONT_EDIT_BOLD,Bold,Kapal
+UI_FONT_EDIT_LINE,Line,Linya
+UI_FONT_EDIT_COLOR,Color,Kulay
+UI_FONT_EDIT_CANCELLINE,Cancel Line,I-cancel ang linya
+UI_FONT_EDIT,Letter Edit,Titik I-edit
+UI_SUMMON_PARTY_TITLE,Summon Party,Tawagin ang Partido
+UI_SUMMON_PARTY_MSG,You can summon party members. Unable to use in an event area (e.g. Clockworks). It will be activated for a minute. Summon party members?,Maaari mong tawagin ang mga miyembro ng party. Hindi magagamit sa isang event area (hal. Clockworks). Ito ay magiging aktibo sa loob ng isang minuto. Tawagin ang mga miyembro ng party?
+UI_SUMMON_PARTY_CONFIRM_TITLE,Summon P. Members,Tawagin ang mga P. Miyembro
+UI_SUMMON_PARTY_CONFIRM_MSG,%s Party has asked to summon you. You will be summoned to the Party Leader. You have one minute to decide.,%s Partido ay humiling na tawagin ka. Ikaw ay tatawagin sa Party Leader. Mayroon kang isang minuto upang magdesisyon.
+UI_SUMMON_PARTY_CONFIRM_HOW,How to Use,Paano Gamitin
+UI_SUMMON_PARTY_CONFIRM_TIP,If you click the icon (%s) on the upper of the right you will be teleported to the leader.,Kung i-click mo ang icon (%s) sa itaas ng kanan - ikaw ay teleport sa lider.
+UI_SUMMON_PARTY_USE,You should be close for the summon to work. Make sure you are not in an Event arena. Do you want to be teleported?,Dapat kang malapit para gumana ang tawag. Siguraduhin na ikaw ay hindi nasa isang Event arena. Gusto mo bang i-teleport?
+UI_SUMMON_BUFF_ICON,You can go to the Party leader once you click double.,Maaari kang pumunta sa Party leader kapag nag-double click ka.
+UI_CHANGE_SEX_TITLE,Change Sex,Palitan ang Kasarian
+UI_CHANGE_SEX_FACE,Change Face,Palitan ang Mukha
+UI_ITEM_TRANSY_TITLE,Transy for Item,Transy para sa Bagay
+UI_ITEM_TRANSY_SEX,Change Sex of Item,Palitan ang Kasarian ng Bagay
+UI_ITEM_TRANSY_PUT,Please input an item which you want to change,Paki-input ang isang bagay na nais mong baguhin
+UI_ITEM_TRANSY_PUT1,Please input an item on the left column.,Paki-input ang isang bagay sa kaliwang kolum.
+UI_CHANGE_NAME_TITLE,Change Name,Palitan ang Pangalan
+UI_CHANGE_NAME_INPUT,Enter your new name,Ilagay ang iyong bagong pangalan
+UI_CHANGE_NAME_PET_TITLE,Change Pet Name,Palitan ang Pangalan ng Alagang Hayop
+UI_CHANGE_NAME_PET_INPUT,Leave empty to reset to the default name,Mag-iwan ng blangko upang i-reset sa default na pangalan
+UI_CHANGE_NAME_PET_LABEL,Pet Name:,Pangalan ng Alagang Hayop:
+UI_NAVIGATOR_MARK,Mark:,Marka:
+UI_MAP_MARK_ADD,Add Mark,Magdagdag ng Marka
 UI_MAP_MARK_DELETE,Delete,Burahin
-UI_MAP_MARK_DELETE_ALL,Delete All,Delete All
-UI_MAP_MARK_PUT_CHAT,Put it in the chat,Put it in the chat
-UI_MAP_MARK_CHANGE_NAME,Name Change,Name Change
-UI_MAP_MARK,Position,Position
-UI_MAP_MARK_NAME_TITLE,Position Name Change,Position Name Change
-UI_MAP_MARK_NAME_INPUT,Please put new name,Please put new name
-UI_TOOLTIP_EQUIPPED,[ Equipped ],[ Equipped ]
-UI_TOOLTIP_ACTIVESELF,Also Casted on You,Also Casted on You
-UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Also Casted on Target
-UI_TOOLTIP_CHANGEIFHAS,If you have %s,If you have %s
-UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,If the target has %s
-UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Stacks Gained: %d
-UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Stacks Gained: %d / %d (PvP)
-UI_ITEM_LINK_TITLE,Linked Item Info.,Linked Item Info.
-UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,Use Coupon
-UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Do you want to use it now?,You have a Free Coupon. Do you want to use it now?
-UI_BEAUTY_SHOP_COUPON,Using the Free Coupon.,Using the Free Coupon.
-UI_GUILD_MEMBER_TIP,#b%s#nb\nContribution: %s\nPenya Contribution: %s\nNumber of times surrendered: %d,#b%s#nb\nContribution: %s\nPenya Contribution: %s\nNumber of times surrendered: %d
-UI_REMOVE_ELEM_TITLE,Apply Attribute,Apply Attribute
-UI_REMOVE_ELEM_MSG,You can only trade or unequip the item after removing its elemental attributes. Will you remove them?,You can only trade or unequip the item after removing its elemental attributes. Will you remove them?
-UI_HOME_LOGIN_ENTER_TIP,Enter Account ID,Enter Account ID
-UI_HOME_PASSWORD_TIP,Enter Password,Enter Password
-UI_CHAT_NORMAL_TIP,Send normal messages.,Send normal messages.
-UI_CHAT_WHISPER_TIP,Send whispering messages.,Send whispering messages.
-UI_CHAT_SHOUT_TIP,Send shouting messages.,Send shouting messages.
-UI_CHAT_PARTY_TIP,Send messages to party members.,Send messages to party members.
-UI_CHAT_GUILD_TIP,Sending messages to guild members.,Sending messages to guild members.
-UI_CHAT_SYSTEM_TIP,Open System Message Window,Open System Message Window
-UI_CHAT_FILTER_TIP,Filter function which allows you to filter the chatting.,Filter function which allows you to filter the chatting.
-UI_MESSENGER_MEMO_TIP,Able to check received messages when you are disconnected.,Able to check received messages when you are disconnected.
-UI_GUILD_WAR_DECLARE_TIP,Request a Guild Duel,Request a Guild Duel
-UI_GUILD_WAR_PEACE_TIP,Propose a truce to the senseless violence and fighting.,Propose a truce to the senseless violence and fighting.
-UI_GUILDBANK_SUPPORT_TIP,Make a Contribution to your Guild.,Make a Contribution to your Guild.
-UI_GUILDBANK_CLOAK_TIP,Create a Guild Cloak with the logo you selected. (Guild Level 4),Create a Guild Cloak with the logo you selected. (Guild Level 4)
-UI_GUILDBANK_LOG_TIP,Open Guild Bank Log window.,Open Guild Bank Log window.
-UI_APP_DEBUG_TIP,Debug Window,Debug Window
-UI_APP_INFO_PANG_TIP,Summon Info-Pang.,Summon Info-Pang.
+UI_MAP_MARK_DELETE_ALL,Delete All,Burahin Lahat
+UI_MAP_MARK_PUT_CHAT,Put it in the chat,Ilalagay sa chat
+UI_MAP_MARK_CHANGE_NAME,Name Change,Palitan ang Pangalan
+UI_MAP_MARK,Position,Posisyon
+UI_MAP_MARK_NAME_TITLE,Position Name Change,Palitan ang Pangalan ng Posisyon
+UI_MAP_MARK_NAME_INPUT,Please put new name,Paki-ilagay ang bagong pangalan
+UI_TOOLTIP_EQUIPPED,[ Equipped ],[ Naka-equip ]
+UI_TOOLTIP_ACTIVESELF,Also Casted on You,Na-cast din sa Iyo
+UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Na-cast din sa Target
+UI_TOOLTIP_CHANGEIFHAS,If you have %s,Kung mayroon kang %s
+UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,Kung ang target ay may %s
+UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Mga Pinag-ipon: %d
+UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Mga Pinag-ipon: %d / %d (PvP)
+UI_ITEM_LINK_TITLE,Linked Item Info.,Impormasyon ng naka-link na item.
+UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,Gamitin ang Kupon
+UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Do you want to use it now?,Mayroon kang Libreng Kupon. Gusto mo bang gamitin ito ngayon?
+UI_BEAUTY_SHOP_COUPON,Using the Free Coupon.,Ginagamit ang Libreng Kupon.
+UI_GUILD_MEMBER_TIP,#b%s#nb\nContribution: %s\nPenya Contribution: %s\nNumber of times surrendered: %d,#b%s#nb\nAmbag: %s\nPenya Ambag: %s\nBilang ng beses na sumuko: %d
+UI_REMOVE_ELEM_TITLE,Apply Attribute,Ilapat ang Katangian
+UI_REMOVE_ELEM_MSG,You can only trade or unequip the item after removing its elemental attributes. Will you remove them?,Maaari mo lamang ipagpalit o alisin ang kagamitan pagkatapos alisin ang mga elementong katangian nito. Gusto mo bang alisin ang mga ito?
+UI_HOME_LOGIN_ENTER_TIP,Enter Account ID,Ilagay ang Account ID
+UI_HOME_PASSWORD_TIP,Enter Password,Ilagay ang Password
+UI_CHAT_NORMAL_TIP,Send normal messages.,Magpadala ng normal na mensahe.
+UI_CHAT_WHISPER_TIP,Send whispering messages.,Magpadala ng bulong na mensahe.
+UI_CHAT_SHOUT_TIP,Send shouting messages.,Magpadala ng sigaw na mensahe.
+UI_CHAT_PARTY_TIP,Send messages to party members.,Magpadala ng mensahe sa mga kasapi ng party.
+UI_CHAT_GUILD_TIP,Sending messages to guild members.,Magpadala ng mensahe sa mga kasapi ng guild.
+UI_CHAT_SYSTEM_TIP,Open System Message Window,Buksan ang Bintana ng Mensahe ng Sistema
+UI_CHAT_FILTER_TIP,Filter function which allows you to filter the chatting.,FFunction ng filter na nagpapahintulot sa iyo na i-filter ang pakikipag-chat.
+UI_MESSENGER_MEMO_TIP,Able to check received messages when you are disconnected.,Maaaring suriin ang natanggap na mga mensahe kapag ikaw ay disconnected.
+UI_GUILD_WAR_DECLARE_TIP,Request a Guild Duel,Hilingin ang isang Duel ng Guild
+UI_GUILD_WAR_PEACE_TIP,Propose a truce to the senseless violence and fighting.,Magmungkahi ng tigil-putukan sa walang saysay na karahasan at labanan.
+UI_GUILDBANK_SUPPORT_TIP,Make a Contribution to your Guild.,Gumawa ng Ambag sa iyong Guild.
+UI_GUILDBANK_CLOAK_TIP,Create a Guild Cloak with the logo you selected. (Guild Level 4),Gumawa ng Guild Cloak gamit ang logo na iyong pinili. (Guild Level 4)
+UI_GUILDBANK_LOG_TIP,Open Guild Bank Log window.,Buksan ang Bintana ng Log ng Guild Bank.
+UI_APP_DEBUG_TIP,Debug Window,Bintana ng Debug
+UI_APP_INFO_PANG_TIP,Summon Info-Pang.,Tawagin si Info-Pang.
 UI_APP_FAQ_TIP,FAQ,FAQ
-UI_APP_TIPS_TIP,Tips,Tips
+UI_APP_TIPS_TIP,Tips,Mga tip
 UI_APP_HELP_TIP,Help,Tulong
-UI_APP_GUILD_TIP,Manage your Guild.,Manage your Guild.
-UI_APP_PARTY_TIP,Manage your Party.,Manage your Party.
-UI_APP_COUPLE_TIP,Manage your Couple.,Manage your Couple.
-UI_APP_MESSENGER_TIP,Manage your Friends List,Manage your Friends List
-UI_APP_ITEMDURATION_TIP,Displays the duration of Cash Shop items.,Displays the duration of Cash Shop items.
-UI_APP_CASHSHOP_TIP,Opens the Premium Item Shop.,Opens the Premium Item Shop.
-UI_APP_QUEST_TIP,Shows the Quest Diary.,Shows the Quest Diary.
-UI_APP_PRIVATESHOP_TIP,Allows you to open a Private Shop.,Allows you to open a Private Shop.
-UI_APP_SKILL_TIP,Displays the Skills Menu.,Displays the Skills Menu.
-UI_APP_INVENTORY_TIP,Opens your inventory.,Opens your inventory.
-UI_APP_CHARINFO_TIP,Shows detailed information about your character.,Shows detailed information about your character.
-UI_APP_MOTION_TIP,Use emoticons and motions to express yourself.,Use emoticons and motions to express yourself.
-UI_APP_STATUS_TIP,Character Status,Character Status
-UI_APP_CHAT_TIP,Open a chat window.,Open a chat window.
-UI_APP_QUIT_TIP,Exit Program,Exit Program
-UI_APP_SUPPORT_TIP,Open the Customer Support.,Open the Customer Support.
-UI_APP_PRIVACY_TIP,Open the privacy tab.,Open the privacy tab.
-UI_APP_LOGOUT_TIP,Logout,Logout
-UI_APP_OPTION_TIP,Option,Settings
-UI_APP_MAP_TIP,A Map of the World,A Map of the World
-UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,A mini-map to help you find your way.
-UI_APP_NOTICE_TIP,Notice,Notice
-UI_OPTION_OLD_KEYBOARD_MODE,Basic Keyboard Mode,Basic Keyboard Mode
-UI_GUILDCOMBAT_OFFER_TITLE,Apply for Guild Siege,Apply for Guild Siege
-UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION,Total Application Fee,Total Application Fee
-UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION_TIP,"Of the total application fees paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.","Of the total application fees paid by the 10 highest paying Guilds, 35% is paid to the winning Guild."
-UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION,Current Application Fee,Current Application Fee
-UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION_TIP,Select a blank space and input the application fee,Select a blank space and input the application fee
-UI_GUILDCOMBAT_OFFER_PRIZEDETAIL,Prize Details,Prize Details
-UI_GUILDCOMBAT_OFFER_PRESENT,1 Win: Dragon Cloak of the Initiate\n2 Wins Straight: Dragon Cloak of the Adept\n3 Wins Straight: Dragon Cloak of the Master\n4 Wins Straight: Dragon Cloak of the Hero,1 Win: Dragon Cloak of the Initiate\n2 Wins Straight: Dragon Cloak of the Adept\n3 Wins Straight: Dragon Cloak of the Master\n4 Wins Straight: Dragon Cloak of the Hero
-UI_GUILDCOMBAT_OFFER_CONFIRM,You have paid %d penya. Do you want to pay additional %d penya?,You have paid %d penya. Do you want to pay additional %d penya?
-UI_GUILDCOMBAT_OFFER_ACCEPT_TIP,Apply for Guild Siege.,Apply for Guild Siege.
-UI_GUILDCOMBAT_OFFER_PRESENT_TIP,"For prize details, please ask the Guild Manager, Donaris.","For prize details, please ask the Guild Manager, Donaris."
-UI_GUILDCOMBAT_STATE_TITLE,Present Guild Siege Application Requirements,Present Guild Siege Application Requirements
-UI_GUILDCOMBAT_STATE_TIMELEFT,Time Left,Time Left
-UI_GUILDCOMBAT_STATE_TIMELEFT_TIP,Time left until next Guild Siege,Time left until next Guild Siege
-UI_GUILDCOMBAT_STATE_TOTALBID,Total Bid:,Total Bid:
-UI_GUILDCOMBAT_STATE_TOTALBID_TIP,"From the combined bids paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.","From the combined bids paid by the 10 highest paying Guilds, 35% is paid to the winning Guild."
-UI_GUILDCOMBAT_STATE_BIDRANKING,Bid Ranking,Bid Ranking
-UI_GUILDCOMBAT_STATE_BIDRANKING_TIP,Your Guild cannot join a Guild Siege if your Guild Bid is ranked below 10th place. Please try again.,Your Guild cannot join a Guild Siege if your Guild Bid is ranked below 10th place. Please try again.
-UI_GUILDCOMBAT_STATE_CURRENTMINIMUM,Current Minimum Bid,Current Minimum Bid
-UI_GUILDCOMBAT_STATE_CURRENTMINIMUM_TIP,Current Guild Bid:,Current Guild Bid:
-UI_GUILDCOMBAT_STATE_APPLY,Apply,Apply
-UI_GUILDCOMBAT_STATE_APPLY_TIP,Show Guild Siege Application Menu.,Show Guild Siege Application Menu.
-UI_GUILDCOMBAT_STATE_REFRESH,Refresh,Refresh
-UI_GUILDCOMBAT_STATE_REFRESH_TIP,Review present Guild Siege Application Requirements.,Review present Guild Siege Application Requirements.
-UI_GUILDCOMBAT_STATE_LIST_TIP,The 10 Guilds that bid the highest amount of penya can join the Guild Siege.,The 10 Guilds that bid the highest amount of penya can join the Guild Siege.
-UI_GUILDCOMBAT_CANCEL_TITLE,Guild Siege - Cancel Application,Guild Siege - Cancel Application
-UI_GUILDCOMBAT_CANCEL_MSG,Do you want to withdraw from the Guild Siege?,Do you want to withdraw from the Guild Siege?
-UI_GUILDCOMBAT_SELECT_TITLE,Set Entry List for Guild Siege,Set Entry List for Guild Siege
-UI_GUILDCOMBAT_SELECT_CONNECTED,Connected Guild Members,Connected Guild Members
-UI_GUILDCOMBAT_SELECT_ENTRANT,Entrant List,Entrant List
-UI_GUILDCOMBAT_SELECT_RIGHT_TIP,Add a connected Guild Member to the entrant list.,Add a connected Guild Member to the entrant list.
-UI_GUILDCOMBAT_SELECT_LEFT_TIP,Delete a Guild Member from the entrant list.,Delete a Guild Member from the entrant list.
-UI_GUILDCOMBAT_SELECT_UP_TIP,Arrange the selected Guild member to the upper side.,Arrange the selected Guild member to the upper side.
-UI_GUILDCOMBAT_SELECT_DOWN_TIP,Arrange the selected Guild member to the lower side.,Arrange the selected Guild member to the lower side.
-UI_GUILDCOMBAT_SELECT_COMPLETE,Complete,Complete
-UI_GUILDCOMBAT_SELECT_COMPLETE_TIP,Complete the entry list.,Complete the entry list.
-UI_GUILDCOMBAT_SELECT_DEFENDER,Defender,Defender
-UI_GUILDCOMBAT_SELECT_DEFENDER_TIP,Selecting the defender,Selecting the defender
-UI_GUILDCOMBAT_SELECT_REMAKE,Remake,Remake
-UI_GUILDCOMBAT_SELECT_REMAKE_TIP,Remake the entry list.,Remake the entry list.
-UI_GUILDCOMBAT_SELECT_DEFENDER_TIP2,Opponents will get bonus point when your Guild Defender is killed.,Opponents will get bonus point when your Guild Defender is killed.
-UI_GUILDCOMBAT_SELECT_INFO,Register your team. Starting %d members (Maximum %d),Register your team. Starting %d members (Maximum %d)
-UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,5 selected members will join the Guild Siege first. Please make an entrant list.,5 selected members will join the Guild Siege first. Please make an entrant list.
-UI_GUILDCOMBAT_SELECT_REMAKE_MAKEUP,Would like to organize line up for guild siege again?,Would like to organize line up for guild siege again?
-UI_GUILDCOMBAT_TELE_TITLE,Guild Siege Introduction,Guild Siege Introduction
-UI_GUILDCOMBAT_TELE_MSG,Entrance has started. Would you like to teleport to the Guild Siege arena?,Entrance has started. Would you like to teleport to the Guild Siege arena?
-UI_GUILDCOMBAT_JOIN_TITLE,Entering Guild Siege Arena,Entering Guild Siege Arena
-UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Do you join the Guild Siege?
-UI_NETWORK_ERROR_TITLE,Network Error,Network Error
-UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","A network error happened, please check your connection and login again."
-UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,You have entered the 1st zone.
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,You have entered the 2nd zone.
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,You have entered the 3rd zone.
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,You have entered the 4th zone.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,You have entered the 5th zone.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,You have entered the 6th zone.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,You have entered the 7th zone.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,You have entered the 8th zone.
-UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Select the zone you wish to enter.
-UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seconds, you will enter zone %s."
-UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Random
-UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
-UI_GUILDCOMBAT_RATE,Current rank:,Current rank:
-UI_GUILDCOMBAT_PERSON_RATE,Individual rank:,Individual rank:
-UI_TOOLTIP_EXPBOX,#b%s's exp box#nb\nThe time left: %s,#b%s's exp box#nb\nThe time left: %s
-UI_GUILDCOMBAT_JOIN_READY,Gain entrance when one of your guild mates dies.,Gain entrance when one of your guild mates dies.
-UI_GUILDCOMBAT_JOIN_READY2,Be ready!,Be ready!
-UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] has killed [%s]%s [%s] and has gained %d points.,[%s]%s [%s] has killed [%s]%s [%s] and has gained %d points.
-UI_GUILDCOMBAT_LOG_MASTER,Guild Master,Guild Master
-UI_GUILDCOMBAT_LOG_DEFENDER,Defender,Defender
-UI_GUILDCOMBAT_RESULT_TITLE,Guild & Member Ranking,Guild & Member Ranking
-UI_GUILDCOMBAT_RESULT_GUILD,Guild Ranking,Guild Ranking
-UI_GUILDCOMBAT_RESULT_MEMBER,Member Ranking,Member Ranking
-UI_GUILDCOMBAT_RESULT_RANK,United Rank,United Rank
-UI_GUILDCOMBAT_RESULT_LOG,Battle Log,Battle Log
+UI_APP_GUILD_TIP,Manage your Guild.,Pamahalaan ang iyong Guild.
+UI_APP_PARTY_TIP,Manage your Party.,Pamahalaan ang iyong Party.
+UI_APP_COUPLE_TIP,Manage your Couple.,Pamahalaan ang iyong Couple.
+UI_APP_MESSENGER_TIP,Manage your Friends List,Pamahalaan ang iyong Listahan ng Mga Kaibigan
+UI_APP_ITEMDURATION_TIP,Displays the duration of Cash Shop items.,Ipinapakita ang tagal ng mga item sa Cash Shop.
+UI_APP_CASHSHOP_TIP,Opens the Premium Item Shop.,Bubuksan ang Premium Item Shop.
+UI_APP_QUEST_TIP,Shows the Quest Diary.,Ipinapakita ang Quest Diary.
+UI_APP_PRIVATESHOP_TIP,Allows you to open a Private Shop.,Pinapayagan kang magbukas ng Private Shop.
+UI_APP_SKILL_TIP,Displays the Skills Menu.,Ipinapakita ang Menu ng Kasanayan.
+UI_APP_INVENTORY_TIP,Opens your inventory.,Bubuksan ang iyong imbentaryo.
+UI_APP_CHARINFO_TIP,Shows detailed information about your character.,Ipinapakita ang detalyadong impormasyon tungkol sa iyong karakter.
+UI_APP_MOTION_TIP,Use emoticons and motions to express yourself.,Gumamit ng mga emoticon at galaw upang ipahayag ang iyong sarili.
+UI_APP_STATUS_TIP,Character Status,Katayuan ng Karakter
+UI_APP_CHAT_TIP,Open a chat window.,Buksan ang bintana ng chat.
+UI_APP_QUIT_TIP,Exit Program,Lumabas sa Programa
+UI_APP_SUPPORT_TIP,Open the Customer Support.,Buksan ang Suporta sa Customer.
+UI_APP_PRIVACY_TIP,Open the privacy tab.,Buksan ang tab ng privacy.
+UI_APP_LOGOUT_TIP,Logout,Mag-logout
+UI_APP_OPTION_TIP,Option,Mga Setting
+UI_APP_MAP_TIP,A Map of the World,Mapa ng Mundo
+UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,Isang mini-mapa upang matulungan kang mahanap ang iyong daan.
+UI_APP_NOTICE_TIP,Notice,Abiso
+UI_OPTION_OLD_KEYBOARD_MODE,Basic Keyboard Mode,Pangunahing Mode ng Keyboard
+UI_GUILDCOMBAT_OFFER_TITLE,Apply for Guild Siege,Mag-apply para sa Guild Siege
+UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION,Total Application Fee,Kabuuang Bayad sa Aplikasyon
+UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION_TIP,"Of the total application fees paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.","Mula sa kabuuang bayad sa aplikasyon na binayaran ng 10 pinakamataas na nagbabayad na Guild, 35% ay ibinabayad sa nagwaging Guild."
+UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION,Current Application Fee,Kasalukuyang Bayad sa Aplikasyon
+UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION_TIP,Select a blank space and input the application fee,Piliin ang isang blangkong espasyo at ilagay ang bayad sa aplikasyon
+UI_GUILDCOMBAT_OFFER_PRIZEDETAIL,Prize Details,Detalye ng Premyo
+UI_GUILDCOMBAT_OFFER_PRESENT,1 Win: Dragon Cloak of the Initiate\n2 Wins Straight: Dragon Cloak of the Adept\n3 Wins Straight: Dragon Cloak of the Master\n4 Wins Straight: Dragon Cloak of the Hero,1 Panalo: Dragon Cloak ng Initiate\n2 Panalo sunod-sunod: Dragon Cloak ng Adept\n3 Panalo sunod-sunod: Dragon Cloak ng Master\n4 Panalo sunod-sunod: Dragon Cloak ng Hero
+UI_GUILDCOMBAT_OFFER_CONFIRM,You have paid %d penya. Do you want to pay additional %d penya?,Nagbayad ka na ng %d penya. Gusto mo bang magbayad ng karagdagang %d penya?
+UI_GUILDCOMBAT_OFFER_ACCEPT_TIP,Apply for Guild Siege.,Mag-apply para sa Guild Siege.
+UI_GUILDCOMBAT_OFFER_PRESENT_TIP,"For prize details, please ask the Guild Manager, Donaris.","Para sa detalye ng premyo, pakitatanong sa Guild Manager, Donaris."
+UI_GUILDCOMBAT_STATE_TITLE,Present Guild Siege Application Requirements,Mga Kasalukuyang Kinakailangan sa Aplikasyon para sa Pagkubkob ng Guild
+UI_GUILDCOMBAT_STATE_TIMELEFT,Time Left,Oras na Natitira
+UI_GUILDCOMBAT_STATE_TIMELEFT_TIP,Time left until next Guild Siege,Oras na natitira hanggang sa susunod na Pagkubkob ng Guild
+UI_GUILDCOMBAT_STATE_TOTALBID,Total Bid:,Kabuuang Alok:
+UI_GUILDCOMBAT_STATE_TOTALBID_TIP,"From the combined bids paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.","Mula sa pinagsamang alok na binayaran ng 10 pinakamataas na nagbabayad na Guild, 35% ay ibinabayad sa nagwaging Guild."
+UI_GUILDCOMBAT_STATE_BIDRANKING,Bid Ranking,Ranggo ng Alok
+UI_GUILDCOMBAT_STATE_BIDRANKING_TIP,Your Guild cannot join a Guild Siege if your Guild Bid is ranked below 10th place. Please try again.,Hindi maaaring sumali ang inyong Guild sa pagsalakay ng Guild kung ang inyong alok para sa Guild ay nasa ika-10 puwesto pababa. Mangyaring subukan muli.
+UI_GUILDCOMBAT_STATE_CURRENTMINIMUM,Current Minimum Bid,Kasalukuyang Minimum na Alok
+UI_GUILDCOMBAT_STATE_CURRENTMINIMUM_TIP,Current Guild Bid:,Kasalukuyang Alok ng Guild:
+UI_GUILDCOMBAT_STATE_APPLY,Apply,Mag-apply
+UI_GUILDCOMBAT_STATE_APPLY_TIP,Show Guild Siege Application Menu.,Ipakita ang Menu ng Aplikasyon para sa Pagkubkob ng Guild.
+UI_GUILDCOMBAT_STATE_REFRESH,Refresh,Mag-refresh
+UI_GUILDCOMBAT_STATE_REFRESH_TIP,Review present Guild Siege Application Requirements.,Suriin ang kasalukuyang mga kinakailangan sa aplikasyon para sa Pagkubkob ng Guild.
+UI_GUILDCOMBAT_STATE_LIST_TIP,The 10 Guilds that bid the highest amount of penya can join the Guild Siege.,Ang 10 Guild na nag-alok ng pinakamataas na halaga ng penya ay maaaring sumali sa Pagkubkob ng Guild.
+UI_GUILDCOMBAT_CANCEL_TITLE,Guild Siege - Cancel Application,Guild Siege - Kanselahin ang Aplikasyon
+UI_GUILDCOMBAT_CANCEL_MSG,Do you want to withdraw from the Guild Siege?,Gusto mo bang umatras mula sa Pagkubkob ng Guild?
+UI_GUILDCOMBAT_SELECT_TITLE,Set Entry List for Guild Siege,Itakda ang Listahan ng Pagpasok para sa Pagkubkob ng Guild
+UI_GUILDCOMBAT_SELECT_CONNECTED,Connected Guild Members,Mga Konektadong Miyembro ng Guild
+UI_GUILDCOMBAT_SELECT_ENTRANT,Entrant List,Mga Miyembro ng Listahan ng Pagpasok
+UI_GUILDCOMBAT_SELECT_RIGHT_TIP,Add a connected Guild Member to the entrant list.,Magdagdag ng konektadong Miyembro ng Guild sa listahan ng pagpasok.
+UI_GUILDCOMBAT_SELECT_LEFT_TIP,Delete a Guild Member from the entrant list.,Tanggalin ang isang Miyembro ng Guild mula sa listahan ng pagpasok.
+UI_GUILDCOMBAT_SELECT_UP_TIP,Arrange the selected Guild member to the upper side.,Ayusin ang napiling Miyembro ng Guild sa itaas na bahagi.
+UI_GUILDCOMBAT_SELECT_DOWN_TIP,Arrange the selected Guild member to the lower side.,Ayusin ang napiling Miyembro ng Guild sa ibabang bahagi.
+UI_GUILDCOMBAT_SELECT_COMPLETE,Complete,Kompleto
+UI_GUILDCOMBAT_SELECT_COMPLETE_TIP,Complete the entry list.,Kumpletohin ang listahan ng mga kalahok.
+UI_GUILDCOMBAT_SELECT_DEFENDER,Defender,Tagapagtanggol
+UI_GUILDCOMBAT_SELECT_DEFENDER_TIP,Selecting the defender,Pumipili ng tagapagtanggol
+UI_GUILDCOMBAT_SELECT_REMAKE,Remake,Muling paglikha
+UI_GUILDCOMBAT_SELECT_REMAKE_TIP,Remake the entry list.,Gawing muli ang listahan ng mga papasok.
+UI_GUILDCOMBAT_SELECT_DEFENDER_TIP2,Opponents will get bonus point when your Guild Defender is killed.,Makakakuha ng bonus na puntos ang mga kalaban kapag napatay ang iyong Tagapagtanggol ng Guild.
+UI_GUILDCOMBAT_SELECT_INFO,Register your team. Starting %d members (Maximum %d),Irehistro ang iyong koponan. Nagsisimula %d mga miyembro (Pinakamataas %d)
+UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,5 selected members will join the Guild Siege first. Please make an entrant list.,5 napiling miyembro ang unang sasali sa Guild Siege. Mangyaring gumawa ng listahan ng mga kalahok.
+UI_GUILDCOMBAT_SELECT_REMAKE_MAKEUP,Would like to organize line up for guild siege again?,Gusto mo bang ayusin muli ang linya para sa guild siege?
+UI_GUILDCOMBAT_TELE_TITLE,Guild Siege Introduction,Panimula sa Guild Siege
+UI_GUILDCOMBAT_TELE_MSG,Entrance has started. Would you like to teleport to the Guild Siege arena?,Nagsimula na ang pagpasok. Gusto mo bang mag-teleport sa Guild Siege arena?
+UI_GUILDCOMBAT_JOIN_TITLE,Entering Guild Siege Arena,Papasok sa Guild Siege Arena
+UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Sasali ka ba sa Guild Siege?
+UI_NETWORK_ERROR_TITLE,Network Error,Error sa Network
+UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","Nagkaroon ng error sa network, pakisuri ang iyong koneksyon at mag-login muli."
+UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Lokasyon ng Muling Pagkabuhay
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Pumasok ka sa unang sona.
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,Pumasok ka sa ikalawang sona.
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,Pumasok ka sa ikatlong sona.
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Pumasok ka sa ikaapat na sona.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,Pumasok ka sa ikalimang sona.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,Pumasok ka sa ikaanim na sona.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,Pumasok ka sa ikapitong sona.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,Pumasok ka sa ikawalong sona.
+UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Piliin ang sona na nais mong pasukin.
+UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","Sa loob ng %d segundo, papasok ka sa sona %s."
+UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Panghula
+UI_CHAT_ADMIN,[Admin] %s,[Tagapangasiwa] %s
+UI_GUILDCOMBAT_RATE,Current rank:,Kasalukuyang ranggo:
+UI_GUILDCOMBAT_PERSON_RATE,Individual rank:,Indibidwal na ranggo:
+UI_TOOLTIP_EXPBOX,#b%s's exp box#nb\nThe time left: %s,#b%s's exp box#nb\nAng natitirang oras: %s
+UI_GUILDCOMBAT_JOIN_READY,Gain entrance when one of your guild mates dies.,Makakuha ng pagpasok kapag ang isa sa iyong mga kasamahan sa guild ay namatay.
+UI_GUILDCOMBAT_JOIN_READY2,Be ready!,Maging handa!
+UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] has killed [%s]%s [%s] and has gained %d points.,[%s]%s [%s] ay pumatay ng [%s]%s [%s] at nakakuha ng %d puntos.
+UI_GUILDCOMBAT_LOG_MASTER,Guild Master,Pinuno ng Guild
+UI_GUILDCOMBAT_LOG_DEFENDER,Defender,Tagapagtanggol
+UI_GUILDCOMBAT_RESULT_TITLE,Guild & Member Ranking,Ranggo ng Guild at Miyembro
+UI_GUILDCOMBAT_RESULT_GUILD,Guild Ranking,Ranggo ng Guild
+UI_GUILDCOMBAT_RESULT_MEMBER,Member Ranking,Ranggo ng Miyembro
+UI_GUILDCOMBAT_RESULT_RANK,United Rank,Pagsasamang Ranggo
+UI_GUILDCOMBAT_RESULT_LOG,Battle Log,Talaan ng Labanan
 UI_GUILDCOMBAT_LOG_GUILD,[%s],[%s]
-UI_GUILDCOMBAT_LOG1,Basic Point +2,Basic Point +2
-UI_GUILDCOMBAT_LOG2,Guild Master Bonus +1,Guild Master Bonus +1
-UI_GUILDCOMBAT_LOG3,Defender Bonus +1,Defender Bonus +1
-UI_GUILDCOMBAT_LOG4,Kill bonus +1,Kill bonus +1
-UI_GUILDCOMBAT_LOG5,Resurrecting Bonus +1,Resurrecting Bonus +1
-UI_GUILDCOMBAT_LOG6,Killing streak Bonus +%d,Killing streak Bonus +%d
-UI_GUILDCOMBAT_LOG_POINT,(%d grade),(%d grade)
+UI_GUILDCOMBAT_LOG1,Basic Point +2,Pangunahing punto +2
+UI_GUILDCOMBAT_LOG2,Guild Master Bonus +1,Bonus ng Punong-Guild +1
+UI_GUILDCOMBAT_LOG3,Defender Bonus +1,Bonus ng Tagapagtanggol +1
+UI_GUILDCOMBAT_LOG4,Kill bonus +1,Bonus sa Pagpatay +1
+UI_GUILDCOMBAT_LOG5,Resurrecting Bonus +1,Bonus sa Muling Pagkabuhay +1
+UI_GUILDCOMBAT_LOG6,Killing streak Bonus +%d,Bonus sa Sunod-sunod na Pagpatay +%d
+UI_GUILDCOMBAT_LOG_POINT,(%d grade),(%d Antas)
 UI_GUILDCOMBAT_LOG_ATTACK,Attack,Atake
-UI_GUILDBANK_GUILDCOMBAT_CLOAK_TIP,Creating Dragon Cloak (The condition: For the guild which wins the guild war).,Creating Dragon Cloak (The condition: For the guild which wins the guild war).
-UI_GUILDBANK_GUILDCOMBAT_CREATE_CLOAK,"It takes 10,000 penya to create a Dragon Cloak. Would you like to create it?","It takes 10,000 penya to create a Dragon Cloak. Would you like to create it?"
-UI_GUILDCOMBAT_RANKING_TITLE,Guild Member Ranking,Guild Member Ranking
-UI_GUILDCOMBAT_RANKING_RANK,Rank,Rank
-UI_GUILDCOMBAT_RANKING_POINT,Grade,Grade
+UI_GUILDBANK_GUILDCOMBAT_CLOAK_TIP,Creating Dragon Cloak (The condition: For the guild which wins the guild war).,Paglikha ng Balabal ng Dragon (Ang kondisyon: Para sa guild na mananalo sa digmaan ng mga guild)
+UI_GUILDBANK_GUILDCOMBAT_CREATE_CLOAK,"It takes 10,000 penya to create a Dragon Cloak. Would you like to create it?","Kailangan ng 10,000 penya upang lumikha ng Balabal ng Dragon. Gusto mo bang likhain ito?"
+UI_GUILDCOMBAT_RANKING_TITLE,Guild Member Ranking,Ranggo ng Miyembro ng Guild
+UI_GUILDCOMBAT_RANKING_RANK,Rank,Ranggo
+UI_GUILDCOMBAT_RANKING_POINT,Grade,Antas
 UI_WORLD_DEVICEMOTION_TIP,Motion,Mosyon
 UI_WORLD_TURBO_TIP,Fuel,Fuel
-UI_NAVIGATOR_SHIP,Ship,Ship
-UI_OPTION_TOON_STYLE,Outline,Outline
-UI_OPTION_RIM_OUTLINE,Rim Outlines,Rim Outlines
-UI_APP_WIKI_TIP,Get help from Wiki,Get help from Wiki
-UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,I challenge you to a game of Rock-Paper-Scissors!
+UI_NAVIGATOR_SHIP,Ship,Barko
+UI_OPTION_TOON_STYLE,Outline,Bangkas
+UI_OPTION_RIM_OUTLINE,Rim Outlines,Mga Kontur ng Gilid
+UI_APP_WIKI_TIP,Get help from Wiki,Kumuha ng tulong mula sa Wiki
+UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,Hinahamon kita sa isang laro ng Bato-Papel-Gunting!
 UI_ROSHAMBO_TITLE,Rock-Paper-Scissors,Bato-bato-pete
 UI_ROSHAMBO_VS,VS,VS
-UI_ROSHAMBO_SCISSOR,Scissors,Scissors
-UI_ROSHAMBO_ROCK,Rock,Rock
-UI_ROSHAMBO_PAPER,Paper,Paper
-UI_ROSHAMBO_WINNINGCOUNT,%d win(s),%d win(s)
-UI_ROSHAMBO_DEFEAT,You Lose!,You Lose!
-UI_ROSHAMBO_WIN_TITLE,You Win!,You Win!
-UI_ROSHAMBO_WIN_END,End,End
+UI_ROSHAMBO_SCISSOR,Scissors,Gunting
+UI_ROSHAMBO_ROCK,Rock,Bato
+UI_ROSHAMBO_PAPER,Paper,Papel
+UI_ROSHAMBO_WINNINGCOUNT,%d win(s),%d panalo
+UI_ROSHAMBO_DEFEAT,You Lose!,Natalo ka!
+UI_ROSHAMBO_WIN_TITLE,You Win!,Nanalo ka!
+UI_ROSHAMBO_WIN_END,End,Wakas
 UI_ROSHAMBO_WIN_NEXT,Next,Susunod
-UI_ROSHAMBO_WIN_MSG,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -
-UI_ROSHAMBO_WIN_MSG2,Please Note: You will not receive your current prize if you choose to continue playing.,Please Note: You will not receive your current prize if you choose to continue playing.
-UI_ROSHAMBO_WIN_MSG3,"Congratulations, you won %d time(s)! You receive %s x%d.","Congratulations, you won %d time(s)! You receive %s x%d."
-UI_EXCHANGE_COUNT_TITLE,Input item quantity,Input item quantity
-UI_EXCHANGE_COUNT_MSG,How many?,How many?
-UI_EXCHANGE_COUNT_LABEL,Number:,Number:
-UI_TOOLTIP_PET_REAR,[Raised Pet],[Raised Pet]
-UI_TOOLTIP_PET_PICKUP,[Pick-Up Pet],[Pick-Up Pet]
-UI_PET_GRADE_0,Egg,Egg
-UI_PET_GRADE_1,F Tier,F Tier
-UI_PET_GRADE_2,E Tier,E Tier
-UI_PET_GRADE_3,D Tier,D Tier
-UI_PET_GRADE_4,C Tier,C Tier
-UI_PET_GRADE_5,B Tier,B Tier
-UI_PET_GRADE_6,A Tier,A Tier
-UI_PET_GRADE_7,S Tier,S Tier
+UI_ROSHAMBO_WIN_MSG,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -,Pindutin ang END kung nais mong kunin ang iyong kasalukuyang premyo at itigil ang paglalaro - o pindutin ang NEXT para magpatuloy sa paglalaro at manalo pa ng mas maraming premyo. -
+UI_ROSHAMBO_WIN_MSG2,Please Note: You will not receive your current prize if you choose to continue playing.,Paalala: Hindi mo matatanggap ang iyong kasalukuyang premyo kung pipiliin mong magpatuloy sa paglalaro.
+UI_ROSHAMBO_WIN_MSG3,"Congratulations, you won %d time(s)! You receive %s x%d.","Binabati kita, nanalo ka ng %d beses! Natanggap mo ang %s x%d."
+UI_EXCHANGE_COUNT_TITLE,Input item quantity,Ipasok ang dami ng item
+UI_EXCHANGE_COUNT_MSG,How many?,Ilan?
+UI_EXCHANGE_COUNT_LABEL,Number:,Bilang:
+UI_TOOLTIP_PET_REAR,[Raised Pet],[Pinagyatas na Alagang Hayop]
+UI_TOOLTIP_PET_PICKUP,[Pick-Up Pet],[Pumupulot na Alagang Hayop]
+UI_PET_GRADE_0,Egg,Itlog
+UI_PET_GRADE_1,F Tier,F Antas
+UI_PET_GRADE_2,E Tier,E Antas
+UI_PET_GRADE_3,D Tier,D Antas
+UI_PET_GRADE_4,C Tier,C Antas
+UI_PET_GRADE_5,B Tier,B Antas
+UI_PET_GRADE_6,A Tier,A Antas
+UI_PET_GRADE_7,S Tier,S Antas
 UI_PET_EXP_MAX,Exp: 99.99%,Exp: 99.99%
 UI_PET_EXP,Exp: %.2f%%,Exp: %.2f%%
 UI_TOOLTIP_ABILITY,Bonus,Bonus
-UI_PET_HP,Energy: %d / %d,Energy: %d / %d
+UI_PET_HP,Energy: %d / %d,Enerhiya: %d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
-UI_PET_DEAD,(DEAD),(DEAD)
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled tier:
-UI_TARGET_CLEAR,Clear the target,Clear the target
+UI_PET_DEAD,(DEAD),(PATAY)
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled na antas:
+UI_TARGET_CLEAR,Clear the target,Alisin ang target
 UI_OPTION_TAB_UI,Interface,Interface
-UI_OPTION_AUTO_ATTACK,Auto Attack,Auto Attack
-UI_OPTION_FIXED_CAMERA,Fixed Camera,Fixed Camera
-UI_OPTION_OTHER_DAMAGES,Display all damage,Display all damage
-UI_OPTION_HIDE_OTHER_PLAYERS,Hide other Players,Hide other Players
+UI_OPTION_AUTO_ATTACK,Auto Attack,Awtomatikong Atake
+UI_OPTION_FIXED_CAMERA,Fixed Camera,Nakapirming Kamera
+UI_OPTION_OTHER_DAMAGES,Display all damage,Ipakita ang lahat ng pinsala
+UI_OPTION_HIDE_OTHER_PLAYERS,Hide other Players,Itago ang ibang manlalaro
 UI_OPTION_TRANSPARENT_CHAT,Transparent chat,Transparent chat
-UI_OPTION_RIGHT_CLICK_MENU,Right Click Player Menu,Right Click Player Menu
-UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges,MP & FP Gauges
-UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.,Enables FP & MP gauges above the player.
-UI_OPTION_SELECT_PETS,Select Pets,Select Pets
-UI_FACE_SHOP_TITLE,Plastic Surgery,Plastic Surgery
-UI_FACE_SHOP_BASE_FACE,Friendly Face,Friendly Face
-UI_FACE_SHOP_NEW_FACE,New Face,New Face
-UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,Spell Range: %d
-UI_TOOLTIP_COMBO_TYPE,Combo: %s,Combo: %s
-UI_TOOLTIP_COMBO_STEP,Step,Step
-UI_TOOLTIP_COMBO_CIRCLE,Circle,Circle
-UI_TOOLTIP_COMBO_FINISH,Finish,Finish
-UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Base Damage: %d ~ %d
-UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Attack Scaling
-UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Heal Scaling
-UI_TOOLTIP_SCALE_TIME,Time Scaling,Time Scaling
-UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Dec. Charging Time Scaling
-UI_TOOLTIP_SCALE_PARAM,Scaling,Scaling
-UI_TOOLTIP_SCALE_PARAM_PER,per,per
-UI_TOOLTIP_SCALE_PARAM_MAX,max,max
+UI_OPTION_RIGHT_CLICK_MENU,Right Click Player Menu,Pinduting ang Player Pakanan
+UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges,Sukatan ng MP & FP
+UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.,Pinapagana ang FP & MP gauges sa itaas ng manlalaro.
+UI_OPTION_SELECT_PETS,Select Pets,Pumili ng Alagang Hayop
+UI_FACE_SHOP_TITLE,Plastic Surgery,Operasyong Plastik
+UI_FACE_SHOP_BASE_FACE,Friendly Face,Palakaibigang Mukha
+UI_FACE_SHOP_NEW_FACE,New Face,Bagong Mukha
+UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,Range ng Spell: %d
+UI_TOOLTIP_COMBO_TYPE,Combo: %s,Kombinasyon: %s
+UI_TOOLTIP_COMBO_STEP,Step,Hakbang
+UI_TOOLTIP_COMBO_CIRCLE,Circle,Bilog
+UI_TOOLTIP_COMBO_FINISH,Finish,Tapos
+UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Pangunahing Pinsala: %d ~ %d
+UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Pagsusukat ng Atake
+UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Pagsusukat ng Pagpapagaling
+UI_TOOLTIP_SCALE_TIME,Time Scaling,Pagsusukat ng Oras
+UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Pagsusukat ng Pagbaba ng Oras ng Pagcha-charge
+UI_TOOLTIP_SCALE_PARAM,Scaling,Pagsusukat
+UI_TOOLTIP_SCALE_PARAM_PER,per,bawat
+UI_TOOLTIP_SCALE_PARAM_MAX,max,pinakamalaki
 UI_TOOLTIP_PVP,PVP,PVP
 UI_TOOLTIP_PVE,PVE,PVE
-UI_TOOLTIP_AROUND,Around,Around
-UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Base Heal: %d
-UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
-UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
-UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP & Giants)
-UI_TOOLTIP_PROBABILITY,Probability: %d%%,Probability: %d%%
-UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP & Giants)
-UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Knockdown Probability: %d%%
+UI_TOOLTIP_AROUND,Around,Mga paligid
+UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Pangunahing Pagpapagaling: %d
+UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Pangunahing MP Pagpapagaling: %d
+UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Pangunahing FP Pagpapagaling: %d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Pangunahing Oras: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP & Higante)
+UI_TOOLTIP_PROBABILITY,Probability: %d%%,Posibilidad: %d%%
+UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP & Higante)
+UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Posibilidad ng Knockdown: %d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Cooldown: %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PVP),/ %.2d:%.2d (PVP)
 UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PVP),Cooldown: %.2d:%.2d (PVP)
-UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
-UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Casting Time: %.2d:%.2d
-UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Charging Time: %.2d:%.2d
-UI_NEWCHAR_FACE,Face,Face
-UI_NEWCHAR_HAIR,Hair,Hair
-UI_NEWCHAR_HAIR_COLOR,Hair Color,Hair Color
-UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press the Scroll Lock Key to toggle.,%dX Zoom. Press the Scroll Lock Key to toggle.
-UI_KEYBIND_CHAR_CONTROL,Movement Keys,Movement Keys
-UI_KEYBIND_MOVE_FORWARD,Move Forward,Move Forward
-UI_KEYBIND_MOVE_BACKWARD,Move Backward,Move Backward
-UI_KEYBIND_TURN_LEFT,Turn Left,Turn Left
-UI_KEYBIND_TURN_RIGHT,Turn Right,Turn Right
+UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(Pagkatapos ng Pag-expire)
+UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Oras ng Pag-cast: %.2d:%.2d
+UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Oras ng Pagcha-charge: %.2d:%.2d
+UI_NEWCHAR_FACE,Face,Mukha
+UI_NEWCHAR_HAIR,Hair,Buhok
+UI_NEWCHAR_HAIR_COLOR,Hair Color,Kulay ng Buhok
+UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press the Scroll Lock Key to toggle.,%dX Zoom. Pindutin ang Scroll Lock Key upang i-toggle.
+UI_KEYBIND_CHAR_CONTROL,Movement Keys,Mga pindutan ng Paggalaw
+UI_KEYBIND_MOVE_FORWARD,Move Forward,Sumulong
+UI_KEYBIND_MOVE_BACKWARD,Move Backward,Umatras
+UI_KEYBIND_TURN_LEFT,Turn Left,Liko Pakaliwa
+UI_KEYBIND_TURN_RIGHT,Turn Right,Liko Pakanan
 UI_KEYBIND_JUMP,Jump,Talon
-UI_KEYBIND_WALK,Toggle Run/Walk,Toggle Run/Walk
-UI_KEYBIND_SKILL_COMBO,Action Slot,Action Slot
-UI_KEYBIND_CLEAR_TARGET,Clear Target,Clear Target
-UI_KEYBIND_TRACE_TARGET,Follow Target,Follow Target
-UI_KEYBIND_SELECT_TARGET,Select PVP Target,Select PVP Target
-UI_KEYBIND_APPLETS,Windows,Windows
-UI_KEYBIND_CAMERA,Camera Control,Camera Control
-UI_KEYBIND_CAMERA_LEFT,Rotate Left,Rotate Left
-UI_KEYBIND_CAMERA_RIGHT,Rotate Right,Rotate Right
-UI_KEYBIND_CAMERA_UP,Rotate Up,Rotate Up
-UI_KEYBIND_CAMERA_DOWN,Rotate Down,Rotate Down
-UI_KEYBIND_ZOOM_IN,Zoom In,Zoom In
-UI_KEYBIND_ZOOM_OUT,Zoom Out,Zoom Out
-UI_KEYBIND_ZOOM_LEVEL,Toggle Zoom,Toggle Zoom
-UI_KEYBIND_TASKBAR,Taskbar Functions,Taskbar Functions
-UI_KEYBIND_TASKBAR_N,Taskbar %d,Taskbar %d
-UI_KEYBIND_TASKBAR_SLOT,Taskbar Slot %d,Taskbar Slot %d
-UI_KEYBIND_TASKBAR2_SLOT,2nd Bar Slot %d,2nd Bar Slot %d
-UI_KEYBIND_TASKBAR3_SLOT,3rd Bar Slot %d,3rd Bar Slot %d
-UI_KEYBIND_TASKBAR2,Additional Taskbars,Additional Taskbars
-UI_KEYBIND_FULLSCREEN,Toggle Fullscreen,Toggle Fullscreen
-UI_KEYBIND_MAIN_MENU,Main Menu,Main Menu
-UI_KEYBIND_TOGGLE_UI,Hide/Show UI,Hide/Show UI
-UI_KEYBIND_TOGGLE_SCREENSHOT,Screenshot Mode,Screenshot Mode
-UI_KEYBIND_GAME,Game Functions,Game Functions
-UI_KEYBIND_NONE,Not Bound,Not Bound
-UI_KEYBIND_UNBIND,Unbind the key,Unbind the key
-UI_KEYBIND_TITLE,Keys,Keys
-UI_KEYBIND_RESET,Reset,Reset
-UI_UPGRADECARD_TITLE,Socket Card Upgrade,Socket Card Upgrade
-UI_UPGRADECARD_REGISTER,Register material card.,Register material card.
-UI_UPGRADECARD_INFO,Fuse 10 material cards to receive 1 higher-grade card.,Fuse 10 material cards to receive 1 higher-grade card.
-UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
-UI_RESHUFFLECARD_REGISTER,Register weapon material card.,Register weapon material card.
-UI_RESHUFFLECARD_INFO,Fuse 3 weapon material cards to receive 1 same grade card.,Fuse 3 weapon material cards to receive 1 same grade card.
-UI_RESHUFFLECARD_CONFIRM,"If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?","If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?"
-UI_CONVERTSOULLINK_TITLE,Convert soul link,Convert soul link
-UI_CONVERTSOULLINK_INFO,You can convert the item a soul-linked type.,You can convert the item a soul-linked type.
-UI_CONVERTSOULLINK_CONFIRM,The converted item cannot be returned.\nDo you want to continue?,The converted item cannot be returned.\nDo you want to continue?
-UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,This item cannot be converted.
-UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?
+UI_KEYBIND_WALK,Toggle Run/Walk,Isalin ang Tumakbo/Maglakad
+UI_KEYBIND_SKILL_COMBO,Action Slot,Slot ng Aksyon
+UI_KEYBIND_CLEAR_TARGET,Clear Target,Alisin ang Target
+UI_KEYBIND_TRACE_TARGET,Follow Target,Sundan ang Target
+UI_KEYBIND_SELECT_TARGET,Select PVP Target,Piliin ang PVP Target
+UI_KEYBIND_APPLETS,Windows,Mga Bintana
+UI_KEYBIND_CAMERA,Camera Control,Kontrol ng Kamera
+UI_KEYBIND_CAMERA_LEFT,Rotate Left,Ikutin Pakaliwa
+UI_KEYBIND_CAMERA_RIGHT,Rotate Right,Ikutin Pakanan
+UI_KEYBIND_CAMERA_UP,Rotate Up,Ikutin Pataas
+UI_KEYBIND_CAMERA_DOWN,Rotate Down,Ikutin Pababa
+UI_KEYBIND_ZOOM_IN,Zoom In,Palaparin
+UI_KEYBIND_ZOOM_OUT,Zoom Out,Palihisin
+UI_KEYBIND_ZOOM_LEVEL,Toggle Zoom,Isalin ang zoom
+UI_KEYBIND_TASKBAR,Taskbar Functions,Mga Gawain sa Taskbar
+UI_KEYBIND_TASKBAR_N,Taskbar %d,Bar ng gawain %d
+UI_KEYBIND_TASKBAR_SLOT,Taskbar Slot %d,Slot ng Bar ng Gawain %d
+UI_KEYBIND_TASKBAR2_SLOT,2nd Bar Slot %d,2nd Slot ng Bar ng Gawain %d
+UI_KEYBIND_TASKBAR3_SLOT,3rd Bar Slot %d,3rd Slot ng Bar ng Gawain %d
+UI_KEYBIND_TASKBAR2,Additional Taskbars,Karagdagang Taskbars
+UI_KEYBIND_FULLSCREEN,Toggle Fullscreen,I-toggle ang buong-screen
+UI_KEYBIND_MAIN_MENU,Main Menu,Pangunahing Menu
+UI_KEYBIND_TOGGLE_UI,Hide/Show UI,Itago/Ipakita ang UI
+UI_KEYBIND_TOGGLE_SCREENSHOT,Screenshot Mode,Modo ng Pagkuha ng Larawan ng Screen
+UI_KEYBIND_GAME,Game Functions,Mga Gawain sa Laro
+UI_KEYBIND_NONE,Not Bound,Hindi Nakatalaga
+UI_KEYBIND_UNBIND,Unbind the key,Alisin ang pagtatalaga ng pindutan
+UI_KEYBIND_TITLE,Keys,Mga Pindutan
+UI_KEYBIND_RESET,Reset,I-reset
+UI_UPGRADECARD_TITLE,Socket Card Upgrade,Pag-upgrade ng Socket Card
+UI_UPGRADECARD_REGISTER,Register material card.,Irehistro ang materyal na card.
+UI_UPGRADECARD_INFO,Fuse 10 material cards to receive 1 higher-grade card.,Pagsamahin ang 10 materyal na card upang makakuha ng 1 mas mataas na grado na card.
+UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reshuffle,Pag-resuffle ng Weapon Socket Card
+UI_RESHUFFLECARD_REGISTER,Register weapon material card.,Irehistro ang materyal na card ng sandata.
+UI_RESHUFFLECARD_INFO,Fuse 3 weapon material cards to receive 1 same grade card.,Pagsamahin ang 3 materyal na card ng sandata upang makakuha ng 1 card na may parehong grado.
+UI_RESHUFFLECARD_CONFIRM,"If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?","Kung i-resuffle mo ang mga card, ang mga card na ginamit bilang materyales ay mawawala.\nGusto mo bang magpatuloy?"
+UI_CONVERTSOULLINK_TITLE,Convert soul link,I-convert ang soul link
+UI_CONVERTSOULLINK_INFO,You can convert the item a soul-linked type.,Maaari mong i-convert ang item sa isang soul-linked na uri.
+UI_CONVERTSOULLINK_CONFIRM,The converted item cannot be returned.\nDo you want to continue?,Ang na-convert na item ay hindi na maibabalik.\nGusto mo bang magpatuloy?
+UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,Ang item na ito ay hindi maaaring i-convert.
+UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,Ang scroll ay permanenteng magpapataas ng bilang ng mga miyembro na maaari mong magkaroon sa isang guild ng 5. Kung sumali ka sa ibang guild - wala itong epekto sa bagong guild. Kumpirma mo ba ang paggamit?
 UI_GUILD_TOOLTIP_EXP,Exp:,Exp:
 UI_GUILD_TOOLTIP_GOLD,Penya:,Penya:
 UI_GUILD_TOOLTIP_LEVEL,#bNext level %d#nb,#bNext level %d#nb

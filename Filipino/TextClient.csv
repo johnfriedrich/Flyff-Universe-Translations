@@ -658,7 +658,7 @@ TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defea
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.
 TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,You have entered the Guild Siege combat area!
 TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,Combat will begin after the Preparation Phase. Prepare for battle!
-TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Start Combat
+TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Simulan ang labanan
 TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,The Guild Master has gained %d points!
 TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,Your guild has gained %d points!
 TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,Your defender is dead! %s guild has gained an extra point!
